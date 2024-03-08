@@ -1,0 +1,501 @@
+ID,Annual income ($),Average current balance ($),Bankcards at >75% limit (%),Bankruptcies,Delinquent accounts,Delinquent accounts total debt ($),Derogatory records,FICO score (high),FICO score (low),Home ownership,Job title,Length of employment (years),Loan amount ($),Loan grade,Loan interest rate (%),Loan term,Loan intent,Months since last delinquency,Mortgage accounts,Open credit lines,Ratio of debt payments to income,Satisfactory accounts,Tax liens,Total credit limit ($),Total credit lines,Total current balance ($)
+L001,55000,20701,0,0,0,0,0,679,675,Mortgage,leadman,10,3600,C,13.99,36 months,Debt consolidation,30,1,7,5.91,7,0,178050,13,144904
+L002,65000,9733,7.7,0,0,0,0,719,715,Mortgage,Engineer,10,24700,C,11.99,36 months,Business,6,4,22,16.06,22,0,314017,38,204396
+L003,63000,31617,50,0,0,0,0,699,695,Mortgage,truck driver,10,20000,B,10.78,60 months,,,5,6,10.78,6,0,218418,18,189699
+L004,110000,23192,0,0,0,0,0,789,785,Mortgage,Information Systems Officer,10,35000,C,14.85,60 months,Debt consolidation,,1,13,17.06,13,0,381215,17,301500
+L005,104433,27644,60,0,0,0,0,699,695,Mortgage,Contract Specialist,3,10400,F,22.45,60 months,Major purchase,12,6,12,25.37,12,0,439570,35,331730
+L006,34000,2560,100,0,0,0,0,694,690,Rent,Veterinary Tecnician,4,11950,C,13.44,36 months,Debt consolidation,,0,5,10.2,5,0,16900,6,12798
+L007,180000,30030,100,0,0,0,0,684,680,Mortgage,Vice President of Recruiting Operations,10,20000,B,9.17,36 months,Debt consolidation,49,4,12,14.67,12,0,388852,27,360358
+L008,85000,17700,0,0,0,0,0,709,705,Mortgage,road driver,10,20000,B,8.49,36 months,Major purchase,3,3,8,17.61,8,0,193390,15,141601
+L009,85000,1997,28.6,1,0,0,1,689,685,Rent,SERVICE MANAGER,6,10000,A,6.49,36 months,Credit card refinancing,,1,14,13.07,14,0,61099,23,27957
+L010,42000,28528,33.3,0,0,0,0,704,700,Mortgage,Vendor liaison,10,8000,B,11.48,36 months,Credit card refinancing,75,1,8,34.8,8,0,256513,18,199696
+L011,95000,23514,25,0,0,0,0,714,710,Mortgage,Executive Director,6,22400,C,12.88,60 months,Debt consolidation,54,5,16,22.98,16,0,436841,35,376218
+L012,70000,24167,60,0,0,0,0,724,720,Mortgage,Senior Structural Designer,1,16000,C,12.88,60 months,Debt consolidation,,2,13,26.4,13,0,309638,29,265836
+L013,64000,19159,75,0,0,0,0,704,700,Mortgage,Logistics Manager,3,1400,C,12.88,36 months,,,4,17,34.95,17,0,372109,24,325695
+L014,150000,2014,14.3,1,0,0,1,669,665,Rent,Software Manager,7,18000,E,19.48,60 months,Debt consolidation,,2,18,9.39,18,0,65819,27,36247
+L015,92000,13819,22.2,0,0,0,0,724,720,Mortgage,Senior Manager,10,28000,A,6.49,36 months,Debt consolidation,42,2,16,21.6,16,0,304003,24,221110
+L016,60000,7912,66.7,0,0,0,0,699,695,Mortgage,tech,8,9600,A,7.49,36 months,Credit card refinancing,,0,7,22.44,7,0,88635,9,55387
+L017,109000,33976,20,0,0,0,0,749,745,Mortgage,Sales Manager,10,25000,A,7.49,36 months,Debt consolidation,,3,9,26.02,9,0,373572,19,305781
+L018,112000,17089,0,0,0,0,0,804,800,Mortgage,GS-11,10,18000,C,11.99,60 months,Debt consolidation,,4,17,8.68,16,0,309710,27,205067
+L019,64000,3549,14.3,0,0,0,0,704,700,Rent,Teacher,5,23000,B,8.49,60 months,Credit card refinancing,29,0,21,18.28,21,0,93962,33,63886
+L020,55000,1051,50,1,0,0,1,679,675,Rent,Program Coordinator ,8,8650,E,19.89,36 months,Debt consolidation,,0,18,25.49,18,0,38998,19,18926
+L021,65000,15732,25,0,0,0,0,719,715,Mortgage,Corporate Insurance,10,29900,C,12.88,60 months,Debt consolidation,,2,15,21.77,15,0,271700,31,220251
+L022,48000,2848,0,0,0,0,2,689,685,Mortgage,Bookkeeper/Accounting,10,16000,C,14.85,60 months,Credit card refinancing,33,2,11,33.18,11,2,298100,19,31329
+L023,125000,3797,40,0,0,0,0,699,695,Own,Director of Product Development ,2,28000,C,13.44,36 months,Debt consolidation,,0,6,7.49,6,0,36100,22,22780
+L024,79000,11884,100,0,0,0,0,669,665,Rent,General Manager,2,5000,C,13.44,36 months,Credit card refinancing,,0,3,12.7,3,0,41091,5,35653
+L025,100000,12911,50,0,0,0,0,699,695,Mortgage,Analyst,10,6000,A,7.49,36 months,Debt consolidation,15,2,9,13.28,9,0,156354,16,116195
+L026,35000,815,0,0,0,0,0,729,725,Rent,mechanic,5,4225,C,14.85,36 months,Debt consolidation,18,0,6,15.22,6,0,21822,6,4888
+L027,65000,1287,0,0,0,0,0,839,835,Own,driver,9,20000,A,5.32,36 months,Debt consolidation,,0,12,18.83,12,0,106217,17,15444
+L028,109000,16631,100,0,0,0,0,684,680,Mortgage,Professional Sales Associate,1,16000,D,17.97,60 months,Debt consolidation,,1,11,23.35,11,0,228050,33,182936
+L029,88000,12057,0,0,0,0,0,784,780,Mortgage,Network Security Specialist III,1,17600,A,5.32,36 months,Credit card refinancing,,5,20,26.59,20,0,285027,42,229082
+L030,44000,2429,0,0,0,0,0,689,685,Mortgage,DEPUTY SHERIFF,10,15000,A,5.32,36 months,Home improvement,47,2,7,15.34,7,0,33800,21,17003
+L031,65000,5683,0,0,0,0,1,679,675,Mortgage,"Owner, Fee Appraiser ",10,16000,C,12.88,36 months,Business,33,0,7,18.96,7,1,80999,20,39781
+L032,75000,17783,63.6,0,0,0,0,664,660,Mortgage,hvac technician,4,24250,F,24.24,60 months,,,2,18,20.84,18,0,344960,21,320098
+L033,98000,26756,66.7,0,0,0,1,694,690,Rent,Public Affairs Specialist ,1,12000,B,10.78,36 months,Debt consolidation,33,8,15,24.04,15,0,478544,39,374585
+L034,79000,8556,0,0,0,0,0,734,730,Mortgage,Executive Assistant,9,25000,C,13.99,60 months,Debt consolidation,,6,33,34.53,33,0,389002,72,265233
+L035,118000,28618,25,0,0,0,1,684,680,Mortgage,CEO,10,16800,C,12.88,60 months,Debt consolidation,35,4,11,34.29,11,0,412771,46,314793
+L036,59000,6136,0,0,0,0,0,734,730,Mortgage,Carrier,10,7000,A,7.49,36 months,Credit card refinancing,23,3,10,13.06,10,0,115502,34,55222
+L037,52000,74481,75,0,0,0,0,684,680,Rent,Resident physician,1,21000,C,13.99,60 months,Credit card refinancing,,0,5,14.47,5,0,370357,15,372407
+L038,195000,19107,57.1,0,0,0,0,704,700,Mortgage,Manager,10,27500,C,14.85,60 months,Other,,1,14,6.79,14,0,325100,19,267500
+L039,72500,29558,0,0,0,0,0,729,725,Mortgage,Legal Administrative Assistant,10,7200,B,11.48,36 months,Home improvement,,2,5,8.47,5,0,189950,7,147791
+L040,110000,5356,100,0,0,0,0,694,690,Rent,GM,6,20000,C,14.85,36 months,Credit card refinancing,,0,8,12.45,8,0,45509,12,37491
+L041,70000,2759,0,0,0,0,0,684,680,Rent,Clinical Intake,5,20000,D,15.77,36 months,Home buying,38,1,24,22.21,24,0,104696,63,63456
+L042,55000,20578,100,0,0,0,0,689,685,Mortgage,Educator ,2,10000,D,17.97,60 months,Credit card refinancing,,6,14,35.7,14,0,302401,28,288087
+L043,142000,47670,25,0,0,0,2,684,680,Mortgage,Registered Nurse,9,16000,C,13.99,60 months,Debt consolidation,8,1,15,17.74,15,2,704224,19,667373
+L044,75000,2864,0,0,0,0,0,729,725,Rent,Manager,5,20000,B,9.8,36 months,Debt consolidation,70,1,14,23.45,14,0,117477,26,40090
+L045,100000,13788,0,0,0,0,0,754,750,Mortgage,Associate Consultant,1,8650,A,5.32,36 months,Credit card refinancing,,1,15,7.28,15,0,191618,24,165450
+L046,54649,5721,50,1,0,0,1,674,670,Rent,Teacher,2,21000,C,13.44,60 months,Debt consolidation,,2,9,12.14,9,0,57564,44,51489
+L047,55000,11493,50,0,0,0,1,684,680,Rent,Bank Officer Senior Customer Care Spec.,1,7200,D,15.77,36 months,,59,0,24,17.35,24,1,255047,43,275831
+L048,92000,11739,100,0,0,0,0,669,665,Mortgage,Sales Representative/ Agent,10,8800,B,9.8,36 months,Credit card refinancing,45,2,9,5.18,9,0,116292,24,105650
+L049,43160,5234,100,0,0,0,0,694,690,Rent,Senior Service Specialist,2,14650,E,20.5,60 months,Debt consolidation,,0,12,21.44,12,0,67732,24,62813
+L050,50000,28167,0,0,0,0,0,674,670,Mortgage,Teacher,10,2500,D,17.27,36 months,Other,6,0,7,17.6,7,0,196429,22,197169
+L051,69000,22864,75,0,0,0,0,684,680,Mortgage,PRINTER,10,11000,B,9.17,36 months,Credit card refinancing,52,2,9,21.34,9,0,231864,18,205780
+L052,68046,47745,100,0,0,0,0,669,665,Own,Teacher,10,23850,D,17.27,60 months,Debt consolidation,23,4,12,24.71,12,0,554242,33,525195
+L053,48000,14211,75,0,0,0,0,689,685,Mortgage,Teacher,6,15700,D,16.59,60 months,Credit card refinancing,66,1,19,29.13,19,0,305962,28,270017
+L054,60000,2428,0,0,0,0,0,804,800,Own,Office Manager,10,28800,C,11.99,60 months,Debt consolidation,,2,21,18.01,21,0,200980,37,41270
+L055,91392,23424,100,0,0,0,0,714,710,Mortgage,Contract Specialist,4,10000,C,12.88,36 months,Home buying,,3,13,9.44,13,0,321380,33,304514
+L056,77900,14157,0,0,0,0,0,744,740,Own,,,24000,B,9.8,60 months,Home improvement,50,2,9,10.24,9,0,202351,21,127412
+L057,75000,7176,50,0,0,0,0,689,685,Mortgage,Engineer,10,28000,D,18.49,60 months,Debt consolidation,,2,27,31.88,27,0,267312,46,193745
+L058,128000,8639,33.3,0,0,0,0,689,685,Mortgage,Foreign Service Officer,10,35000,C,11.99,60 months,Home improvement,46,5,17,6.46,17,0,220950,46,146867
+L059,50000,19881,37.5,0,0,0,0,679,675,Mortgage,Site lead,10,7200,B,9.17,36 months,Debt consolidation,70,3,13,19.25,13,0,236795,25,218695
+L060,40100,6839,0,0,0,0,0,684,680,Rent,Teacher,2,10000,A,7.91,36 months,Credit card refinancing,,0,4,10.81,4,0,35247,7,27354
+L061,42000,2886,30.8,0,0,0,0,674,670,Rent,Merchandise Manager,1,16000,C,13.44,60 months,Credit card refinancing,,0,29,9.6,29,0,87509,48,83690
+L062,47590,5122,60,0,0,0,0,704,700,Rent,Wire Technician,1,21875,C,11.99,36 months,Credit card refinancing,,0,9,17.76,9,0,76326,14,40976
+L063,39000,5032,66.7,0,0,0,0,679,675,Mortgage,accts payable,10,14025,D,18.49,60 months,Debt consolidation,,3,12,18,12,0,72286,21,60381
+L064,106000,37486,0,0,0,0,0,734,730,Mortgage,Lieutenant ,7,35000,C,12.88,60 months,Debt consolidation,,4,8,17.36,8,0,366974,27,299890
+L065,145000,39020,75,0,0,0,0,699,695,Mortgage,President,10,20000,C,12.88,36 months,Debt consolidation,,5,12,12.28,12,0,472759,21,429218
+L066,60000,6435,87.5,0,0,0,0,694,690,Mortgage,Accountant,2,14000,C,14.85,60 months,,,0,11,24.29,11,0,83083,24,70789
+L067,62000,22771,50,0,0,0,0,724,720,Mortgage,Supervisor,5,16000,B,8.49,60 months,Credit card refinancing,39,3,10,28.92,10,0,307343,24,227708
+L068,85000,14258,60,0,0,0,0,674,670,Mortgage,Division General Manager,2,28000,C,14.85,60 months,Debt consolidation,,2,19,28.52,19,0,280650,29,256638
+L069,70000,1835,44.4,0,0,0,0,684,680,Own,Facilities Coordinator,10,20000,C,13.99,60 months,Debt consolidation,33,0,20,16.9,20,0,84200,35,34856
+L070,44000,19041,100,0,0,0,0,684,680,Rent,RN,1,17600,E,19.89,60 months,,,0,7,17.56,7,0,139633,25,133285
+L071,102500,14073,100,0,0,0,0,704,700,Mortgage,Manager,10,4200,C,13.44,36 months,Debt consolidation,,7,14,26.21,14,0,264272,37,197024
+L072,75000,5146,100,0,0,0,0,669,665,Own,Application Analyst,9,19000,C,14.85,60 months,Credit card refinancing,63,3,15,13.09,15,0,94620,34,72043
+L073,45000,2649,0,0,0,0,0,759,755,Own,Lead manufacturing ,10,15850,F,23.13,60 months,Debt consolidation,,0,18,34.85,18,0,84300,24,45025
+L074,42500,4117,50,0,0,0,0,709,705,Rent,CARDIOVASCULAR TECH,10,10000,C,11.99,60 months,Debt consolidation,,0,10,31.04,10,0,61054,23,41166
+L075,175000,51015,33.3,0,0,0,0,729,725,Mortgage,Vice-President,2,30000,D,15.77,36 months,Home improvement,61,3,9,18.5,9,0,447599,23,408118
+L076,45000,15864,0,0,0,0,0,749,745,Mortgage,,,1500,A,6.49,36 months,Vacation,39,4,12,16.11,12,0,179105,37,158643
+L077,150000,61551,0,0,0,0,0,799,795,Mortgage,Director,1,25000,A,5.32,36 months,Credit card refinancing,,7,7,9.54,7,0,512381,18,430856
+L078,50000,13412,100,0,0,0,0,694,690,Mortgage,Radiology Tech.,2,16250,C,13.44,60 months,Debt consolidation,,2,15,34.95,15,0,206555,21,201184
+L079,60000,4322,25,1,0,0,1,724,720,Rent,Manager,4,20200,D,18.49,60 months,Debt consolidation,,0,10,34.84,10,0,84627,16,43224
+L080,70000,6406,100,0,0,0,0,689,685,Rent,Principal,10,23975,E,19.89,60 months,Credit card refinancing,,3,10,33.2,10,0,74779,19,57655
+L081,65000,12455,71.4,0,0,0,0,724,720,Mortgage,Senior Buyer,10,15000,B,10.78,60 months,Debt consolidation,,1,18,29.28,18,0,256635,32,224194
+L082,41600,9350,33.3,0,0,0,0,699,695,Mortgage,Lpn,3,10000,B,10.78,36 months,Debt consolidation,,2,18,15.78,18,0,190694,33,168304
+L083,110000,20490,20,1,0,0,1,674,670,Mortgage,Senior Associate,6,15000,B,8.49,36 months,Credit card refinancing,,4,16,13.24,16,0,369112,33,327836
+L084,110000,5505,85.7,0,0,0,0,664,660,Own,Regional Sales Direcdtor,2,23100,E,20.5,60 months,Car financing,47,2,11,20.43,11,0,102524,24,55048
+L085,65000,18316,85.7,0,0,0,0,664,660,Mortgage,groundsman,10,27300,D,17.27,36 months,Home improvement,,2,14,25.63,14,0,253900,38,238105
+L086,135000,1470,0,0,0,0,0,709,705,Mortgage,Project Manager,10,25000,B,11.48,60 months,Credit card refinancing,47,5,16,4.65,16,0,72150,33,23522
+L087,40000,2045,100,0,0,0,0,674,670,Rent,Coaching General Manager,1,15000,B,10.78,36 months,Credit card refinancing,,0,7,10.17,7,0,16300,9,12272
+L088,30000,3432,0,1,0,0,1,719,715,Rent,Emergency Department technician ,1,10000,D,16.59,60 months,Debt consolidation,78,0,19,30.84,19,0,85929,36,65214
+L089,70000,13763,16.7,0,0,0,0,679,675,Mortgage,Supply Chain Coord.,10,18500,C,12.88,60 months,Debt consolidation,45,2,9,13.2,9,0,143748,19,123863
+L090,32000,1666,0,1,0,0,1,689,685,Rent,Property Manager,6,5000,A,7.91,36 months,Credit card refinancing,,0,7,13.73,7,0,21690,10,11665
+L091,50000,8054,33.3,0,0,0,0,804,800,Own,Truck Driver,1,9000,B,9.17,36 months,Debt consolidation,,2,5,11.98,5,0,69818,11,40272
+L092,85000,2927,0,0,0,0,0,759,755,Mortgage,material handler lead,10,11000,A,6.49,36 months,Credit card refinancing,,0,12,15,12,0,90996,31,32193
+L093,55000,25644,0,0,0,0,0,754,750,Mortgage,"TEAM LEAD, QUALITY ENGINEER",6,20000,A,6.49,36 months,Debt consolidation,74,1,9,29.15,9,0,247433,23,205155
+L094,80000,13773,0,0,0,0,0,779,775,Rent,,,15000,A,5.32,36 months,Debt consolidation,35,2,30,20.18,30,0,537200,47,330562
+L095,53750,17827,0,0,0,0,0,704,700,Mortgage,Network Operation Engineer,4,12000,A,5.32,36 months,Debt consolidation,19,2,8,15.3,8,0,183062,19,142615
+L096,45000,5926,100,0,0,0,0,674,670,Mortgage,Counselor,1,8000,B,10.78,36 months,Debt consolidation,34,2,28,21.23,27,0,168819,69,148154
+L097,40000,2128,20,0,0,0,0,669,665,Rent,Salesman,3,12000,B,10.78,36 months,Credit card refinancing,9,0,16,31.95,16,0,59420,22,31915
+L098,75000,25410,50,0,0,0,0,719,715,Mortgage,Systems Support Engineer,5,18000,A,7.49,36 months,Debt consolidation,46,1,12,25.65,12,0,335119,47,304914
+L099,85000,33919,28.6,1,0,0,1,679,675,Mortgage,Systems Administrator,1,3600,B,11.48,36 months,Debt consolidation,,1,12,17.44,12,0,457315,23,407032
+L100,20000,913,0,0,0,0,0,709,705,Own,Department Manager ,9,7200,D,17.27,36 months,Debt consolidation,23,0,8,13.21,8,0,22400,17,7302
+L101,77213,9720,40,1,0,0,1,674,670,Rent,Counselor,4,15000,C,13.44,60 months,Credit card refinancing,,1,17,18.17,16,0,176208,44,155521
+L102,72000,12915,,1,0,0,1,714,710,Own,Accounts Payable Manager,6,5000,B,9.8,36 months,Other,,2,11,6.52,11,0,155131,20,142064
+L103,38000,1150,60,0,0,0,0,704,700,Rent,general manager,5,11550,D,16.59,60 months,Credit card refinancing,,0,9,21.07,9,0,34105,12,10353
+L104,104000,3068,33.3,0,0,0,0,694,690,Rent,Aviation Safety Inspector,8,33600,B,10.78,36 months,Debt consolidation,29,1,14,14.01,14,0,92909,31,42952
+L105,39000,10201,66.7,0,0,0,0,724,720,Own,IT Help Desk Support ,10,17925,D,17.27,60 months,Debt consolidation,,4,10,27.78,10,0,122214,21,102008
+L106,39750,5394,0,0,0,0,0,699,695,Rent,Software Testing Analyst,2,17475,C,13.99,36 months,Debt consolidation,27,0,7,23.58,7,0,50240,13,32365
+L107,47000,812,12.5,0,0,0,0,679,675,Mortgage,Office Manager,8,9000,B,8.49,36 months,Debt consolidation,,0,12,8.43,12,0,36500,22,9747
+L108,65000,10086,0,0,0,0,0,789,785,Mortgage,Teacher,10,12000,B,9.8,60 months,Debt consolidation,,2,18,23.84,18,0,291626,37,181540
+L109,44500,1995,0,1,0,0,1,674,670,Rent,Store Manager,2,4000,B,9.17,36 months,Debt consolidation,,3,4,15.83,4,0,33017,24,7980
+L110,70100,5265,50,0,0,0,0,664,660,Rent,Software Engineer,3,10500,D,15.77,36 months,Credit card refinancing,35,0,5,8.51,5,0,32280,10,26327
+L111,100000,64448,0,0,0,0,0,689,685,Mortgage,Master mechanic,4,14000,B,9.8,36 months,Medical expenses,,2,7,15.97,7,0,531602,14,451137
+L112,105000,20321,0,0,0,0,3,689,685,Mortgage,Road driver,10,6000,A,7.91,36 months,Car financing,,1,9,14.45,9,3,225933,11,182893
+L113,90000,28037,25,0,0,0,0,704,700,Own,Unix System Administrator,10,16000,C,12.88,60 months,Home improvement,26,5,8,6.39,8,0,263351,17,224292
+L114,92000,44714,0,1,0,0,2,684,680,Mortgage,Electronic Branch Manager,3,15000,B,9.8,36 months,Debt consolidation,,6,7,13.89,7,0,347470,31,312996
+L115,39400,10214,40,0,0,0,0,709,705,Mortgage,Registered Veterinary Technitian ,4,12000,B,9.17,36 months,Debt consolidation,68,2,18,26.32,18,0,191950,25,153211
+L116,33000,1933,33.3,0,0,0,1,714,710,Rent,Paralegal,2,10000,B,11.48,36 months,Debt consolidation,,0,12,21.75,12,1,49732,20,23197
+L117,32000,3887,0,0,0,0,0,709,705,Rent,Patrol Officer,2,4200,C,13.99,36 months,Other,50,0,10,31.02,10,0,53161,16,38865
+L118,120000,20010,0,0,0,0,0,704,700,Mortgage,"Director, Human Resources",8,35000,E,20.5,60 months,Debt consolidation,3,3,25,35.69,25,0,498200,54,440222
+L119,108000,28774,75,0,0,0,0,674,670,Mortgage,Captain,10,5475,E,18.99,36 months,Debt consolidation,15,2,11,33.47,11,0,337523,27,316524
+L120,60000,4652,0,0,0,0,0,734,730,Mortgage,Project Supervisor,2,16000,A,7.91,60 months,Debt consolidation,,0,19,28.58,19,0,103434,22,88386
+L121,38700,9616,0,0,0,0,0,694,690,Own,machine operation ,3,6000,C,13.44,36 months,Debt consolidation,,0,4,23.26,4,0,50486,10,38464
+L122,75000,1541,40,1,0,0,1,664,660,Mortgage,Accounting Manager,10,24000,B,9.17,36 months,Debt consolidation,,3,14,10.11,13,0,42800,25,20031
+L123,60000,1682,33.3,0,0,0,0,719,715,Rent,Truck Driver,1,10000,C,12.88,36 months,Debt consolidation,,2,5,3.3,5,0,10500,42,6727
+L124,80000,409,25,0,0,0,0,669,665,Rent,Teacher,10,6900,E,19.89,36 months,Debt consolidation,38,0,10,9.57,10,0,11400,16,4091
+L125,48000,3908,57.1,0,0,0,0,709,705,Mortgage,CNC Machinist,10,22400,B,9.8,60 months,Credit card refinancing,,2,9,28.48,9,0,77566,18,35168
+L126,58800,1092,66.7,0,0,0,0,669,665,Mortgage,Director,4,15975,D,16.59,36 months,Debt consolidation,29,1,11,20.45,11,0,17800,23,10916
+L127,54000,17954,50,0,0,0,0,694,690,Mortgage,machines,9,21600,C,13.44,36 months,Debt consolidation,,6,9,17.64,9,0,170474,30,143634
+L128,82193,6024,57.1,0,0,0,0,699,695,Rent,Pastor,8,24000,C,13.99,60 months,Credit card refinancing,,0,15,29.92,15,0,143088,34,90362
+L129,73320,4766,100,0,0,0,0,664,660,Rent,GS12,3,14400,E,19.48,60 months,Debt consolidation,,0,9,17.02,9,0,44621,19,42894
+L130,42000,5121,25,0,0,0,0,709,705,Rent,District Manager,1,8000,C,13.99,36 months,,,0,8,23.26,8,0,50625,10,40965
+L131,83000,7022,100,0,0,0,0,684,680,Rent,Outside Account Manager,2,7000,C,13.99,36 months,Debt consolidation,,0,11,21.96,11,0,87124,28,77240
+L132,55000,3384,11.1,0,0,0,1,744,740,Own,Driver,1,20000,B,10.78,36 months,Debt consolidation,,0,18,36.94,18,1,118711,32,60903
+L133,68000,4855,33.3,0,0,0,0,679,675,Rent,Claims Rep ,6,25825,F,26.06,60 months,Debt consolidation,73,0,18,31.68,18,0,94599,33,72831
+L134,92000,12954,100,0,0,0,0,729,725,Mortgage,Service Delivery Manager,10,24575,F,22.45,60 months,Debt consolidation,,3,8,24.16,8,0,149185,27,103632
+L135,30407,1561,0,0,0,0,0,714,710,Rent,Custodian,10,3200,B,8.49,36 months,Medical expenses,36,0,5,20.61,4,0,13587,13,7804
+L136,137000,40172,30,0,0,0,0,704,700,Mortgage,Athletic Director,10,22875,D,15.77,60 months,Debt consolidation,,5,22,32.3,22,0,952233,62,883789
+L137,80000,12085,75,0,0,0,0,704,700,Mortgage,Billing Supervisor,10,16000,C,14.85,60 months,Debt consolidation,,2,14,19.59,14,0,197904,26,169184
+L138,125000,37250,42.9,0,0,0,0,714,710,Mortgage,Account executive,1,35000,C,13.44,36 months,Debt consolidation,,8,15,24.19,15,0,594147,26,521496
+L139,52000,2803,28.6,0,0,0,1,674,670,Mortgage,nurse,2,2400,D,17.27,36 months,Home improvement,18,0,16,28.38,16,1,61191,18,42039
+L140,132000,5619,50,0,0,0,0,749,745,Mortgage,,,25000,A,7.49,36 months,Debt consolidation,,3,14,13.83,14,0,137788,32,78666
+L141,55000,4767,0,0,0,0,0,719,715,Rent,Desktop Support Anylist,2,8800,C,12.88,36 months,Credit card refinancing,,0,20,35.52,20,0,126203,29,95330
+L142,16488,2045,0,0,0,0,0,774,770,Rent,,,2500,B,11.48,36 months,Debt consolidation,,0,12,38.06,12,0,51341,18,20449
+L143,50000,2817,0,0,0,0,0,719,715,Rent,Sales Person,1,8000,A,5.32,36 months,Credit card refinancing,6,0,21,14.86,21,0,73375,64,53525
+L144,78000,19371,50,0,0,0,0,709,705,Mortgage,Professor,10,20000,C,11.99,36 months,Debt consolidation,,6,15,27.1,15,0,346262,37,290569
+L145,110000,17708,0,0,0,0,0,699,695,Mortgage,Cosmetologist Manager,10,35000,C,12.88,60 months,Major purchase,31,2,19,13.39,19,0,405622,32,318752
+L146,45000,24258,0,0,0,0,0,714,710,Mortgage,,,15000,A,7.49,36 months,Debt consolidation,12,2,10,10.67,10,0,226200,20,194062
+L147,70000,25497,75,0,0,0,0,709,705,Mortgage,President,1,16000,D,15.77,36 months,Debt consolidation,,1,7,8.78,7,0,195530,25,178477
+L148,40000,3625,50,2,0,0,2,669,665,Rent,Medical Support Assistant,3,10800,C,13.99,60 months,Debt consolidation,29,0,7,26.13,7,0,35584,14,25378
+L149,15000,2149,66.7,1,0,0,1,689,685,Own,Owner/Operator,10,7500,D,17.97,36 months,Debt consolidation,,0,8,37.2,8,0,24826,14,15043
+L150,63000,5728,50,0,0,0,0,674,670,Rent,Bartender,5,16000,B,10.78,36 months,Debt consolidation,,0,12,35.19,12,0,103887,22,68741
+L151,49000,2847,0,0,0,0,0,759,755,Mortgage,Accounting senior,10,9000,A,5.32,36 months,Credit card refinancing,32,0,18,21.63,18,0,129026,29,51250
+L152,28000,2110,50,0,0,0,0,699,695,Rent,maintenance ,10,9500,D,15.77,36 months,,,0,7,27.95,7,0,24105,14,14767
+L153,25000,1590,0,0,0,0,0,744,740,Own,Medical Coder/biller,2,10000,A,7.91,36 months,Debt consolidation,,0,16,29.91,16,0,54000,30,22263
+L154,49000,27437,0,0,0,0,0,799,795,Mortgage,Teacher,10,6000,A,7.91,36 months,Debt consolidation,,1,10,17.92,10,0,371400,16,274367
+L155,52000,16099,100,0,0,0,0,724,720,Mortgage,Officer / Sheriff's office,10,15600,C,13.44,60 months,Major purchase,,3,6,15.37,6,0,139800,13,96594
+L156,90000,54280,66.7,0,0,0,0,754,750,Own,Paralegal,1,35000,B,8.49,36 months,Debt consolidation,,3,11,13.36,11,0,466738,26,434242
+L157,78000,8432,57.1,0,0,0,0,704,700,Mortgage,Financial Systems Analyst,9,5000,B,11.48,36 months,Debt consolidation,,1,19,21.21,19,0,197347,21,151774
+L158,75000,11093,22.2,0,0,0,0,729,725,Mortgage,Pilot,2,20400,D,18.49,60 months,Credit card refinancing,13,3,22,38.65,22,0,310057,49,210761
+L159,33130,12995,0,0,0,0,0,669,665,Mortgage,,,8000,D,17.97,36 months,Debt consolidation,16,1,18,11.52,18,0,249754,26,207921
+L160,87500,2647,100,0,0,0,0,699,695,Rent,Veterinarian,3,16000,B,10.78,36 months,Debt consolidation,,0,13,13.74,13,0,54200,17,31768
+L161,80000,16813,66.7,0,0,0,0,744,740,Mortgage,Mechanic,10,18000,A,7.91,36 months,Debt consolidation,,1,5,15.56,5,0,125210,6,84064
+L162,105000,10387,75,0,0,0,0,694,690,Rent,Director,1,35000,B,9.17,36 months,Debt consolidation,,1,11,25.07,11,0,126649,26,103869
+L163,40000,2236,0,0,0,0,0,769,765,Rent,Paraprofessional ,1,13150,A,5.32,36 months,Major purchase,,0,13,20.25,13,0,83916,17,29071
+L164,48000,2645,40,0,0,0,0,664,660,Rent,Business Coordinator III,8,5600,B,9.17,36 months,Credit card refinancing,26,1,8,19.85,8,0,31300,68,21160
+L165,90247,16910,100,0,0,0,0,684,680,Mortgage,Feeder Driver,9,23000,B,9.8,36 months,,37,2,11,17.09,11,0,234163,25,186007
+L166,175000,8061,42.9,1,0,0,1,694,690,Mortgage,VP of Operations,1,12600,C,14.85,60 months,Debt consolidation,,4,14,11.75,14,0,148478,25,112859
+L167,55000,43498,50,0,0,0,0,739,735,Mortgage,Teacher,8,11000,D,16.59,36 months,Debt consolidation,,3,6,16.85,6,0,271533,14,260988
+L168,41501,10293,0,0,0,0,0,689,685,Rent,Secreatary 1,3,4000,C,11.99,36 months,Debt consolidation,,0,8,12.9,8,0,83833,12,82347
+L169,75000,18797,100,0,0,0,0,719,715,Mortgage,Administrative Manager ,9,20000,C,13.44,60 months,,,1,16,20.67,16,0,355426,54,300744
+L170,60000,3939,28.6,0,0,0,0,689,685,Rent,General Manager,5,20000,B,11.48,36 months,Debt consolidation,,0,10,22.62,10,0,63700,20,39394
+L171,59307,8407,75,0,0,0,0,694,690,Mortgage,analyst,10,10000,B,9.17,36 months,Credit card refinancing,17,1,17,32.7,17,0,197909,30,134518
+L172,55000,21458,0,0,0,0,0,704,700,Mortgage,Social Worker,1,18850,E,21.48,36 months,Debt consolidation,38,8,11,15.56,11,0,247115,26,236037
+L173,82000,7201,0,0,0,0,0,734,730,Mortgage,research scientist,10,21000,C,11.99,60 months,Debt consolidation,,2,18,15.07,18,0,213675,34,129615
+L174,60000,8926,0,0,0,0,1,689,685,Mortgage,Strategic Account Manager,4,10500,B,8.49,36 months,Debt consolidation,19,5,13,15.39,13,1,132044,19,107112
+L175,56000,198,33.3,0,0,0,0,669,665,Rent,2nd pressman,5,4575,D,17.27,36 months,Home buying,,1,12,10.03,12,0,8900,17,2380
+L176,17000,6916,0,0,0,0,0,694,690,Rent,Direct Support Professional,1,5000,B,11.48,36 months,Other,,0,8,27.9,8,0,63456,11,55327
+L177,45000,28824,0,0,0,0,0,794,790,Mortgage,,,8000,A,6.99,36 months,Home improvement,,1,12,15.15,12,0,357341,26,317061
+L178,30000,493,33.3,0,0,0,2,679,675,Rent,Dental Assistant,1,5000,C,11.99,36 months,Debt consolidation,29,0,12,9.16,12,0,19200,15,5426
+L179,40000,8372,0,0,0,0,0,819,815,Mortgage,Advanced Analyst,10,9075,A,5.32,36 months,Credit card refinancing,,3,15,8.39,15,0,186900,26,100468
+L180,75181.21,23030,60,0,0,0,0,724,720,Mortgage,Speech Language Pathologist,2,24000,C,12.88,60 months,Debt consolidation,,4,13,31.57,13,0,354971,37,276355
+L181,52000,2002,100,0,0,0,0,709,705,Rent,manager,10,12500,A,7.49,36 months,Credit card refinancing,,0,5,6.83,5,0,12400,7,10009
+L182,80000,24412,100,0,0,0,0,714,710,Mortgage,Sales representative,8,19600,D,15.77,60 months,Debt consolidation,,2,15,18.99,15,0,364600,26,341767
+L183,90000,40315,0,0,0,0,0,744,740,Mortgage,Truck driver ,2,35000,C,13.99,36 months,Debt consolidation,,1,5,10.97,5,0,225820,7,201577
+L184,75000,22858,75,0,0,0,0,689,685,Mortgage,Client Service Manager,1,28000,B,8.49,60 months,Debt consolidation,29,3,16,24.83,16,0,406511,23,365724
+L185,45500,4165,0,0,0,0,0,694,690,Rent,Business Systems Analyst,1,14000,D,15.77,60 months,Debt consolidation,39,0,10,19.24,10,0,57447,12,37485
+L186,99906,42637,100,0,0,0,1,664,660,Mortgage,,,16000,B,9.8,36 months,Credit card refinancing,24,4,10,6.97,10,0,493100,26,426371
+L187,120000,1409,0,0,0,0,0,779,775,Rent,Senior Brand Manager,4,14000,A,5.32,36 months,Debt consolidation,,0,13,6.73,13,0,63281,20,16909
+L188,72000,4987,40,0,0,0,0,719,715,Mortgage,nutritionist,8,24000,B,8.49,36 months,Debt consolidation,52,0,16,22.8,16,0,120823,52,74809
+L189,75000,3255,100,0,0,0,0,689,685,Own,RRT,6,35000,C,13.99,36 months,Debt consolidation,,1,17,18.19,17,0,69518,32,52074
+L190,70000,30813,100,0,0,0,0,724,720,Mortgage,Administrative Assistant,10,14550,D,15.77,60 months,Debt consolidation,,5,13,34.44,12,0,445111,27,369766
+L191,21610,2858,0,0,0,0,0,709,705,Rent,Valued Associate,1,8000,B,11.48,36 months,Credit card refinancing,,0,9,31.06,9,0,35502,10,22866
+L192,106284,10159,5.3,0,0,0,0,734,730,Mortgage,Project Manager,10,32400,B,9.8,60 months,Credit card refinancing,,2,33,24.11,33,0,468631,38,335236
+L193,25000,3579,33.3,0,0,0,0,714,710,Rent,Graduate Student ,1,3600,C,13.44,36 months,Debt consolidation,,0,23,26.45,23,0,91319,39,78735
+L194,110000,8783,75,0,0,0,0,664,660,Mortgage,SW,10,10500,C,13.99,36 months,Debt consolidation,16,4,19,30.73,19,0,232011,38,166878
+L195,105000,27070,16.7,0,0,0,0,689,685,Mortgage,technician,10,3000,B,11.48,36 months,Home improvement,26,2,11,12.09,11,0,387088,22,297766
+L196,43000,1558,50,0,0,0,0,679,675,Rent,Nurse,2,16000,C,14.85,36 months,Credit card refinancing,,0,13,17.11,13,0,31669,16,20258
+L197,57000,6376,0,0,0,0,0,744,740,Mortgage,Teacher,10,8000,A,7.49,36 months,Debt consolidation,,2,19,25.01,19,0,164865,31,108395
+L198,85000,5327,50,0,0,0,0,734,730,Rent,Producer,1,19500,A,7.49,36 months,Debt consolidation,,0,8,13.74,8,0,70472,20,42613
+L199,140000,113218,0,0,0,0,0,850,845,Mortgage,Dean,8,2000,B,8.49,36 months,Other,,2,7,6.78,7,0,797960,16,679308
+L200,96000,8705,16.7,0,0,0,0,729,725,Mortgage,Marketing manager,8,16000,A,5.32,36 months,Debt consolidation,55,6,23,14.45,23,0,293017,38,200216
+L201,122400,24122,80,1,0,0,3,664,660,Mortgage,Account Manager,8,3500,B,10.78,36 months,Vacation,,5,16,17.97,16,2,426956,30,385952
+L202,94000,37787,0,0,0,0,0,719,715,Rent,Tax Accountant,4,14000,B,9.17,60 months,Debt consolidation,42,4,11,32.3,11,0,473886,45,377868
+L203,95000,7237,100,0,0,0,0,679,675,Own,Senior Business Analyst,3,24000,B,11.48,36 months,Debt consolidation,,0,9,26.89,9,0,93391,12,65133
+L204,120000,663,16.7,0,0,0,0,784,780,Own,Director of Risk Management ,2,6000,A,5.32,36 months,Credit card refinancing,,0,14,3.98,14,0,46500,21,9285
+L205,100000,8364,100,0,0,0,0,679,675,Mortgage,Registered Nurse,9,24000,A,7.91,36 months,Debt consolidation,1,1,21,26.83,21,0,277952,39,175638
+L206,37231,2045,0,1,0,0,1,669,665,Rent,Case Manager,3,14875,D,18.49,60 months,Debt consolidation,19,1,24,36.3,24,0,68739,49,47036
+L207,45000,2846,12.5,1,0,0,1,689,685,Rent,owner,7,10000,C,11.99,36 months,,,2,19,37.55,19,0,75737,40,45543
+L208,93000,38304,0,0,0,0,0,759,755,Mortgage,Purchasing Manager,2,15000,A,6.99,36 months,Credit card refinancing,,1,8,14.86,8,0,340542,17,306430
+L209,68000,2929,50,0,0,0,0,734,730,Rent,Science teacher,10,10000,A,5.32,36 months,Credit card refinancing,68,5,11,14.61,11,0,79749,32,32214
+L210,97000,32246,25,0,0,0,0,714,710,Own,Teacher,10,18000,B,9.17,60 months,Major purchase,19,2,13,22.22,13,0,372966,24,322455
+L211,97000,2283,50,0,0,0,0,689,685,Rent,fsm,10,24000,E,19.48,60 months,Debt consolidation,38,1,14,7.23,14,0,40126,38,25117
+L212,70000,16394,100,0,0,0,1,679,675,Mortgage,Executive Assistant,5,23525,D,17.97,60 months,Debt consolidation,69,2,13,13.33,13,0,263827,22,196733
+L213,68000,1827,14.3,0,0,0,0,694,690,Own,Financial Planner,10,12000,B,9.17,60 months,Credit card refinancing,,0,20,14.53,20,0,117300,56,34714
+L214,297000,5724,71.4,0,0,0,0,674,670,Rent,Physician,10,11000,B,10.78,36 months,Other,4,7,12,12.69,12,0,179788,33,68689
+L215,210000,31139,66.7,0,0,0,0,694,690,Mortgage,Nurse Anestheti,2,24000,B,9.17,36 months,Debt consolidation,,1,18,20.16,18,0,608164,35,560509
+L216,42900,12531,60,0,0,0,0,684,680,Rent,Revenue Control Specialist,8,15000,D,16.59,60 months,Debt consolidation,,0,10,36.98,10,0,123717,32,125307
+L217,140000,12926,45.5,0,0,0,0,674,670,Mortgage,Engineer ,10,16000,B,8.49,36 months,Credit card refinancing,1,2,19,14.68,19,0,289636,25,232670
+L218,90000,4782,50,0,0,0,0,689,685,Rent,Human Resources,5,15000,A,7.91,60 months,Debt consolidation,31,0,20,17.07,19,0,117602,25,90875
+L219,60000,12691,33.3,0,0,0,0,679,675,Mortgage,RN,8,5000,C,11.99,36 months,Debt consolidation,,3,13,19.56,13,0,187500,19,164988
+L220,115000,37084,0,0,0,0,0,689,685,Mortgage,Administrator,10,19100,B,10.78,60 months,Debt consolidation,,5,8,14.35,8,0,321817,22,259591
+L221,85000,2134,42.9,0,0,0,0,689,685,Own,Sales Manager,3,15000,B,10.78,36 months,Credit card refinancing,,0,16,10.14,16,0,45965,21,32012
+L222,85000,9300,37.5,1,0,0,1,669,665,Mortgage,Sales,2,30000,D,18.49,60 months,Debt consolidation,45,2,21,35.93,21,0,219013,49,195290
+L223,60000,5016,22.2,0,0,0,0,724,720,Rent,maintenance,10,15000,B,9.8,36 months,Credit card refinancing,,3,19,25.56,19,0,169777,53,95299
+L224,105000,6722,75,0,0,0,0,669,665,Rent,electrical construction apprentice,10,3500,C,13.99,36 months,Other,24,0,9,17.65,9,0,72443,19,60499
+L225,130000,4707,0,0,0,0,0,719,715,Rent,,2,20000,B,9.17,36 months,Debt consolidation,,0,8,12.77,8,0,66147,13,37657
+L226,30160,3606,100,0,0,0,0,689,685,Rent,Mechanic,7,10000,C,13.44,60 months,Credit card refinancing,,0,5,29.45,5,0,27759,5,18032
+L227,132500,22471,100,0,0,0,0,674,670,Mortgage,IT Supervisor,9,35000,D,18.49,60 months,Debt consolidation,57,5,16,14.48,16,0,416820,25,359542
+L228,90000,2805,66.7,1,0,0,1,664,660,Rent,District Sales Leader,10,16000,C,14.85,60 months,Credit card refinancing,,0,13,16.65,13,0,55011,20,36465
+L229,180000,29468,100,0,0,0,0,669,665,Mortgage,Financial Manager,10,2000,C,11.99,36 months,Other,34,3,10,12.66,10,0,428961,32,294683
+L230,39500,3898,50,0,0,0,0,729,725,Rent,Certified Lead Samsung Experience Consul,2,12000,B,9.8,36 months,Credit card refinancing,,0,9,25.43,9,0,53890,10,35079
+L231,80000,18499,0,0,0,0,0,744,740,Mortgage,Registered Nurse ,1,8000,A,6.99,36 months,Credit card refinancing,,2,17,18.92,17,0,359365,25,314484
+L232,92000,26098,0,0,0,0,0,684,680,Mortgage,Quality Assurance Wings,10,10000,B,9.8,36 months,Debt consolidation,15,5,8,10.55,8,0,205932,27,182684
+L233,76500,6447,100,0,0,0,0,754,750,Rent,Executive Admin,10,25000,A,7.91,60 months,Credit card refinancing,,3,8,15.65,8,0,89097,21,45132
+L234,100000,4049,66.7,0,0,0,0,669,665,Rent,Executive Director ,10,35000,C,13.99,36 months,Debt consolidation,12,5,12,19.43,12,0,52338,22,44539
+L235,150000,75372,0,0,0,0,0,744,740,Own,Lawyer,3,25600,A,7.91,60 months,Debt consolidation,,2,10,10.88,10,0,717956,39,678352
+L236,90000,11942,0,1,0,0,1,734,730,Own,Account manager,10,4325,C,11.99,36 months,Major purchase,18,3,17,16.96,16,0,248651,23,191071
+L237,48000,2219,0,0,0,0,0,764,760,Own,Teacher,10,6000,A,6.99,36 months,,32,0,18,33.78,18,0,74726,30,37729
+L238,65000,4210,50,1,0,0,1,664,660,Rent,Accounting Supervisor,8,18200,D,15.77,60 months,Credit card refinancing,,2,27,29.28,27,0,121798,38,113674
+L239,54000,3307,100,0,0,0,0,704,700,Rent,Master Carpenter,3,10000,A,6.99,36 months,Credit card refinancing,,0,11,19.38,11,0,63199,18,36381
+L240,81000,15147,0,0,0,0,0,729,725,Mortgage,legal secretary,5,30000,C,13.44,60 months,Debt consolidation,12,2,12,12.03,12,0,236670,18,166614
+L241,150000,26131,25,0,0,0,0,744,740,Mortgage,"Director, Accounting & Finance",2,13200,A,5.32,36 months,Home improvement,,12,14,15.45,14,0,574360,30,365831
+L242,220000,3348,100,1,0,0,1,714,710,Rent,SALES,5,10000,A,6.99,36 months,Debt consolidation,,2,8,4.76,8,0,43158,14,23438
+L243,75000,18251,33.3,0,0,0,0,669,665,Mortgage,O&M Specialist III,5,3000,B,11.48,36 months,Debt consolidation,4,2,13,22.82,13,0,266649,25,237257
+L244,96000,4716,0,0,0,0,0,769,765,Own,Director,10,20000,B,9.8,36 months,Debt consolidation,,0,9,19.04,9,0,81444,14,42443
+L245,32500,17421,75,0,0,0,0,714,710,Mortgage,Purchasing Agent,10,13875,C,11.99,60 months,Credit card refinancing,,1,7,23.53,7,0,138817,15,121944
+L246,76000,15943,0,0,1,687,0,759,755,Mortgage,Dispatcher,10,18000,A,6.49,36 months,Debt consolidation,1,4,20,14.4,19,0,413594,41,318868
+L247,40000,5294,16.7,0,0,0,1,689,685,Own,Teacher,3,15225,B,8.49,36 months,Debt consolidation,,0,12,21.21,12,0,76171,30,63528
+L248,65000,2725,40,1,0,0,1,709,705,Rent,Sr Sales Executive,6,16000,B,11.48,60 months,Debt consolidation,,2,13,21.16,13,0,69424,18,35429
+L249,125000,1197,0,0,0,0,0,754,750,Rent,manager,7,21000,B,9.8,60 months,Other,,0,16,6.2,16,0,175088,21,19150
+L250,40000,4240,100,0,0,0,0,664,660,Rent,Sr. Business Specialist,1,13000,D,16.59,60 months,Debt consolidation,42,0,6,16.74,6,0,33399,17,25438
+L251,120000,796,0,0,0,0,0,709,705,Own,Community Manager,5,20000,A,7.91,36 months,Major purchase,15,2,19,4.99,19,0,93896,31,12740
+L252,70000,15000,33.3,0,0,0,0,729,725,Rent,Lieutenant,10,31075,A,7.49,36 months,Credit card refinancing,,3,10,17.18,10,0,174717,28,135003
+L253,120000,24292,25,0,0,0,0,714,710,Own,Owner,10,18000,A,6.99,36 months,Credit card refinancing,7,3,7,14.88,7,0,211500,13,170044
+L254,74967,33765,100,1,0,0,1,689,685,Mortgage,,,5000,B,9.17,36 months,Other,,7,9,33.39,9,0,342623,35,303889
+L255,13000,7871,,0,0,0,0,679,675,Mortgage,Sales Associate,1,4675,D,17.27,36 months,Credit card refinancing,19,0,6,34.07,6,0,44644,23,39353
+L256,85140,35834,50,0,0,0,0,714,710,Mortgage,Automation Engineer,4,6000,B,9.8,36 months,Debt consolidation,,1,11,14.42,11,0,425306,12,394173
+L257,90000,2215,20,1,0,0,1,664,660,Mortgage,General / sales Manager,10,12000,C,12.88,60 months,Debt consolidation,,4,11,12.62,11,0,46018,30,22151
+L258,115000,3183,25,0,0,0,0,704,700,Rent,Technician,10,13000,C,13.99,60 months,Home improvement,73,2,9,9.9,9,0,53990,21,28645
+L259,50000,2382,100,0,0,0,0,664,660,Rent,Benefits Consultant,10,1800,B,11.48,36 months,Other,39,0,9,20.38,9,0,26851,15,21440
+L260,114000,1621,0,1,0,0,1,674,670,Rent,Rph,10,4475,D,16.59,36 months,Credit card refinancing,,1,5,8.36,5,0,16700,40,8108
+L261,70000,11612,60,0,0,0,0,699,695,Mortgage,Sales Engineer,8,14400,A,6.49,36 months,Debt consolidation,31,1,21,16.32,21,0,254733,26,243859
+L262,70000,2412,25,0,0,0,1,674,670,Rent,Purchasing Assistant,5,5875,A,7.91,36 months,Debt consolidation,45,0,9,9.53,9,1,32768,18,21709
+L263,180000,23102,100,0,0,0,0,664,660,Mortgage,Nurse Manager,7,20000,D,17.97,36 months,Debt consolidation,,2,13,25.1,13,0,349868,30,277227
+L264,115000,24443,66.7,0,0,0,0,719,715,Mortgage,Senior Electrical Engineer,5,10000,A,6.99,36 months,Debt consolidation,,5,17,23.26,17,0,455429,39,391089
+L265,92892,18629,50,0,0,0,0,739,735,Mortgage,RN,8,34100,C,12.88,60 months,Debt consolidation,,2,13,29.14,13,0,256341,39,223544
+L266,56457,4570,100,0,0,0,0,684,680,Rent,Lecturer and Curriculum Fellow,3,24000,B,11.48,36 months,Credit card refinancing,,0,5,12.37,5,0,26400,6,22849
+L267,300000,45240,66.7,0,0,0,2,684,680,Mortgage,Division Manager,8,30000,D,18.49,60 months,Debt consolidation,45,1,10,8.62,10,0,478537,21,452396
+L268,160000,12239,33.3,0,0,0,0,664,660,Mortgage,President,7,5200,B,10.78,36 months,Debt consolidation,21,4,6,8,6,0,149147,23,73435
+L269,50000,12664,0,0,0,0,1,679,675,Rent,Project Coordinator,1,16800,C,11.99,36 months,Debt consolidation,37,0,10,5.76,10,0,102060,30,113972
+L270,40000,1934,0,0,0,0,0,669,665,Rent,Driver,7,10000,C,11.99,36 months,Debt consolidation,30,0,4,10.95,4,0,17287,7,7735
+L271,55000,23398,100,0,0,0,0,669,665,Mortgage,Service technician,10,22000,D,17.97,60 months,Debt consolidation,3,1,10,22.34,10,0,232758,25,210586
+L272,144000,13190,44.4,0,0,0,0,719,715,Mortgage,VP Manufacturing,10,28000,A,5.32,36 months,Debt consolidation,,1,16,29.88,15,0,326531,29,197858
+L273,60000,13026,0,0,0,0,0,729,725,Mortgage,Sales,10,7200,A,6.49,36 months,Credit card refinancing,,1,3,20.68,3,0,47376,22,39078
+L274,41000,4677,60,0,0,0,0,694,690,Rent,Clerk Typist II,9,18000,C,11.99,36 months,Debt consolidation,,0,12,38.35,12,0,71294,20,51443
+L275,30000,4911,25,0,0,0,0,734,730,Own,iron fitter,1,8400,A,7.49,36 months,Debt consolidation,,0,9,29.2,9,0,54564,13,44202
+L276,67000,6835,0,0,0,0,0,674,670,Rent,Social Worker Supervisor,2,5000,C,14.85,36 months,Credit card refinancing,32,0,18,31.08,18,0,138379,38,123030
+L277,55000,2669,66.7,0,0,0,0,669,665,Rent,Maintenance worker,10,5000,B,9.8,36 months,Debt consolidation,46,0,6,10.93,6,0,25203,11,16016
+L278,60000,17893,60,0,0,0,0,674,670,Mortgage,Chemical operator,5,2400,B,11.48,36 months,Debt consolidation,,1,10,24.14,10,0,196467,22,178927
+L279,60000,2939,0,0,0,0,0,794,790,Own,Truck Driver,9,15000,A,5.32,36 months,Debt consolidation,,0,8,21.48,8,0,103800,16,23508
+L280,64400,19661,0,0,0,0,0,734,730,Mortgage,Senior Compliance Analyst ,9,6075,B,9.17,36 months,,,2,17,27.37,17,0,371139,40,334235
+L281,55000,4309,60,0,0,0,0,674,670,Rent,Analytical Research Scientist,2,20000,B,10.78,36 months,Debt consolidation,,0,11,22.58,11,0,69850,22,47397
+L282,110000,4198,42.9,1,0,0,1,669,665,Rent,Mgr. Quality Control,10,6025,C,14.85,36 months,Debt consolidation,17,2,17,21.32,17,0,87869,37,71368
+L283,70000,19244,66.7,0,0,0,0,694,690,Mortgage,Budget Services Coordinator,2,8400,B,9.17,36 months,Debt consolidation,,2,7,12.96,7,0,133800,36,134707
+L284,90000,3304,0,0,0,0,0,714,710,Rent,Systems Software Specialist II,2,15000,C,12.88,60 months,Debt consolidation,38,5,14,21.17,14,0,89240,29,42952
+L285,72000,29488,50,0,0,0,0,724,720,Mortgage,HR Assistant,10,19200,B,8.49,60 months,Debt consolidation,,5,15,21.22,15,0,467614,28,442322
+L286,143000,44605,0,0,0,0,0,699,695,Mortgage,Payroll Manager,1,12000,D,15.77,36 months,Debt consolidation,17,2,8,3.61,8,0,410330,12,356838
+L287,60000,3146,42.9,0,0,0,0,704,700,Mortgage,Manager,8,28800,C,12.88,36 months,Home improvement,,0,9,6.68,9,0,52400,19,25166
+L288,60000,58048,0,0,0,0,0,734,730,Mortgage,Orientation ,10,5000,A,5.32,36 months,Debt consolidation,40,2,7,19.22,7,0,468812,19,406338
+L289,60000,4113,33.3,0,0,0,0,689,685,Mortgage,Bartender ,7,5000,C,12.88,36 months,Home improvement,18,1,10,30.24,9,0,72546,31,41131
+L290,120000,91632,0,0,0,0,0,759,755,Mortgage,Lieutenant ,10,31500,C,11.99,60 months,Debt consolidation,,2,7,10.55,7,0,590498,20,549792
+L291,165000,4558,57.1,1,0,0,1,664,660,Rent,Laboratory Manager,10,24000,D,18.49,60 months,Debt consolidation,9,2,13,13.05,13,0,72751,38,59253
+L292,110000,15935,87.5,0,0,0,0,674,670,Mortgage,Division Manager,1,20000,C,12.88,60 months,Debt consolidation,41,5,18,23.89,18,0,337189,33,286847
+L293,110000,13293,0,0,0,0,0,739,735,Mortgage,Division Director OBGYN ,2,24000,B,10.78,60 months,Debt consolidation,38,4,15,20.82,15,0,261238,35,199389
+L294,65000,15069,100,0,0,0,0,664,660,Mortgage,College professor,10,21850,D,17.27,60 months,Debt consolidation,8,4,9,12.74,9,0,131099,32,120551
+L295,126500,22028,0,1,0,0,1,684,680,Mortgage,Executive manager,10,9500,A,6.49,36 months,Home improvement,21,8,14,8.67,14,0,307298,47,264336
+L296,98000,28068,100,0,0,0,0,679,675,Mortgage,registered nurse,10,20000,B,8.49,36 months,Debt consolidation,11,5,11,16.7,11,0,345325,30,308743
+L297,59000,3634,57.1,0,0,0,0,684,680,Rent,teacher,8,20000,C,13.44,60 months,Credit card refinancing,37,2,22,26.54,22,0,101255,35,76322
+L298,135000,8269,44.4,0,0,0,0,689,685,Mortgage,IT Consultant,10,20000,D,16.59,60 months,Home improvement,81,1,18,26.92,18,0,253826,30,148848
+L299,65000,1772,11.1,0,0,0,0,739,735,Rent,Payroll Processor,1,20000,C,12.88,60 months,,,0,16,16.93,16,0,94864,41,28351
+L300,78000,46751,100,0,0,0,0,714,710,Mortgage,Information Assurance Manager,2,25200,C,13.44,60 months,Credit card refinancing,54,2,7,20.46,7,0,387367,17,327255
+L301,50000,13586,0,0,0,0,0,794,790,Mortgage,Store Manager,10,12000,A,6.99,36 months,Credit card refinancing,,1,13,20.12,13,0,199861,21,135859
+L302,65000,2847,50,1,0,0,1,674,670,Mortgage,Revenue tech,10,10000,C,12.88,36 months,Debt consolidation,,1,11,14.73,11,0,43585,22,31312
+L303,36500,11811,0,0,0,0,0,809,805,Mortgage,Business Office Asst,10,12000,B,9.8,60 months,Debt consolidation,,2,10,18.91,10,0,134586,24,106299
+L304,75000,53477,50,0,0,0,0,754,750,Mortgage,Registered Nurse,8,12000,A,7.91,60 months,Debt consolidation,,2,4,6.4,4,0,237285,10,213908
+L305,41000,119,0,1,0,0,1,674,670,Rent,Laboratory Services Technician,1,6425,D,15.77,36 months,Debt consolidation,,0,4,2.87,4,0,6700,13,476
+L306,32760,1300,33.3,0,0,0,0,679,675,Rent,Accounting ,3,12700,D,17.97,36 months,Debt consolidation,82,0,21,34.32,21,0,48784,30,27300
+L307,121000,1370,22.2,1,0,0,1,684,680,Own,Teacher,10,35000,C,13.99,36 months,Credit card refinancing,,0,27,9.23,26,0,89983,87,35619
+L308,110000,11491,85.7,0,0,0,0,679,675,Mortgage,Lead Medic/Critical Care Paramedic,5,16000,C,13.44,60 months,Debt consolidation,,2,16,15.82,16,0,213148,28,183857
+L309,48000,8119,50,0,0,0,0,674,670,Own,Table Games Supervisor,2,15000,C,13.99,36 months,Credit card refinancing,,0,6,31.29,6,0,59055,11,48714
+L310,60000,24190,42.9,0,0,0,0,719,715,Rent,Flight Attendant ,10,20550,D,16.59,60 months,Debt consolidation,,4,12,26.38,12,0,375754,20,290278
+L311,127000,14295,0,0,0,0,0,729,725,Mortgage,Program Analyst,10,25000,A,6.99,36 months,Home improvement,14,3,10,25.48,10,0,193561,26,128658
+L312,115000,5439,66.7,0,0,0,0,664,660,Rent,foreman pipe fitter ,10,14000,E,19.48,60 months,Debt consolidation,64,0,7,13.36,7,0,47151,11,38073
+L313,47000,7702,33.3,1,0,0,1,684,680,Rent,Executive Assistant,10,16925,E,21.48,60 months,Major purchase,48,3,10,22.09,10,0,86819,27,77020
+L314,22000,1345,0,0,0,0,0,709,705,Rent,Phlebotomist ,3,4700,C,13.44,36 months,Debt consolidation,,0,12,17.64,12,0,31333,19,16145
+L315,25000,484,33.3,1,0,0,1,679,675,Own,,,5000,B,8.49,36 months,Debt consolidation,,0,17,13.63,17,0,36100,24,7259
+L316,92500,2150,0,1,0,0,3,674,670,Mortgage,Business Project Manager,2,12000,C,14.85,36 months,Debt consolidation,7,2,12,17.66,11,2,231354,19,25800
+L317,55000,885,16.7,0,0,0,0,664,660,Rent,Hvac tech,10,12000,B,9.8,36 months,Debt consolidation,5,0,9,12.61,9,0,18042,13,7963
+L318,117000,219353,0,0,0,0,0,704,700,Mortgage,Head of Corporate Physical Security,1,15000,A,6.99,36 months,Debt consolidation,15,1,4,4.66,4,0,700359,13,658060
+L319,123000,60195,,0,0,0,0,689,685,Mortgage,Project Manager ,2,4900,C,13.44,36 months,Debt consolidation,50,2,8,25.6,7,0,451519,16,421365
+L320,70000,16528,100,0,0,0,0,694,690,Mortgage,Registered Nurse,1,18000,A,7.49,36 months,Credit card refinancing,3,4,10,16.82,10,0,167690,31,148756
+L321,48000,2753,14.3,1,0,0,1,664,660,Rent,administrative assistant,5,18000,C,14.85,60 months,Debt consolidation,12,0,15,19.76,15,0,59287,40,41300
+L322,120000,4334,0,1,0,0,1,664,660,Mortgage,Account manager,10,25000,D,17.27,36 months,Debt consolidation,17,2,17,21.33,17,0,94194,26,73675
+L323,50000,20668,25,0,0,0,0,669,665,Mortgage,line leader,10,15000,C,12.88,36 months,Debt consolidation,,4,12,13.92,12,0,273354,34,248016
+L324,97000,15358,33.3,1,0,0,1,664,660,Mortgage,Police Officer,1,3600,B,11.48,36 months,Car financing,14,2,16,18.93,16,0,259782,30,245735
+L325,92250,40057,0,0,0,0,0,739,735,Mortgage,Systems Administrator II,5,33000,B,8.49,36 months,Other,,4,8,20.68,8,0,367796,18,320452
+L326,68000,10633,33.3,1,0,0,1,689,685,Mortgage,electrical lead,10,14950,E,18.99,60 months,Debt consolidation,,2,11,31.36,11,0,138722,40,116969
+L327,154000,31279,0,0,0,0,0,734,730,Mortgage,"Associate Director, Info. Management",10,15000,C,12.88,36 months,Debt consolidation,22,5,20,35.77,20,0,724714,58,625574
+L328,30100,9393,50,0,0,0,0,684,680,Mortgage,Vendor Auditor,2,7000,D,16.59,36 months,Debt consolidation,3,5,13,25.68,13,0,129045,30,112712
+L329,35300,4177,100,0,0,0,0,684,680,Rent,Dispatcher II,10,15000,D,16.59,60 months,Debt consolidation,2,0,9,36.52,9,0,64511,21,37590
+L330,98000,12855,0,0,0,0,0,694,690,Rent,Sr Software Eng,4,35000,C,12.88,36 months,Debt consolidation,,1,11,18.93,11,0,185399,24,115692
+L331,58000,28044,25,0,0,0,0,734,730,Mortgage,,,8000,B,8.49,36 months,Credit card refinancing,44,6,11,5.9,11,0,339800,42,308483
+L332,40000,1355,10,0,0,0,0,714,710,Mortgage,Driver,8,20000,C,11.99,36 months,Credit card refinancing,,0,18,22.84,18,0,71700,65,21678
+L333,80000,14982,40,0,0,0,0,699,695,Mortgage,Sr Tax Accountant,1,14375,E,19.89,60 months,Debt consolidation,34,1,15,37.32,15,0,295397,39,224733
+L334,85000,15270,25,0,0,0,0,709,705,Mortgage,Paint and Body technician ,1,21000,B,9.17,36 months,Debt consolidation,32,3,16,10.51,16,0,251100,30,198508
+L335,65000,2134,0,0,0,0,0,704,700,Own,warehouse reciever/ lead,10,3700,C,12.88,36 months,Debt consolidation,8,0,17,20.81,17,0,93587,34,32007
+L336,85000,1774,30.8,1,0,0,2,664,660,Rent,Technical manager,10,8400,B,9.17,36 months,Credit card refinancing,11,0,23,26.77,23,1,80403,34,40798
+L337,22000,1430,0,0,0,0,0,754,750,Rent,Teller,1,7200,B,11.48,36 months,Debt consolidation,,0,10,23.57,10,0,36131,10,14303
+L338,85400,21702,25,0,0,0,0,709,705,Mortgage,Director of Admissions,8,16800,B,8.49,36 months,Debt consolidation,73,2,10,17.27,10,0,219016,21,195318
+L339,150000,1211,0,0,0,0,0,799,795,Mortgage,Financial Advisor,7,9000,A,5.32,36 months,Major purchase,,7,4,0.63,4,0,69300,30,4842
+L340,43700,6451,12.5,0,0,0,0,664,660,Mortgage,A/C Technician,6,6000,C,13.99,36 months,Home improvement,22,1,20,31.87,20,0,165592,33,122566
+L341,76497,11629,100,0,0,0,0,709,705,Rent,Clinical Documentation Specialist,7,34000,B,10.78,36 months,Debt consolidation,,0,4,13.32,4,0,36000,7,34886
+L342,67000,39295,100,0,0,0,0,684,680,Mortgage,Police Officer,10,20000,C,11.99,60 months,Debt consolidation,52,5,5,6.52,5,0,205500,17,196474
+L343,91000,29050,0,0,0,0,0,669,665,Mortgage,SR. Analyst,10,16000,C,12.88,36 months,Debt consolidation,5,4,14,11.78,14,0,519959,36,377656
+L344,70000,42104,100,0,0,0,0,689,685,Mortgage, Equipment operator ,10,11200,B,8.49,36 months,Debt consolidation,3,3,9,15.88,9,0,390100,28,336832
+L345,95000,19195,60,0,0,0,0,679,675,Mortgage,Commander /03,10,21000,D,18.49,60 months,Debt consolidation,10,2,19,34.84,19,0,405225,39,364710
+L346,65000,4692,70,0,0,0,0,709,705,Mortgage,Teacher,10,16000,C,12.88,60 months,Credit card refinancing,,0,23,39.56,23,0,156092,41,103228
+L347,50000,18001,0,0,0,0,0,789,785,Mortgage,Mortician,10,6000,A,7.91,36 months,Debt consolidation,,2,8,19.42,8,0,199278,20,144011
+L348,84000,7647,28.6,0,0,0,0,734,730,Rent,Lean Manger,4,9100,A,6.49,36 months,Credit card refinancing,,0,12,15.57,12,0,118995,33,84112
+L349,60000,19899,50,0,0,0,0,714,710,Mortgage,foodservice manager,10,10000,A,6.99,36 months,Other,73,4,18,29.15,18,0,363294,45,278584
+L350,135000,28533,50,0,0,0,0,744,740,Mortgage,Process Facility Engineer,3,28000,B,10.78,60 months,Debt consolidation,,3,13,26.15,13,0,429857,30,342398
+L351,115000,23087,28.6,0,0,0,0,679,675,Mortgage,Service Technian Lead,1,30000,G,27.49,60 months,Other,,4,14,17.73,14,0,348717,20,300130
+L352,37380,1049,100,1,0,0,1,674,670,Rent,Shipping & Receiving,10,8450,C,11.99,36 months,Debt consolidation,,2,6,15.09,6,0,20766,14,6295
+L353,75000,4712,60,0,0,0,1,664,660,Rent,Service Rep,10,8775,F,22.45,36 months,Credit card refinancing,60,0,14,20.37,14,1,87952,44,65963
+L354,72000,14976,100,0,0,0,0,694,690,Mortgage,Engineering Manager,5,6000,A,5.32,36 months,Debt consolidation,18,5,11,17.08,11,0,169626,22,149763
+L355,75000,18632,0,0,0,0,0,774,770,Mortgage,letter carrier,10,10000,A,5.32,36 months,Debt consolidation,,3,10,5.17,10,0,262700,30,186318
+L356,128000,4651,75,0,0,0,0,689,685,Rent,General Manager,4,10000,D,15.77,36 months,Debt consolidation,16,0,18,36.23,18,0,136066,29,83718
+L357,22000,3479,14.3,0,0,0,0,704,700,Rent,Part-time Supervisor ,3,7200,D,17.27,36 months,Debt consolidation,69,0,10,38.63,10,0,46500,13,31313
+L358,75000,24659,83.3,0,0,0,0,709,705,Own,Accounting Manager,5,20000,C,14.85,60 months,Debt consolidation,,5,16,18.76,16,0,424836,36,369878
+L359,95750,7972,0,0,0,0,0,689,685,Rent,service advisor ,2,20000,B,9.17,36 months,Debt consolidation,17,0,11,19.14,11,0,114125,22,87694
+L360,130000,76289,0,0,0,0,0,724,720,Mortgage,Senior Buyer,8,5000,A,5.32,36 months,Debt consolidation,73,4,9,10.44,9,0,748546,27,686601
+L361,35179,11314,25,0,0,0,0,709,705,Mortgage,Exec. Administrative,1,15000,B,9.8,60 months,Debt consolidation,,1,19,23.47,19,0,233839,40,203650
+L362,160000,10118,100,1,0,0,1,679,675,Rent,SALES MANAGER,3,23950,D,17.97,36 months,Credit card refinancing,78,7,14,18.41,14,0,174051,46,141658
+L363,160000,19943,0,0,0,0,0,674,670,Mortgage,Cheif Electronic Tech ,10,15000,B,10.78,36 months,Debt consolidation,75,5,13,24.79,13,0,318154,30,259264
+L364,60000,14346,50,0,0,0,1,694,690,Mortgage,PTC Support,1,2250,B,8.49,36 months,Credit card refinancing,35,1,13,16.88,13,1,179618,23,186499
+L365,40000,2445,80,0,0,0,0,674,670,Mortgage,manager,1,14000,C,13.44,36 months,Debt consolidation,41,2,14,37.39,14,0,70490,20,31789
+L366,80000,637,14.3,0,0,0,0,664,660,Rent,Sales Account Rep,2,14000,C,12.88,36 months,Debt consolidation,38,0,11,5.04,11,0,18500,18,7002
+L367,83000,14581,40,0,0,0,0,704,700,Mortgage,Sr. Designer,3,18000,A,7.49,36 months,Debt consolidation,,6,17,7.93,17,0,268635,28,218712
+L368,72500,34921,0,0,0,0,0,749,745,Mortgage,Executive Steward,3,12000,A,5.32,36 months,Other,,2,10,2.71,10,0,381800,19,349210
+L369,46000,36228,100,0,0,0,0,664,660,Own,Department manager,10,5600,B,10.78,36 months,Credit card refinancing,47,1,7,13.18,7,0,261476,14,253597
+L370,83000,10659,50,0,0,0,0,704,700,Rent,Certified Teacher,1,35000,D,16.59,36 months,Debt consolidation,,0,16,25.52,16,0,169692,33,159887
+L371,43500,1954,0,1,0,0,1,704,700,Rent,admin//qa,3,8000,C,12.88,36 months,Other,,0,11,22.48,11,0,34321,16,17589
+L372,26000,1840,,0,0,0,0,674,670,Rent,Logistics,3,2400,C,13.44,36 months,Debt consolidation,,0,7,16.39,7,0,15897,8,11041
+L373,98000,18552,75,0,0,0,0,689,685,Mortgage,irrigation technician,1,35000,D,17.27,36 months,Debt consolidation,,6,18,19.74,18,0,371902,43,333930
+L374,140000,52671,50,0,0,0,0,749,745,Mortgage,National Sales Manager,10,35000,B,10.78,60 months,Credit card refinancing,,8,9,16.46,9,0,566628,30,474040
+L375,55000,13019,100,0,0,0,0,739,735,Own,BILLING REPRESENTATIVE,10,7000,C,12.88,36 months,Other,,0,4,37.22,4,0,59970,6,52076
+L376,23200,1443,37.5,0,0,0,0,679,675,Own,Manufacturing associate,2,8000,C,11.99,36 months,Debt consolidation,,0,12,33.78,12,0,40450,22,17312
+L377,70000,4529,0,0,0,0,1,694,690,Rent,High Voltage Electrician/Plant Engineer,4,6125,D,17.27,36 months,Debt consolidation,,1,9,17.36,9,1,42956,11,31704
+L378,150000,10990,55.6,0,0,0,0,674,670,Mortgage,Senior Director,10,10400,C,13.44,36 months,Debt consolidation,22,2,23,18.51,23,0,283207,44,252779
+L379,134000,21343,0,0,0,0,0,729,725,Mortgage,District Manager,5,30000,A,7.91,36 months,Debt consolidation,49,3,12,17.1,12,0,308556,49,256121
+L380,30000,534,50,1,0,0,1,669,665,Mortgage,CNA,5,4000,C,14.85,36 months,Debt consolidation,10,0,11,8.18,11,0,26600,22,5339
+L381,125000,20137,20,0,0,0,0,689,685,Mortgage,Pharmacist,10,10000,B,10.78,36 months,Debt consolidation,1,4,19,19.92,19,0,459291,38,382609
+L382,50000,13268,25,0,0,0,0,719,715,Mortgage,lead operator,1,16000,A,7.91,36 months,Debt consolidation,,2,9,24.41,9,0,134618,22,106144
+L383,67000,22881,100,0,0,0,1,694,690,Mortgage,Special Education Teacher,10,24000,D,17.27,60 months,Home improvement,13,3,12,29.07,12,1,288950,32,251690
+L384,56600,4243,33.3,0,0,0,1,714,710,Mortgage,OTR Truck Driver,1,19225,G,26.99,60 months,,51,0,8,18.21,8,1,44633,22,33946
+L385,130000,20142,0,0,0,0,0,709,705,Mortgage,Sr. Ops Coordinator,5,13000,C,12.88,60 months,Home improvement,53,1,11,5.51,11,0,251012,32,221561
+L386,52000,11053,100,0,0,0,0,739,735,Mortgage,Public Services Librarian,7,16800,B,9.17,60 months,Debt consolidation,54,1,14,28.96,14,0,207561,20,154736
+L387,35037,14368,0,0,0,0,0,764,760,Own,GIS Specialist,3,2000,A,6.49,36 months,Credit card refinancing,,2,9,8.51,9,0,154544,14,129310
+L388,50000,6311,50,0,0,0,1,694,690,Mortgage,Truck driver,1,19200,A,5.32,36 months,Debt consolidation,,0,4,19.24,4,1,42804,11,25243
+L389,140000,24851,28.6,1,0,0,1,664,660,Rent,General Manager,10,10000,C,13.44,60 months,Debt consolidation,,1,12,9.99,12,0,261697,24,298210
+L390,165000,4095,20,0,0,0,1,714,710,Mortgage,agent,4,35000,A,7.91,36 months,Debt consolidation,,0,21,18.89,20,0,153583,34,81908
+L391,60000,25074,50,1,0,0,1,679,675,Mortgage,Area Manager,10,15000,C,12.88,36 months,Debt consolidation,82,8,9,36.4,9,0,234987,42,200590
+L392,84468,6757,40,0,1,40,0,669,665,Rent,Registered Nurse,1,35000,D,15.77,36 months,Debt consolidation,1,1,13,16.85,12,0,111537,35,81087
+L393,55000,4415,33.3,0,0,0,0,674,670,Rent,General Manager,1,18000,B,8.49,36 months,Credit card refinancing,25,0,14,27.17,14,0,71928,24,52980
+L394,40000,1425,28.6,0,0,0,1,689,685,Rent,driver ,6,8000,B,9.8,36 months,Debt consolidation,,0,19,25.15,19,1,57095,25,27080
+L395,50000,10698,0,0,0,0,0,809,805,Own,Credit Reager,10,15000,C,12.88,60 months,Debt consolidation,,0,9,30.08,9,0,118179,11,96280
+L396,175000,52600,0,0,0,0,0,699,695,Mortgage,Owner,10,17400,B,8.49,60 months,Debt consolidation,55,5,6,7.04,6,0,327424,18,315597
+L397,156000,38844,66.7,0,0,0,0,714,710,Mortgage,Assistant Vice President,10,35000,C,11.99,36 months,Credit card refinancing,,4,11,14.98,11,0,438979,22,388441
+L398,100000,3790,0,0,0,0,0,749,745,Rent,Senior Associate,3,12000,B,9.17,36 months,Debt consolidation,31,0,11,12.13,11,0,66660,17,37896
+L399,66000,5023,100,0,0,0,1,669,665,Rent,teacher/school employee,10,24000,B,9.17,36 months,Debt consolidation,23,2,26,23.98,26,0,168493,41,125585
+L400,66500,5086,20,0,0,0,0,729,725,Own,Designer/Programmer,5,8000,A,7.91,36 months,Home improvement,,1,10,29.22,10,0,88699,13,50862
+L401,74000,23113,33.3,1,0,0,1,679,675,Mortgage,Media Operations Manager,1,16775,E,19.89,60 months,Debt consolidation,,7,16,29.91,16,0,409218,29,369811
+L402,48000,30843,100,0,0,0,0,674,670,Mortgage,Truck Driver,3,8000,B,8.49,36 months,Credit card refinancing,29,2,4,15.15,4,0,141827,24,123372
+L403,100000,2726,0,0,0,0,0,734,730,Mortgage,Problem Manager Level 2,1,21000,B,10.78,36 months,Debt consolidation,,5,24,29.75,24,0,194160,48,62696
+L404,150000,41263,40,0,0,0,0,674,670,Mortgage,It director,2,20000,C,13.44,60 months,Other,20,4,7,5.73,7,0,316738,15,288842
+L405,113000,32478,100,0,0,0,0,694,690,Mortgage,Fire Chief,1,10000,C,12.88,36 months,Credit card refinancing,,3,12,21.59,12,0,435365,27,389737
+L406,81120,21145,0,1,0,0,1,689,685,Mortgage,Benefits Subject Matter Expert,1,6000,A,7.91,36 months,Debt consolidation,,2,10,18.45,10,0,220385,22,190302
+L407,54744,46942,50,0,0,0,0,669,665,Mortgage,,,6000,D,18.49,36 months,Debt consolidation,3,3,7,23.96,7,0,347499,26,328594
+L408,80000,2180,25,0,0,0,0,714,710,Rent,Customer advocate,1,8400,B,11.48,36 months,Credit card refinancing,,0,12,13.92,12,0,43053,61,26155
+L409,33000,2659,0,0,0,0,0,669,665,Rent,teacher aid,10,10000,C,12.88,60 months,Credit card refinancing,6,0,8,23.23,8,0,40700,18,21272
+L410,72000,528,0,1,0,0,1,664,660,Own,Controller honduras,2,6000,B,9.17,36 months,Credit card refinancing,36,0,9,2.8,9,0,46600,24,4752
+L411,70000,10741,66.7,0,0,0,0,679,675,Rent,Executive Chef,10,20000,B,8.49,36 months,Credit card refinancing,,0,3,12.51,3,0,51800,4,32224
+L412,14688,1440,0,1,0,0,1,674,670,Rent,,,4600,C,11.99,36 months,Credit card refinancing,74,2,10,14.79,10,0,21600,26,14395
+L413,50000,11569,50,0,0,0,0,709,705,Mortgage,Electrician,10,20000,D,17.27,36 months,,39,4,11,33.75,11,0,147579,26,127260
+L414,48112,2758,80,0,0,0,0,689,685,Rent,Customer Service Manager,2,15000,B,9.17,36 months,Credit card refinancing,11,0,12,31.62,12,0,64120,23,33101
+L415,40000,18383,0,0,0,0,0,694,690,Mortgage,server,4,12000,C,12.88,36 months,Debt consolidation,43,2,13,23.98,13,0,256305,22,238974
+L416,75000,4340,100,0,0,0,0,709,705,Own,Reliability Mechanic,10,5000,B,10.78,36 months,Debt consolidation,,1,13,16.7,13,0,113838,53,56423
+L417,57000,21609,25,0,0,0,0,694,690,Mortgage,Procurement ,1,6000,B,10.78,36 months,Debt consolidation,12,1,12,18.34,12,0,312021,23,259307
+L418,34000,1261,66.7,0,0,0,0,714,710,Rent,Library Associate,10,10050,D,17.27,60 months,Credit card refinancing,34,2,5,18.6,5,0,17940,12,6303
+L419,43000,3468,0,0,0,0,0,684,680,Rent,Supervisor,10,6000,A,5.32,36 months,Debt consolidation,34,0,8,20.37,8,0,47281,11,27746
+L420,84000,5717,22.2,0,0,0,0,704,700,Rent,Engineer Instructor,10,28000,E,20.5,60 months,Debt consolidation,,0,22,37.26,22,0,209989,52,114340
+L421,81000,4952,0,0,0,0,0,804,800,Own,teacher assistant,3,15000,A,5.32,36 months,Credit card refinancing,,1,14,16.95,14,0,250286,26,64382
+L422,168400,7771,40,0,0,0,0,719,715,Mortgage,Project Manager,10,10500,B,8.49,36 months,Other,48,5,18,27.58,18,0,236340,36,139884
+L423,34000,5022,0,0,0,0,0,724,720,Mortgage,MHW2,3,10000,C,13.44,36 months,Debt consolidation,,1,17,11.19,17,0,132650,21,85375
+L424,62000,10153,25,0,0,0,0,724,720,Mortgage,Accounts Receivable Manager,1,3600,A,7.49,36 months,Debt consolidation,,1,21,22.42,21,0,230175,43,213212
+L425,72000,32362,100,0,0,0,0,684,680,Mortgage,Accounting Assistant,10,10000,B,11.48,36 months,Other,36,3,13,26.9,13,0,454144,26,420706
+L426,115000,1695,22.2,0,0,0,0,694,690,Rent,pit Manager,10,30000,B,8.49,36 months,Credit card refinancing,6,5,23,13.54,23,0,74945,44,33898
+L427,35000,635,66.7,0,0,0,0,724,720,Rent,Customer service,2,8000,C,11.99,36 months,Debt consolidation,,0,10,10.12,10,0,23600,23,6352
+L428,55000,1694,75,0,0,0,0,664,660,Mortgage,CNA,1,15000,D,16.59,60 months,Debt consolidation,29,0,13,10.17,13,0,27275,22,22026
+L429,60000,13210,100,0,0,0,0,689,685,Mortgage,Finisher Carpenter,2,21600,B,8.49,36 months,Debt consolidation,,1,10,17.42,10,0,147841,22,132095
+L430,105000,20214,0,0,0,0,0,674,670,Mortgage,Outbound Warehouse Manager,10,12000,B,9.17,36 months,,22,4,12,16.86,12,0,271461,29,242572
+L431,102000,6252,21.4,0,0,0,0,704,700,Mortgage,Nurse Practitioner,8,28000,A,7.91,36 months,Credit card refinancing,19,3,24,21.05,24,0,258185,48,150054
+L432,33000,2657,100,1,0,0,1,689,685,Rent,sales associate,10,6400,B,11.48,36 months,Credit card refinancing,75,1,9,15.6,9,0,28921,18,21252
+L433,48000,1717,25,1,0,0,1,684,680,Rent,Intl Logistics LifeScience Agent,10,15000,B,9.17,36 months,Car financing,,0,10,12.2,10,0,22300,11,15450
+L434,70000,10034,0,0,0,0,0,714,710,Rent,Consultant,2,13000,A,7.91,36 months,Credit card refinancing,,0,10,26.32,10,0,130300,27,100336
+L435,80000,5274,50,1,0,0,1,674,670,Rent,assistant svc manager ,3,10000,C,13.44,36 months,Credit card refinancing,,3,9,15.56,9,0,54793,24,47467
+L436,95000,16462,0,0,0,0,0,769,765,Mortgage,account manager,10,24800,A,7.91,36 months,,,4,14,14.76,14,0,311769,24,197541
+L437,56000,6056,0,1,0,0,1,709,705,Own,Maint. Machinist,10,12000,B,10.78,60 months,Other,,0,7,25.98,7,0,62836,15,42392
+L438,96000,13614,12.5,0,0,0,0,699,695,Mortgage,Senior Consultant,9,10800,B,8.49,60 months,Car financing,62,4,17,12.25,17,0,298922,26,231437
+L439,65000,25762,100,0,0,0,0,669,665,Mortgage,Lead Tech,1,15000,C,11.99,36 months,,54,1,9,17.56,9,0,251645,16,231860
+L440,120000,39221,12.5,0,0,0,0,729,725,Mortgage,Pharmacist,3,24000,A,5.32,36 months,Credit card refinancing,,1,13,15.82,13,0,585052,31,470657
+L441,75600,32383,100,0,0,0,0,689,685,Own,Engineer,10,2000,C,13.44,36 months,Debt consolidation,16,4,5,10.17,5,0,188481,19,161917
+L442,53867,6187,0,0,0,0,0,679,675,Mortgage,Teacher,3,22600,D,15.77,36 months,Debt consolidation,,0,33,25.31,33,0,210041,46,204160
+L443,50000,1549,11.1,1,0,0,1,664,660,Rent,Electrician,10,13500,F,23.13,36 months,Debt consolidation,,0,17,25.3,17,0,61443,21,26347
+L444,66000,26129,33.3,0,0,0,0,699,695,Mortgage,"Pastor assigned-Minneapolis, MN",10,6000,B,10.78,36 months,,6,1,11,19.96,11,0,322369,28,287417
+L445,84000,11839,33.3,0,0,0,0,694,690,Mortgage,CPS Supervisor,10,20000,B,9.8,60 months,Credit card refinancing,,4,12,23.27,12,0,203104,40,142068
+L446,55000,6262,0,1,0,0,1,704,700,Own,Pressoperater,10,5000,A,6.49,36 months,Debt consolidation,,0,9,29.15,9,0,82320,15,56358
+L447,100000,28481,40,0,0,0,0,739,735,Mortgage,Pilot,10,20000,A,7.49,36 months,Credit card refinancing,,2,9,12.18,9,0,295901,18,227847
+L448,103000,8582,50,0,0,0,0,684,680,Mortgage,Sergeant Major,10,12000,B,9.8,36 months,Debt consolidation,22,2,11,18.54,11,0,100066,50,85818
+L449,107000,16468,50,0,0,0,0,714,710,Mortgage,Professor,10,32000,B,11.48,36 months,Credit card refinancing,,8,12,19.13,12,0,264927,27,197622
+L450,69998,4227,75,0,0,0,1,664,660,Own,Engineer,10,15200,C,13.99,60 months,Debt consolidation,39,1,7,14.52,7,0,35970,15,29586
+L451,60000,4519,50,0,0,0,0,689,685,Mortgage,Owner,1,12500,C,11.99,60 months,Debt consolidation,65,1,5,16.98,5,0,37774,8,22593
+L452,81000,14301,33.3,0,0,0,0,704,700,Mortgage,IT Specialist,4,21000,B,10.78,36 months,Debt consolidation,46,2,12,17.19,12,0,204648,39,171617
+L453,35000,2823,0,1,0,0,1,709,705,Rent,Customer Care coordinator,3,16000,B,8.49,36 months,Credit card refinancing,40,0,10,24.49,10,0,42866,13,25404
+L454,100000,21103,50,0,0,0,0,729,725,Mortgage,Supervising Psychiatric Social Worker,10,24650,B,11.48,36 months,Debt consolidation,,5,11,22.64,11,0,314083,24,232132
+L455,77000,9348,100,0,0,0,0,689,685,Mortgage,Senior Financial/Budget Analyst,3,11000,A,7.91,36 months,Debt consolidation,9,3,11,28.73,11,0,142858,25,102832
+L456,70000,5794,50,0,0,0,0,699,695,Rent,librarian,10,22400,C,14.85,60 months,Credit card refinancing,,0,10,18.69,10,0,61506,20,46351
+L457,61000,9221,33.3,0,0,0,0,684,680,Mortgage,driver,10,15125,D,18.49,60 months,Debt consolidation,,1,16,25.38,15,0,168163,18,138317
+L458,60000,20295,25,0,0,0,0,734,730,Mortgage,account sales mng,10,8725,C,11.99,36 months,Debt consolidation,,4,9,29.56,9,0,231019,33,182657
+L459,63800,16018,0,0,0,0,0,734,730,Mortgage,Teacher,10,8000,A,7.91,36 months,Debt consolidation,19,2,11,23.76,11,0,202465,35,176193
+L460,52000,1179,0,0,0,0,0,669,665,Rent,Wholesale Mgr,2,8000,B,9.17,36 months,Major purchase,21,2,4,11.86,4,0,18000,16,4715
+L461,42240,1348,0,0,0,0,0,689,685,Rent,Field Technician,2,11000,C,14.85,36 months,,19,0,13,19.18,13,0,32800,16,17527
+L462,82000,51342,50,0,0,0,1,684,680,Mortgage,Teacher,5,11725,E,18.99,60 months,Debt consolidation,24,3,10,13.32,10,0,475402,22,462075
+L463,70000,3220,66.7,0,0,0,0,694,690,Mortgage,Sales,1,28500,E,18.99,60 months,Debt consolidation,,0,16,29.37,16,0,77351,29,51516
+L464,120000,12834,10,0,0,0,0,749,745,Own,Manager,5,25000,A,6.49,36 months,Credit card refinancing,,1,17,21.3,17,0,331839,33,205345
+L465,70000,1450,50,0,0,0,0,664,660,Rent,Nurse Lvn ,5,7000,B,9.17,36 months,Moving and relocation,,0,13,16.1,13,0,47634,20,18851
+L466,100000,7112,40,0,0,0,0,669,665,Mortgage,Director of Channel Sales & Marketing,1,12000,B,9.8,36 months,Debt consolidation,,0,10,12.07,10,0,78247,44,64010
+L467,40000,11132,0,0,0,0,0,789,785,Own,Sales,10,20000,B,8.49,60 months,Credit card refinancing,,3,16,20.04,16,0,232020,44,166975
+L468,56000,8142,0,0,0,0,0,674,670,Rent,manufacturing driver,10,5875,D,15.77,36 months,Debt consolidation,,0,5,25.65,5,0,56536,11,40710
+L469,145000,3972,30,0,0,0,0,674,670,Rent,Sales Account Manager,10,18000,D,18.49,60 months,Debt consolidation,33,5,26,15.54,26,0,136740,49,91350
+L470,160000,57587,37.5,0,0,0,0,714,710,Mortgage,Group Manager,1,28000,A,7.91,36 months,Home improvement,,6,16,23.69,16,0,995789,31,863809
+L471,205000,5225,0,0,0,0,0,714,710,Rent,Pilot,10,35000,B,9.8,60 months,Moving and relocation,72,2,10,5.71,10,0,109250,44,52253
+L472,65000,12610,0,0,0,0,0,814,810,Mortgage,Finance and Admn. Director,1,31800,D,16.59,60 months,Debt consolidation,,7,12,24.15,12,0,303782,23,151320
+L473,105000,14009,25,1,0,0,1,684,680,Mortgage,Driver,10,25000,D,17.97,60 months,Debt consolidation,,4,10,22.57,10,0,150404,41,126079
+L474,54000,5438,0,0,0,0,0,719,715,Rent,O&M Specialist II,6,16000,D,17.27,36 months,Debt consolidation,39,0,10,20.73,10,0,69983,16,54383
+L475,82000,6386,100,0,0,0,0,724,720,Own,Business Analyst,10,25000,B,10.78,60 months,Credit card refinancing,,0,8,26.88,8,0,94054,19,51088
+L476,139000,43792,100,0,0,0,0,674,670,Mortgage,Registered Nurse,5,35000,D,16.59,60 months,Credit card refinancing,,5,10,14.95,10,0,490301,28,437916
+L477,60000,22679,20,0,0,0,0,684,680,Own,Sales,1,18000,A,7.91,36 months,Credit card refinancing,,1,12,11.52,12,0,275636,18,249471
+L478,55500,24666,0,0,0,0,0,704,700,Mortgage,Support Staff,1,10000,A,7.49,36 months,Debt consolidation,19,2,8,15.05,8,0,233647,16,197329
+L479,53040,1562,85.7,1,0,0,1,664,660,Rent,ESTIMATING ASSISTANT,2,8000,C,14.85,36 months,Credit card refinancing,42,0,12,20.54,12,0,24400,35,18745
+L480,75000,18833,66.7,0,0,0,0,684,680,Mortgage,Team member ,10,12000,C,13.44,60 months,Debt consolidation,18,2,11,18.46,11,0,214359,19,188332
+L481,75000,31713,33.3,0,0,0,0,784,780,Mortgage,,,15000,A,5.32,36 months,Debt consolidation,,4,11,8.75,11,0,402524,34,348839
+L482,155000,36875,25,0,0,0,0,714,710,Mortgage,CEO/Therapist,4,20000,C,11.99,60 months,Home buying,11,3,17,22.47,17,0,682399,25,589998
+L483,80000,12429,50,0,0,0,0,704,700,Mortgage,Program Group Leader,10,14000,E,19.89,60 months,Business,,4,13,14.39,13,0,235487,28,161577
+L484,77700,2425,100,1,0,0,1,689,685,Rent,,,20500,B,8.49,36 months,Debt consolidation,,0,16,18.56,16,0,64791,51,36371
+L485,88000,51325,100,0,0,0,2,664,660,Mortgage,Sales,4,4700,C,13.99,36 months,Debt consolidation,59,3,6,14.21,6,0,339546,13,307949
+L486,76008,2249,22.2,0,0,0,0,694,690,Mortgage,Attorney,4,28000,B,9.17,60 months,Debt consolidation,45,1,18,14.47,18,0,88700,38,38235
+L487,71000,12568,10,0,0,0,0,719,715,Mortgage,HR Director,10,12000,A,7.91,36 months,Debt consolidation,1,5,27,24.86,26,0,435795,65,314205
+L488,42500,910,50,0,0,0,0,674,670,Rent,Sales Associate,1,7200,A,7.91,36 months,Credit card refinancing,5,0,10,11.07,10,0,17400,18,8187
+L489,33000,1456,0,0,0,0,0,804,800,Own,,,11000,A,7.49,36 months,Debt consolidation,,0,26,37.56,26,0,171175,44,33480
+L490,52000,1257,71.4,0,0,0,0,664,660,Mortgage,sales/merchandiser,5,11000,C,13.99,60 months,Debt consolidation,,0,8,5.7,8,0,15500,8,8800
+L491,45000,6322,0,0,0,0,0,729,725,Mortgage,Operation to Cash Analyst,1,3500,B,9.8,36 months,Car financing,21,2,30,22.29,30,0,209664,66,177019
+L492,111000,3173,57.1,1,0,0,1,664,660,Own,System Administrator,3,23850,C,13.44,36 months,Major purchase,55,0,24,13.58,24,0,90204,38,69813
+L493,70000,3681,0,0,0,0,0,689,685,Rent,Production Supervisor,3,3600,D,15.77,36 months,Other,12,0,12,14.33,12,0,49778,30,44177
+L494,54000,4097,50,0,0,36,0,674,670,Rent,Teacher,2,15000,A,7.91,36 months,Debt consolidation,4,0,6,19.39,5,0,51902,14,24581
+L495,76000,605,0,0,0,0,0,729,725,Mortgage,Information Specialist 4,10,16500,C,11.99,36 months,Credit card refinancing,,0,12,2.56,12,0,30900,15,7256
+L496,55000,29752,66.7,0,0,0,0,719,715,Mortgage,,,8275,B,10.78,36 months,Credit card refinancing,,4,10,38.05,10,0,293433,23,267768
+L497,80000,6209,66.7,0,0,0,0,694,690,Mortgage,Director of Catering & Events,1,35000,D,17.27,36 months,Home improvement,11,1,9,15.77,9,0,50604,19,43461
+L498,106000,28693,33.3,0,0,0,0,739,735,Mortgage,Radiology Ancillary Manager ,1,20000,A,5.32,36 months,Debt consolidation,,2,14,20.04,14,0,439594,28,373014
+L499,76000,7514,0,0,0,0,0,739,735,Mortgage,Owner,6,22800,A,5.32,36 months,Debt consolidation,32,3,12,21.96,12,0,141601,27,90166
+L500,35000,3194,12.5,0,0,0,0,709,705,Own,Accounting Clerk,4,10000,B,8.49,36 months,Credit card refinancing,48,1,12,33.54,12,0,75496,30,38331

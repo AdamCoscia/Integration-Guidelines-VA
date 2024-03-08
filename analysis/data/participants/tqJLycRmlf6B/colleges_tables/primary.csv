@@ -1,0 +1,1535 @@
+﻿ID,Control,Highest degree offered,Admission rate (%),Tuition and fees 2013-14 ($),Geographic region,Total enrollment,4-year graduation rate (%),ACT Composite score (25th percentile),Receiving financial aid (%)
+C0001,Public,Doctoral degree,,14280,New England,1125,40,24,100
+C0002,Public,Doctoral degree,52,10626,Southeast,13349,33,19,75
+C0003,Private,Doctoral degree,73,42305,Southeast,8693,81,19,98
+C0004,Public,Doctoral degree,81,31018,Rocky Mountains,341,2,20,100
+C0005,Public,Doctoral degree,61,33332,Southeast,2261,9,19,99
+C0006,Public,Doctoral degree,68,13130,Great Lakes,1782,32,21,91
+C0007,Public,Bachelor's degree,9,24970,Mid East,8073,50,,100
+C0008,Public,Doctoral degree,73,12380,Far West,1733,23,20,83
+C0009,Public,Doctoral degree,76,32850,Far West,14959,21,,100
+C0010,Private,Bachelor's degree,60,34330,Far West,10127,56,25,100
+C0011,Private,Bachelor's degree,62,28430,Great Lakes,2274,59,,100
+C0012,Private,Doctoral degree,84,39842,Plains,2128,13,19,99
+C0013,Private,Bachelor's degree,87,10680,Southeast,12027,31,22,94
+C0014,Public,Doctoral degree,80,7507,Southeast,14525,57,,96
+C0015,Private,Bachelor's degree,67,23563,Mid East,5430,24,19,100
+C0016,Public,Master's degree,77,7300,Southeast,7943,83,17,99
+C0017,Private,Bachelor's degree,,24750,New England,4622,11,,100
+C0018,Private,Master's degree,63,9486,Great Lakes,12377,52,19,87
+C0019,Public,Master's degree,97,4358,Southeast,15957,41,27,97
+C0020,Public,Master's degree,79,10000,Great Lakes,14526,11,17,88
+C0021,Private,Master's degree,,5837,Mid East,20448,15,17,94
+C0022,Private,Doctoral degree,80,22800,Southeast,4206,27,22,97
+C0023,Public,Doctoral degree,,6464,Mid East,5992,65,,89
+C0024,Private,Master's degree,72,5238,New England,495,74,19,83
+C0025,Private,Bachelor's degree,44,16795,Plains,15143,18,24,91
+C0026,Private,Bachelor's degree,64,7946,Rocky Mountains,21592,13,,88
+C0027,Public,Doctoral degree,91,5744,Mid East,4056,61,,68
+C0028,Private,Doctoral degree,58,8509,Plains,1100,11,19,93
+C0029,Public,Doctoral degree,65,22590,Plains,1926,19,,100
+C0030,Public,Doctoral degree,65,8401,Mid East,2291,,29,87
+C0031,Public,Master's degree,79,23520,Southeast,20161,48,21,100
+C0032,Private,Doctoral degree,22,25532,Mid East,1328,45,20,100
+C0033,Private,Bachelor's degree,9,33230,Great Lakes,1077,61,24,99
+C0034,Public,Doctoral degree,49,24790,Mid East,23003,71,,100
+C0035,Public,Doctoral degree,76,8800,Southeast,2877,39,28,
+C0036,Private,Master's degree,81,11767,Southwest,49317,9,24,82
+C0037,Public,Doctoral degree,76,5315,Southeast,4861,35,,96
+C0038,Private,Master's degree,72,5035,Mid East,1478,6,25,91
+C0039,Private,Doctoral degree,65,23400,New England,29850,39,,100
+C0040,Private,Bachelor's degree,85,14930,Southwest,1542,54,19,57
+C0041,Public,Doctoral degree,54,8144,Southeast,1549,31,18,61
+C0042,Private,Bachelor's degree,55,8863,Southwest,725,46,,73
+C0043,Private,Bachelor's degree,58,17890,Southeast,2453,21,18,85
+C0044,Public,Doctoral degree,74,36660,Southeast,1701,46,18,99
+C0045,Public,Doctoral degree,,7660,Mid East,5368,8,13,88
+C0046,Public,Doctoral degree,77,22792,Southwest,2533,59,,79
+C0047,Public,Master's degree,,46713,Great Lakes,10107,70,17,84
+C0048,Public,Master's degree,36,6030,Rocky Mountains,1305,14,17,81
+C0049,Public,Doctoral degree,60,44742,New England,2435,14,,81
+C0050,Private,Bachelor's degree,70,,Southeast,2149,29,20,
+C0051,Private,Doctoral degree,,21630,Mid East,4201,65,18,99
+C0052,Public,Master's degree,69,31350,Mid East,31186,35,,93
+C0053,Private,Master's degree,49,33020,Far West,1140,,20,100
+C0054,Private,Master's degree,94,9499,Mid East,11619,25,19,92
+C0055,Private,Bachelor's degree,85,31260,Great Lakes,1067,60,19,100
+C0056,Private,Bachelor's degree,51,44880,Far West,12109,5,,62
+C0057,Private,Bachelor's degree,67,5246,Southeast,23881,54,19,83
+C0058,Private,Bachelor's degree,62,27728,Plains,657,70,,100
+C0059,Public,Master's degree,,44008,Plains,24473,88,,53
+C0060,Public,Bachelor's degree,80,29103,Mid East,6122,36,20,100
+C0061,Private,Doctoral degree,51,6948,Mid East,710,69,14,91
+C0062,Private,Doctoral degree,68,34835,Great Lakes,3181,52,17,88
+C0063,Private,Doctoral degree,63,11455,Far West,532,20,33,73
+C0064,Private,Master's degree,58,20540,Great Lakes,4880,56,20,96
+C0065,Private,Doctoral degree,22,13895,Great Lakes,4561,67,19,77
+C0066,Private,Doctoral degree,65,14800,Mid East,2154,28,25,93
+C0067,Public,Master's degree,,8806,Southeast,26571,35,22,96
+C0068,Private,Doctoral degree,69,20730,Great Lakes,2058,8,19,99
+C0069,Public,Master's degree,67,23964,Mid East,888,39,,100
+C0070,Public,Doctoral degree,,41110,Plains,4157,44,,77
+C0071,Public,Doctoral degree,70,12048,Plains,31899,35,23,100
+C0072,Public,Doctoral degree,84,,Southeast,7144,49,21,
+C0073,Public,Master's degree,49,22770,Great Lakes,17497,25,18,98
+C0074,Public,Master's degree,37,12842,Great Lakes,1933,,21,100
+C0075,Public,Doctoral degree,47,12096,Southeast,1716,32,19,41
+C0076,Public,Doctoral degree,53,19490,Plains,1668,39,20,87
+C0077,Public,Doctoral degree,58,21285,Great Lakes,10929,46,,91
+C0078,Public,Doctoral degree,93,38200,Plains,2714,,19,99
+C0079,Public,Doctoral degree,77,21050,Southeast,482,60,18,100
+C0080,Public,Doctoral degree,61,24150,Mid East,6518,54,21,100
+C0081,Public,Doctoral degree,55,22484,Mid East,2933,22,20,100
+C0082,Public,Doctoral degree,47,23300,Mid East,2603,10,30,100
+C0083,Public,Doctoral degree,38,45372,Southeast,5898,8,17,89
+C0084,Public,Doctoral degree,21,6071,Mid East,1334,24,26,89
+C0085,Public,Doctoral degree,82,7044,Mid East,904,46,19,99
+C0086,Public,Doctoral degree,36,37348,Southwest,3608,30,21,99
+C0087,Public,Doctoral degree,61,28950,Great Lakes,1675,16,22,98
+C0088,Public,Doctoral degree,,27492,Great Lakes,3764,50,19,99
+C0089,Public,Doctoral degree,65,10355,New England,1144,47,,84
+C0090,Public,Bachelor's degree,97,7092,Plains,2068,17,16,93
+C0091,Private,Doctoral degree,68,30310,Southeast,2125,49,20,100
+C0092,Private,Master's degree,73,26430,Mid East,8685,87,23,97
+C0093,Private,Bachelor's degree,60,41680,Plains,4340,37,26,99
+C0094,Private,Doctoral degree,,6300,Great Lakes,3129,38,23,100
+C0095,Private,Master's degree,91,10864,Mid East,684,13,17,84
+C0096,Private,Master's degree,78,6390,Southeast,4785,11,,95
+C0097,Private,Master's degree,46,6583,Mid East,11929,33,18,93
+C0098,Private,Doctoral degree,70,47890,Southeast,2953,60,,71
+C0099,Private,Master's degree,72,11220,Southeast,29748,24,18,92
+C0100,Private,Doctoral degree,37,25470,New England,1635,47,22,100
+C0101,Private,Bachelor's degree,75,11094,Far West,2421,23,15,89
+C0102,Private,Master's degree,78,22080,Great Lakes,2081,35,19,100
+C0103,Public,Master's degree,43,30990,Plains,3274,14,17,98
+C0104,Private,Doctoral degree,73,22070,Southeast,17901,40,20,100
+C0105,Private,Doctoral degree,92,7327,Mid East,1422,36,19,94
+C0106,Private,Master's degree,72,17100,Mid East,662,81,,76
+C0107,Private,Doctoral degree,61,7022,Southeast,7850,6,19,87
+C0108,Private,Doctoral degree,66,10286,Great Lakes,2055,15,19,96
+C0109,Private,Doctoral degree,67,23021,New England,1678,21,17,99
+C0110,Private,Doctoral degree,,46085,Southwest,2390,13,,53
+C0111,Private,Doctoral degree,41,20470,New England,3153,14,19,100
+C0112,Private,Bachelor's degree,,27672,Southeast,20918,60,27,100
+C0113,Private,Doctoral degree,71,16992,Southeast,21271,24,20,68
+C0114,Private,Master's degree,64,,Mid East,3105,,,
+C0115,Private,Doctoral degree,36,27954,Mid East,11865,4,,100
+C0116,Private,Doctoral degree,45,5422,Southwest,2346,59,22,95
+C0117,Private,Master's degree,45,5785,New England,41368,14,22,95
+C0118,Private,Master's degree,58,13800,New England,5568,,22,88
+C0119,Private,Master's degree,,23800,Mid East,11778,23,17,100
+C0120,Private,Master's degree,82,7557,Far West,8883,39,22,85
+C0121,Private,Doctoral degree,49,10110,Southeast,41428,42,21,93
+C0122,Private,Doctoral degree,64,18256,Mid East,5270,54,30,100
+C0123,Private,Bachelor's degree,,30300,Great Lakes,2963,13,21,100
+C0124,Private,Master's degree,71,22330,Southeast,20169,24,19,99
+C0125,Private,Bachelor's degree,89,24350,Southwest,902,50,26,98
+C0126,Private,Doctoral degree,63,5786,Southwest,10872,31,18,97
+C0127,Public,Doctoral degree,6,10008,Southeast,22499,20,21,95
+C0128,Private,Doctoral degree,50,5173,Southeast,2203,28,,90
+C0129,Public,Doctoral degree,46,26550,Southeast,1136,20,16,100
+C0130,Private,Doctoral degree,96,5578,Southeast,28435,86,19,98
+C0131,Public,Master's degree,72,,New England,2966,34,20,
+C0132,Private,Doctoral degree,70,15010,New England,7578,67,19,98
+C0133,Private,Bachelor's degree,62,7575,New England,3534,20,18,97
+C0134,Private,Master's degree,42,46094,Great Lakes,15718,41,22,72
+C0135,Private,Doctoral degree,67,18506,Southeast,673,74,21,99
+C0136,Public,Master's degree,66,7249,Rocky Mountains,2565,39,29,94
+C0137,Private,Master's degree,70,46296,Mid East,10130,13,,75
+C0138,Private,Doctoral degree,83,28720,Southeast,806,22,15,100
+C0139,Private,Bachelor's degree,69,41450,New England,27692,54,17,97
+C0140,Private,Bachelor's degree,59,25220,Mid East,1553,18,,100
+C0141,Private,Doctoral degree,53,23332,Mid East,4114,29,21,100
+C0142,Private,Master's degree,51,13608,Mid East,18974,60,20,86
+C0143,Public,Master's degree,81,43500,Southeast,9661,32,,91
+C0144,Public,Doctoral degree,,6876,Southeast,949,0,32,99
+C0145,Public,Doctoral degree,64,14096,Mid East,6177,21,23,95
+C0146,Public,Doctoral degree,,6108,New England,2188,68,,77
+C0147,Private,Master's degree,38,41460,Southwest,9788,100,18,86
+C0148,Private,Master's degree,82,11966,New England,1222,20,20,80
+C0149,Public,Doctoral degree,,32192,Far West,3966,56,20,98
+C0150,Public,Doctoral degree,90,11940,Southeast,7645,83,20,93
+C0151,Private,Bachelor's degree,91,46370,Southeast,2391,27,21,75
+C0152,Private,Doctoral degree,71,20200,Mid East,4921,0,,100
+C0153,Public,Master's degree,12,17750,Southwest,1209,18,27,100
+C0154,Public,Doctoral degree,51,12450,Southeast,843,7,,91
+C0155,Public,Master's degree,80,20480,Far West,2129,26,25,97
+C0156,Private,Master's degree,55,12327,Southwest,27642,26,21,79
+C0157,Public,Doctoral degree,73,44272,Rocky Mountains,1804,34,,72
+C0158,Private,Doctoral degree,43,22740,Southeast,991,28,22,100
+C0159,Public,Master's degree,84,6256,Southeast,1534,48,,91
+C0160,Public,Master's degree,53,39890,Plains,24581,34,21,91
+C0161,Private,Master's degree,49,11092,Southeast,1543,73,20,75
+C0162,Private,Doctoral degree,57,21320,New England,1430,29,19,100
+C0163,Public,Doctoral degree,64,20960,Far West,870,80,23,97
+C0164,Public,Bachelor's degree,,,Plains,162,54,,
+C0165,Private,Master's degree,,39015,Southeast,1380,57,20,99
+C0166,Public,Doctoral degree,83,41250,Far West,5428,78,18,96
+C0167,Public,Master's degree,,24950,Southeast,8293,62,,100
+C0168,Private,Doctoral degree,31,13054,Far West,29905,20,22,91
+C0169,Private,Master's degree,68,27456,Southeast,13441,25,23,100
+C0170,Private,Doctoral degree,,29315,Southeast,32017,24,19,99
+C0171,Private,Bachelor's degree,66,22390,Southeast,2750,15,23,100
+C0172,Private,Doctoral degree,88,4984,Southwest,4656,15,19,83
+C0173,Private,Doctoral degree,74,29250,Plains,1677,50,,99
+C0174,Private,Doctoral degree,85,19770,Plains,1761,7,,93
+C0175,Private,Doctoral degree,96,23350,Southwest,1174,89,,99
+C0176,Public,Doctoral degree,32,23800,Southeast,1658,15,19,99
+C0177,Private,Master's degree,70,6507,Great Lakes,1086,69,18,95
+C0178,Private,Doctoral degree,,5085,Plains,3784,52,,91
+C0179,Public,Doctoral degree,40,8040,Southeast,28811,19,20,79
+C0180,Private,Doctoral degree,78,5614,Plains,52059,25,,96
+C0181,Public,Doctoral degree,72,,Plains,2173,8,23,
+C0182,Public,Doctoral degree,62,22090,Southeast,444,54,,100
+C0183,Private,Master's degree,91,6024,New England,3307,35,18,99
+C0184,Private,Doctoral degree,83,20780,Rocky Mountains,1797,77,20,94
+C0185,Private,Doctoral degree,58,10286,Southeast,7548,48,16,90
+C0186,Private,Doctoral degree,65,49138,Far West,1112,54,18,57
+C0187,Public,Master's degree,68,13525,New England,1090,42,,71
+C0188,Private,Doctoral degree,52,9666,Southeast,3114,59,21,86
+C0189,Private,Doctoral degree,69,5138,Southeast,2658,87,18,86
+C0190,Private,Doctoral degree,97,27546,Plains,28260,14,18,100
+C0191,Private,Doctoral degree,64,37234,Southeast,474,43,,89
+C0192,Private,Master's degree,100,26420,Far West,2596,37,25,97
+C0193,Private,Doctoral degree,56,8673,New England,10297,28,19,95
+C0194,Private,Master's degree,52,22891,Southeast,1100,0,,95
+C0195,Private,Doctoral degree,59,14050,Great Lakes,890,75,24,88
+C0196,Private,Doctoral degree,90,9776,New England,6485,70,23,98
+C0197,Public,Doctoral degree,52,6384,Southeast,959,66,19,96
+C0198,Private,Master's degree,63,45080,Far West,11015,59,19,95
+C0199,Private,Bachelor's degree,75,28210,Southeast,2677,16,23,100
+C0200,Private,Bachelor's degree,63,32284,Southeast,5644,14,21,100
+C0201,Private,Doctoral degree,73,31290,New England,1433,33,29,100
+C0202,Public,Doctoral degree,58,7510,Great Lakes,1333,32,,95
+C0203,Public,Doctoral degree,40,28000,Southeast,13621,9,20,99
+C0204,Private,Bachelor's degree,61,7490,Mid East,1577,45,19,98
+C0205,Private,Bachelor's degree,84,7602,Far West,2246,2,,86
+C0206,Private,Doctoral degree,60,19665,Southeast,10301,100,23,100
+C0207,Public,Doctoral degree,87,25800,Southeast,2542,28,22,100
+C0208,Private,Master's degree,95,26934,Far West,3463,36,19,100
+C0209,Private,Master's degree,59,29100,Southeast,378,65,,100
+C0210,Public,Doctoral degree,64,25046,Far West,3255,33,,98
+C0211,Public,Doctoral degree,72,7517,Far West,2730,67,20,75
+C0212,Private,Doctoral degree,42,7336,Southeast,15263,1,21,97
+C0213,Private,Bachelor's degree,44,35725,New England,2732,16,,92
+C0214,Private,Doctoral degree,65,29800,Far West,2776,48,,97
+C0215,Private,Master's degree,,,Mid East,6532,35,19,
+C0216,Private,Doctoral degree,72,33000,Southeast,4004,28,20,100
+C0217,Private,Bachelor's degree,80,44222,New England,479,55,21,53
+C0218,Public,Doctoral degree,33,8866,New England,3712,53,18,86
+C0219,Private,Doctoral degree,73,17211,Mid East,5149,19,18,96
+C0220,Private,Doctoral degree,92,6491,Far West,1178,16,19,82
+C0221,Private,Doctoral degree,49,34740,Mid East,2489,17,19,99
+C0222,Private,Doctoral degree,67,22508,Great Lakes,2036,42,19,98
+C0223,Public,Bachelor's degree,89,7500,Great Lakes,3458,30,21,89
+C0224,Public,Doctoral degree,96,25520,Mid East,3026,36,21,100
+C0225,Private,Doctoral degree,30,6870,Southeast,4021,40,22,100
+C0226,Private,Doctoral degree,67,6070,Plains,4604,48,,100
+C0227,Private,Master's degree,73,5376,New England,39557,16,,93
+C0228,Private,Master's degree,78,17040,Mid East,4665,17,16,87
+C0229,Private,Master's degree,85,11340,Southeast,2629,45,16,69
+C0230,Private,Master's degree,47,45625,Far West,4295,66,29,53
+C0231,Public,Doctoral degree,,45314,Southeast,1082,34,23,45
+C0232,Private,Bachelor's degree,93,7457,Southeast,973,53,17,64
+C0233,Public,Master's degree,57,8040,Mid East,1711,4,21,88
+C0234,Public,Doctoral degree,53,4429,Southeast,4578,25,27,97
+C0235,Private,Bachelor's degree,76,5153,Mid East,3275,33,20,94
+C0236,Private,Doctoral degree,,30596,Plains,804,21,21,96
+C0237,Private,Master's degree,44,26094,Southeast,1946,48,18,100
+C0238,Private,Doctoral degree,94,35062,Far West,77338,32,19,99
+C0239,Private,Bachelor's degree,42,45388,Mid East,1341,41,19,81
+C0240,Public,Master's degree,74,8342,Southeast,1014,76,20,75
+C0241,Public,Doctoral degree,63,35573,Mid East,1935,79,,96
+C0242,Private,Master's degree,52,31126,Great Lakes,2840,28,18,100
+C0243,Public,Bachelor's degree,15,32482,Great Lakes,5977,53,21,98
+C0244,Private,Bachelor's degree,27,6562,Southeast,8093,38,20,94
+C0245,Private,Doctoral degree,57,28800,Southeast,2111,30,22,99
+C0246,Public,Master's degree,48,15620,Mid East,8377,24,,95
+C0247,Public,Doctoral degree,57,6649,Mid East,2222,19,25,73
+C0248,Public,Master's degree,72,7127,Great Lakes,375,20,24,89
+C0249,Public,Doctoral degree,70,40649,Southeast,28998,11,21,80
+C0250,Public,Doctoral degree,58,28390,Mid East,2927,33,19,93
+C0251,Public,Doctoral degree,64,24579,Mid East,22752,14,19,100
+C0252,Public,Doctoral degree,56,6524,Plains,15048,58,20,91
+C0253,Public,Doctoral degree,38,6764,Plains,46817,89,22,97
+C0254,Private,Master's degree,38,26540,Great Lakes,2910,36,,100
+C0255,Private,Doctoral degree,67,9192,Southeast,684,61,19,94
+C0256,Private,Doctoral degree,62,36012,Mid East,3841,85,19,98
+C0257,Private,Bachelor's degree,59,17500,Mid East,1486,53,,89
+C0258,Public,Doctoral degree,84,42755,Mid East,2919,82,23,91
+C0259,Private,Master's degree,86,15718,Great Lakes,3525,59,19,94
+C0260,Private,Bachelor's degree,,45426,Great Lakes,11091,70,19,57
+C0261,Private,Doctoral degree,50,26076,Southeast,2307,,21,99
+C0262,Private,Master's degree,54,28850,Great Lakes,3583,9,21,100
+C0263,Public,Master's degree,,6350,Mid East,651,35,20,68
+C0264,Private,Master's degree,61,26820,Far West,3882,83,31,99
+C0265,Private,Bachelor's degree,65,25890,Southwest,9134,12,,100
+C0266,Public,Master's degree,77,31527,New England,33111,38,21,86
+C0267,Private,Master's degree,89,23718,Mid East,3082,41,21,100
+C0268,Private,Bachelor's degree,55,19650,Great Lakes,2012,31,18,100
+C0269,Private,Bachelor's degree,88,31424,Far West,662,15,19,100
+C0270,Public,Doctoral degree,75,26250,Plains,25670,40,18,99
+C0271,Private,Master's degree,62,32520,Mid East,2524,32,21,100
+C0272,Public,Doctoral degree,74,9356,Mid East,2367,25,20,84
+C0273,Private,Master's degree,46,26720,Mid East,10978,17,27,100
+C0274,Public,Doctoral degree,60,46269,Southwest,4042,25,,95
+C0275,Public,Doctoral degree,76,15995,Great Lakes,1173,32,21,95
+C0276,Private,Master's degree,94,5906,Far West,8645,17,18,91
+C0277,Public,Bachelor's degree,66,7172,Rocky Mountains,3048,50,21,74
+C0278,Public,Doctoral degree,,35900,Great Lakes,2277,26,22,100
+C0279,Public,Doctoral degree,80,20768,New England,5017,10,,95
+C0280,Public,Doctoral degree,74,27800,Mid East,986,81,21,100
+C0281,Private,Master's degree,72,39316,Southwest,17343,24,,99
+C0282,Public,Bachelor's degree,85,21890,Plains,1357,22,,100
+C0283,Private,Doctoral degree,38,7665,Great Lakes,36198,21,22,90
+C0284,Private,Bachelor's degree,88,40707,Mid East,3952,10,21,85
+C0285,Private,Bachelor's degree,77,8022,Southeast,26968,67,23,93
+C0286,Private,Doctoral degree,60,16610,Mid East,366,0,,100
+C0287,Private,Bachelor's degree,76,13746,Southeast,2615,6,19,70
+C0288,Private,Doctoral degree,85,21800,Mid East,1481,33,,95
+C0289,Public,Doctoral degree,74,28810,Great Lakes,3800,23,20,100
+C0290,Private,Doctoral degree,,35800,Southeast,1133,27,,98
+C0291,Private,Master's degree,69,34850,Far West,3305,11,19,100
+C0292,Private,Doctoral degree,55,22290,New England,243,21,16,99
+C0293,Private,Doctoral degree,61,22252,New England,5020,31,,100
+C0294,Private,Bachelor's degree,72,6158,Southeast,2477,55,19,71
+C0295,Public,Master's degree,75,7024,New England,350,37,23,76
+C0296,Private,Master's degree,60,7140,New England,16356,24,15,94
+C0297,Private,Bachelor's degree,100,26650,Southeast,1788,4,19,97
+C0298,Public,Doctoral degree,89,33020,New England,12525,30,24,97
+C0299,Private,Master's degree,35,30000,New England,2061,63,26,98
+C0300,Public,Doctoral degree,83,18494,Southeast,291,46,,100
+C0301,Private,Doctoral degree,33,46380,Plains,2415,31,,41
+C0302,Public,Doctoral degree,85,35820,Mid East,18207,80,16,98
+C0303,Private,Bachelor's degree,76,28350,Great Lakes,3492,33,15,99
+C0304,Private,Master's degree,,9861,Southeast,943,54,26,91
+C0305,Private,Doctoral degree,71,35730,New England,34009,38,17,72
+C0306,Public,Doctoral degree,43,25040,Southeast,3002,83,19,99
+C0307,Private,Doctoral degree,13,,Southeast,4890,9,,
+C0308,Private,Bachelor's degree,78,12862,Great Lakes,2097,64,17,63
+C0309,Private,Master's degree,67,29426,Mid East,992,23,15,96
+C0310,Private,Doctoral degree,94,8720,Mid East,9676,61,22,93
+C0311,Private,Bachelor's degree,77,13354,Mid East,1972,,15,95
+C0312,Private,Doctoral degree,49,7838,Far West,2970,27,16,95
+C0313,Private,Bachelor's degree,90,9816,New England,1169,43,20,91
+C0314,Private,Doctoral degree,63,41928,New England,1561,50,20,90
+C0315,Private,Doctoral degree,60,13750,Far West,2251,66,16,100
+C0316,Private,Bachelor's degree,,34368,Plains,18346,31,24,94
+C0317,Private,Doctoral degree,52,35700,Plains,10240,,,100
+C0318,Private,Master's degree,46,12002,Plains,17964,32,18,79
+C0319,Private,Doctoral degree,33,45622,Mid East,347,73,24,59
+C0320,Public,Doctoral degree,56,30780,Southwest,5011,86,25,97
+C0321,Private,Doctoral degree,67,26710,Mid East,4954,31,13,100
+C0322,Public,Master's degree,74,31385,New England,19703,4,21,100
+C0323,Private,Doctoral degree,57,26050,Southeast,8748,20,19,98
+C0324,Private,Master's degree,68,31000,New England,12938,3,16,100
+C0325,Private,Master's degree,,17010,Mid East,1023,15,,98
+C0326,Private,Master's degree,42,37352,Southeast,17849,19,23,100
+C0327,Private,Doctoral degree,71,17724,New England,2245,68,18,100
+C0328,Private,Doctoral degree,86,9760,Great Lakes,5825,38,20,91
+C0329,Private,Doctoral degree,93,33690,Mid East,1595,36,20,98
+C0330,Private,Master's degree,95,6265,Plains,31205,84,18,94
+C0331,Public,Doctoral degree,58,7090,Mid East,1162,13,24,92
+C0332,Private,Bachelor's degree,61,6468,Great Lakes,1298,44,,95
+C0333,Public,Doctoral degree,68,45527,Great Lakes,2181,66,18,63
+C0334,Public,Doctoral degree,67,28240,Southeast,2823,56,22,92
+C0335,Private,Master's degree,59,25416,Southeast,1221,23,30,100
+C0336,Private,Doctoral degree,58,6550,Great Lakes,11287,24,21,85
+C0337,Public,Doctoral degree,84,26280,Mid East,2733,66,,100
+C0338,Private,Doctoral degree,57,10838,Great Lakes,14934,57,22,85
+C0339,Private,Doctoral degree,15,33830,Mid East,6429,27,20,99
+C0340,Public,Doctoral degree,38,23200,Mid East,20517,58,18,99
+C0341,Private,Master's degree,,33280,Mid East,1671,27,,98
+C0342,Private,Doctoral degree,39,40600,Mid East,2302,74,13,98
+C0343,Private,Master's degree,7,36051,Southeast,1378,21,22,99
+C0344,Private,Bachelor's degree,100,10653,Southeast,2074,9,18,90
+C0345,Private,Master's degree,62,9180,New England,1288,43,,99
+C0346,Private,Doctoral degree,64,1032,Southwest,34379,50,,18
+C0347,Private,Bachelor's degree,60,33145,Mid East,2001,67,21,100
+C0348,Private,Master's degree,61,19000,Plains,1375,24,23,100
+C0349,Private,Doctoral degree,50,7401,Southwest,3962,17,25,83
+C0350,Private,Bachelor's degree,40,17400,New England,2569,25,18,95
+C0351,Private,Bachelor's degree,51,29836,Southeast,6714,30,33,97
+C0352,Private,Master's degree,83,26240,Mid East,3193,27,24,100
+C0353,Public,Master's degree,68,26430,Mid East,5870,43,,95
+C0354,Public,Doctoral degree,27,10054,Plains,505,20,22,90
+C0355,Private,Doctoral degree,17,39040,Mid East,16958,53,22,97
+C0356,Public,Doctoral degree,,11448,Great Lakes,9591,35,19,92
+C0357,Public,Doctoral degree,,7265,New England,1409,31,23,94
+C0358,Public,Master's degree,,30040,Southeast,1122,17,22,100
+C0359,Public,Master's degree,69,12668,Southeast,3883,10,19,54
+C0360,Public,Doctoral degree,53,14240,New England,1392,81,20,75
+C0361,Public,Master's degree,73,23612,Great Lakes,1183,9,15,98
+C0362,Public,Master's degree,88,27345,Plains,11369,30,19,100
+C0363,Public,Master's degree,84,12160,Mid East,194,40,,100
+C0364,Private,Doctoral degree,,22196,Southeast,4260,82,21,95
+C0365,Private,Doctoral degree,66,5824,Mid East,3028,54,19,93
+C0366,Private,Doctoral degree,35,32370,Southeast,59589,74,,91
+C0367,Private,Master's degree,96,31280,Southeast,6421,16,20,97
+C0368,Private,Doctoral degree,,30540,Southeast,2396,44,16,100
+C0369,Private,Doctoral degree,47,6908,Southeast,1343,27,23,89
+C0370,Public,Master's degree,73,46902,New England,923,11,,55
+C0371,Public,Master's degree,77,21832,New England,1469,72,,99
+C0372,Private,Master's degree,45,15688,New England,793,63,19,99
+C0373,Private,Master's degree,75,9386,Southeast,1044,29,29,99
+C0374,Private,Master's degree,74,8849,Plains,2039,55,19,91
+C0375,Private,Bachelor's degree,29,9032,Far West,2357,47,,97
+C0376,Private,Master's degree,60,32920,Southeast,2040,31,,89
+C0377,Private,Master's degree,76,29990,Far West,883,3,29,100
+C0378,Private,Doctoral degree,60,13602,Rocky Mountains,1172,50,19,81
+C0379,Private,Bachelor's degree,80,8460,New England,1963,14,20,77
+C0380,Private,Doctoral degree,74,31990,Southeast,3067,37,23,100
+C0381,Private,Master's degree,34,27900,Southeast,6316,43,,92
+C0382,Private,Bachelor's degree,77,4000,Southwest,1113,39,,95
+C0383,Private,Doctoral degree,61,7577,Great Lakes,1765,42,16,84
+C0384,Private,Master's degree,44,13397,Plains,2854,35,,80
+C0385,Private,Bachelor's degree,59,9852,Mid East,1351,30,27,76
+C0386,Private,Master's degree,54,5808,Southwest,1144,24,24,96
+C0387,Private,Doctoral degree,58,11025,Southwest,3694,14,17,96
+C0388,Private,Doctoral degree,59,13412,Southeast,2251,24,23,93
+C0389,Private,Doctoral degree,63,26500,New England,14691,88,18,96
+C0390,Private,Master's degree,68,6344,Great Lakes,1271,0,13,87
+C0391,Private,Bachelor's degree,95,19986,Great Lakes,1921,30,19,97
+C0392,Public,Doctoral degree,35,4482,Southeast,2882,15,,89
+C0393,Private,Bachelor's degree,51,,Southwest,10913,37,21,
+C0394,Public,Doctoral degree,41,30290,Southeast,579,58,19,100
+C0395,Private,Master's degree,79,47510,Mid East,2756,51,,41
+C0396,Private,Bachelor's degree,,5105,Southeast,4179,51,22,69
+C0397,Private,Doctoral degree,58,5574,Far West,1408,41,16,92
+C0398,Private,Master's degree,58,6058,Mid East,3657,55,,91
+C0399,Private,Master's degree,80,22628,Mid East,26132,29,20,100
+C0400,Public,Doctoral degree,53,25880,Mid East,3383,48,19,96
+C0401,Private,Bachelor's degree,64,43902,Far West,1623,45,24,92
+C0402,Private,Doctoral degree,44,28378,Great Lakes,11823,,22,83
+C0403,Private,Master's degree,67,,Great Lakes,1400,71,,
+C0404,Private,Master's degree,,6968,Great Lakes,27416,46,21,90
+C0405,Private,Bachelor's degree,,31866,Mid East,2297,27,18,99
+C0406,Private,Master's degree,56,44000,Southeast,824,88,,61
+C0407,Private,Doctoral degree,93,5818,New England,3675,27,18,99
+C0408,Private,Master's degree,,,Southwest,3175,44,21,
+C0409,Private,Bachelor's degree,,6690,Mid East,17220,58,,92
+C0410,Private,Bachelor's degree,51,10800,Mid East,4336,,25,100
+C0411,Private,Bachelor's degree,67,18690,Mid East,2150,9,22,93
+C0412,Private,Bachelor's degree,57,22700,Southeast,29517,21,22,100
+C0413,Public,Doctoral degree,66,26880,Mid East,1701,90,32,100
+C0414,Public,Master's degree,85,15840,Plains,8483,19,14,100
+C0415,Private,Master's degree,60,18300,Southeast,8279,68,20,100
+C0416,Public,Doctoral degree,81,5924,Mid East,7546,18,16,88
+C0417,Private,Master's degree,34,6265,Great Lakes,11020,44,25,83
+C0418,Public,Doctoral degree,6,6252,Plains,2378,45,21,95
+C0419,Private,Master's degree,85,33746,Great Lakes,2175,19,18,100
+C0420,Private,Master's degree,,27456,Southeast,3905,51,,98
+C0421,Private,Master's degree,12,13078,Mid East,9053,65,19,97
+C0422,Private,Master's degree,,16800,Southwest,613,31,,100
+C0423,Private,Master's degree,80,22734,Far West,15616,27,16,99
+C0424,Public,Master's degree,68,26794,Plains,1009,52,29,100
+C0425,Private,Doctoral degree,69,3910,New England,571,53,20,93
+C0426,Private,Doctoral degree,46,38510,Far West,11321,84,19,99
+C0427,Private,Bachelor's degree,49,22850,Plains,3352,80,23,100
+C0428,Private,Master's degree,84,24948,Great Lakes,729,31,,100
+C0429,Public,Doctoral degree,31,7508,Southeast,2292,16,18,88
+C0430,Public,Doctoral degree,,13010,Southeast,2486,32,21,79
+C0431,Private,Bachelor's degree,72,45074,Far West,10192,35,,93
+C0432,Private,Master's degree,69,20700,Southeast,2855,25,30,98
+C0433,Private,Doctoral degree,76,28690,Mid East,1255,14,18,100
+C0434,Private,Bachelor's degree,73,46752,Mid East,926,93,19,61
+C0435,Private,Master's degree,73,20040,Great Lakes,6975,7,,98
+C0436,Private,Master's degree,61,10037,Southeast,5452,47,24,83
+C0437,Private,Bachelor's degree,95,30999,Southwest,6075,25,23,100
+C0438,Private,Doctoral degree,41,34470,Plains,5445,15,,97
+C0439,Public,Doctoral degree,57,18900,Far West,1035,59,,100
+C0440,Private,Master's degree,58,6471,Mid East,951,60,20,70
+C0441,Public,Master's degree,87,13470,Mid East,525,24,19,92
+C0442,Private,Bachelor's degree,69,,Southeast,2023,71,,
+C0443,Public,Doctoral degree,72,6624,Southwest,3414,44,19,77
+C0444,Private,Master's degree,60,7063,New England,412,,22,98
+C0445,Private,Master's degree,95,8756,Rocky Mountains,924,40,14,85
+C0446,Public,Doctoral degree,60,34250,Southeast,,24,17,99
+C0447,Private,Master's degree,86,9027,Great Lakes,16111,45,16,89
+C0448,Private,Master's degree,67,25772,Great Lakes,44599,23,21,95
+C0449,Public,Doctoral degree,45,8574,Far West,11241,56,20,85
+C0450,Public,Doctoral degree,49,24634,Mid East,3084,18,27,90
+C0451,Public,Doctoral degree,,31940,Southwest,4053,18,20,99
+C0452,Private,Doctoral degree,91,7255,Great Lakes,9478,15,24,86
+C0453,Private,Master's degree,64,36860,Southeast,43762,,,98
+C0454,Private,Doctoral degree,92,6336,Southwest,5140,2,23,64
+C0455,Private,Master's degree,83,6450,Southeast,28786,61,15,70
+C0456,Private,Bachelor's degree,71,8900,Mid East,669,49,18,99
+C0457,Private,Master's degree,68,33600,Great Lakes,2495,33,19,79
+C0458,Public,Doctoral degree,64,7410,Southeast,12791,49,18,50
+C0459,Private,Master's degree,85,13608,Mid East,31820,32,,89
+C0460,Private,Bachelor's degree,46,28160,Mid East,4034,60,16,97
+C0461,Public,Doctoral degree,65,8769,Plains,846,13,20,81
+C0462,Public,Bachelor's degree,67,5055,Mid East,10520,50,,88
+C0463,Public,Doctoral degree,86,22425,Plains,3210,14,13,99
+C0464,Public,Master's degree,83,45612,Mid East,310,21,,64
+C0465,Private,Master's degree,70,4060,New England,3266,30,,91
+C0466,Public,Doctoral degree,60,40640,Far West,22206,66,18,98
+C0467,Private,Doctoral degree,76,28483,Southeast,1455,77,22,93
+C0468,Public,Master's degree,,29350,Southeast,4456,32,30,99
+C0469,Public,Doctoral degree,67,6698,Mid East,1877,34,22,88
+C0470,Public,Master's degree,69,29894,Southwest,1117,52,20,100
+C0471,Public,Doctoral degree,57,8916,Mid East,1190,33,19,74
+C0472,Public,Master's degree,26,20090,Southwest,2187,,25,100
+C0473,Private,Master's degree,20,31170,Southeast,17129,29,,98
+C0474,Public,Doctoral degree,54,26344,New England,11414,21,,100
+C0475,Public,Doctoral degree,60,8100,Great Lakes,24630,26,18,93
+C0476,Public,Master's degree,83,12300,Great Lakes,653,34,28,97
+C0477,Public,Doctoral degree,65,16170,Great Lakes,541,49,18,98
+C0478,Private,Doctoral degree,81,28966,Rocky Mountains,953,87,31,100
+C0479,Private,Doctoral degree,,6675,US Service schools,1255,48,20,82
+C0480,Private,Master's degree,79,5147,Far West,2912,57,16,81
+C0481,Private,Bachelor's degree,65,20550,New England,15426,43,30,100
+C0482,Private,Bachelor's degree,,28580,Mid East,11648,28,23,99
+C0483,Private,Bachelor's degree,83,5642,Great Lakes,2871,14,22,96
+C0484,Private,Doctoral degree,80,23250,Southeast,48036,16,13,100
+C0485,Public,Bachelor's degree,80,5587,Great Lakes,20181,52,26,
+C0486,Public,Master's degree,,19970,Southeast,1660,37,,100
+C0487,Public,Bachelor's degree,46,22510,Rocky Mountains,1356,34,20,100
+C0488,Public,Bachelor's degree,75,32890,Mid East,1037,82,19,100
+C0489,Public,Doctoral degree,43,45870,Southeast,1647,23,19,74
+C0490,Public,Master's degree,16,14740,Mid East,16935,75,23,56
+C0491,Public,Bachelor's degree,80,30880,Great Lakes,2752,44,31,81
+C0492,Private,Doctoral degree,69,7506,Southeast,10561,29,,94
+C0493,Private,Master's degree,14,19775,Mid East,3299,42,18,100
+C0494,Public,Doctoral degree,29,7484,Great Lakes,4025,29,19,86
+C0495,Private,Master's degree,100,20180,Far West,6973,,22,95
+C0496,Private,Bachelor's degree,37,10209,Mid East,19464,10,25,71
+C0497,Public,Doctoral degree,74,34640,Southeast,18398,76,22,100
+C0498,Public,Doctoral degree,60,46870,Far West,1012,64,,88
+C0499,Private,Master's degree,82,41290,New England,26594,38,20,94
+C0500,Public,Doctoral degree,67,29890,Mid East,4157,56,25,100
+C0501,Public,Doctoral degree,,23231,Plains,1522,55,21,100
+C0502,Private,Master's degree,60,6760,Mid East,271,68,25,83
+C0503,Private,Master's degree,70,14880,Plains,3661,26,20,64
+C0504,Private,Doctoral degree,33,23180,New England,2073,15,24,100
+C0505,Private,Doctoral degree,66,48696,Mid East,2187,12,21,78
+C0506,Public,Doctoral degree,61,33000,New England,1288,86,27,100
+C0507,Public,Doctoral degree,63,29310,Mid East,646,15,23,99
+C0508,Public,Doctoral degree,88,,Southeast,33307,67,22,
+C0509,Public,Doctoral degree,81,21566,Plains,20503,16,,81
+C0510,Public,Doctoral degree,64,6542,Southeast,4649,56,15,87
+C0511,Private,Master's degree,73,11194,Far West,1721,30,21,96
+C0512,Private,Doctoral degree,98,35515,Mid East,3150,20,17,92
+C0513,Public,Doctoral degree,71,15150,Southeast,2920,31,18,95
+C0514,Public,Master's degree,,27500,Southeast,5633,16,20,100
+C0515,Private,Master's degree,74,25098,Southwest,2269,65,23,100
+C0516,Private,Master's degree,76,7222,Rocky Mountains,16277,21,21,83
+C0517,Public,Doctoral degree,,38028,New England,1198,13,20,99
+C0518,Private,Master's degree,54,24650,Great Lakes,347,42,20,100
+C0519,Private,Master's degree,57,9720,Southeast,18776,17,,68
+C0520,Private,Master's degree,84,8157,Great Lakes,594,10,25,88
+C0521,Private,Master's degree,,8972,Southeast,7745,27,18,91
+C0522,Private,Doctoral degree,77,38150,Far West,3619,76,23,99
+C0523,Private,Bachelor's degree,75,13470,Southeast,6179,29,19,95
+C0524,Private,Master's degree,75,13560,Southeast,3229,40,20,100
+C0525,Private,Master's degree,77,7078,Plains,2030,14,16,82
+C0526,Private,Master's degree,54,40426,Far West,7170,68,,95
+C0527,Private,Bachelor's degree,,19670,Far West,552,8,,99
+C0528,Private,Doctoral degree,70,7660,Far West,635,27,28,95
+C0529,Private,Doctoral degree,,7109,Southeast,3227,34,,76
+C0530,Private,Doctoral degree,47,47343,Plains,3516,,17,68
+C0531,Private,Doctoral degree,45,33358,Mid East,1735,82,18,98
+C0532,Public,Master's degree,87,37505,Mid East,1923,55,,94
+C0533,Private,Doctoral degree,54,14940,Southeast,2357,12,,88
+C0534,Private,Doctoral degree,73,11950,Far West,6296,45,,72
+C0535,Private,Master's degree,45,6353,Southwest,1692,8,,95
+C0536,Private,Master's degree,78,18500,Southeast,1979,69,22,100
+C0537,Private,Master's degree,92,5640,Southeast,30974,28,17,99
+C0538,Private,Master's degree,49,25990,New England,14707,13,,100
+C0539,Private,Doctoral degree,82,6552,Southwest,1917,13,19,77
+C0540,Private,Bachelor's degree,64,28055,New England,926,,18,100
+C0541,Public,Master's degree,52,,Far West,2556,21,17,
+C0542,Public,Master's degree,68,35085,Southwest,15097,,19,96
+C0543,Private,Master's degree,,6926,New England,2442,8,26,89
+C0544,Private,Bachelor's degree,77,43498,Southeast,30564,49,20,87
+C0545,Private,Doctoral degree,33,36310,Mid East,2315,12,20,99
+C0546,Private,Bachelor's degree,,22730,Southeast,6728,31,19,100
+C0547,Private,Master's degree,100,8100,Mid East,13352,46,23,96
+C0548,Private,Doctoral degree,74,23970,Southeast,23019,10,23,100
+C0549,Public,Doctoral degree,57,37362,Mid East,3736,39,,97
+C0550,Public,Doctoral degree,50,45470,Mid East,6628,86,,61
+C0551,Public,Doctoral degree,44,7276,Mid East,4036,14,,78
+C0552,Private,Doctoral degree,61,29606,Far West,10142,26,21,99
+C0553,Public,Master's degree,83,23350,Southeast,10943,48,18,97
+C0554,Private,Master's degree,62,12815,Southwest,2170,61,21,83
+C0555,Private,Master's degree,70,8312,Plains,1170,0,19,97
+C0556,Private,Master's degree,56,7022,Southwest,2573,38,20,87
+C0557,Private,Bachelor's degree,72,16340,Far West,1440,26,19,92
+C0558,Private,Master's degree,58,6344,Great Lakes,1596,50,17,82
+C0559,Public,Master's degree,57,7115,New England,1175,10,22,84
+C0560,Private,Doctoral degree,68,6866,Mid East,16077,61,20,100
+C0561,Private,Master's degree,,5706,Southwest,37270,42,29,
+C0562,Private,Master's degree,31,23590,Southeast,473,19,,97
+C0563,Public,Master's degree,44,7617,Southeast,2512,25,21,92
+C0564,Private,Doctoral degree,99,34975,Plains,5678,12,28,99
+C0565,Private,Bachelor's degree,28,29200,Plains,693,20,,99
+C0566,Private,Doctoral degree,91,26640,Mid East,2839,74,,92
+C0567,Private,Doctoral degree,66,21020,Southwest,837,33,24,98
+C0568,Public,Doctoral degree,,8211,Plains,4441,43,,75
+C0569,Private,Bachelor's degree,79,29992,Great Lakes,6305,21,20,98
+C0570,Private,Doctoral degree,58,7728,Southeast,10755,4,27,83
+C0571,Private,Doctoral degree,69,37530,Southeast,3523,12,,100
+C0572,Private,Bachelor's degree,75,30562,Mid East,925,36,22,100
+C0573,Private,Master's degree,66,24930,Southeast,9928,43,19,100
+C0574,Private,Doctoral degree,75,13550,Far West,989,51,,94
+C0575,Public,Master's degree,59,35650,Far West,3470,43,20,95
+C0576,Private,Bachelor's degree,62,29410,Plains,1850,33,30,100
+C0577,Private,Master's degree,95,9946,Mid East,3062,65,19,97
+C0578,Private,Master's degree,80,9448,Plains,1907,54,18,87
+C0579,Private,Doctoral degree,64,2712,Far West,5528,33,17,35
+C0580,Public,Master's degree,68,27970,Mid East,1791,41,16,100
+C0581,Private,Master's degree,69,6739,Mid East,3848,6,20,92
+C0582,Private,Bachelor's degree,21,15915,Southwest,114,38,,86
+C0583,Private,Bachelor's degree,81,29450,Great Lakes,2116,31,21,100
+C0584,Private,Doctoral degree,69,24790,Rocky Mountains,1787,19,,99
+C0585,Private,Master's degree,88,8100,Southeast,8770,26,15,97
+C0586,Private,Bachelor's degree,96,46080,Southeast,4814,77,22,58
+C0587,Private,Bachelor's degree,86,28720,Southeast,1449,34,,94
+C0588,Private,Master's degree,98,5700,Plains,1666,36,18,
+C0589,Public,Doctoral degree,66,6846,Plains,3521,27,21,98
+C0590,Private,Master's degree,,32134,Southeast,585,17,20,100
+C0591,Private,Master's degree,91,31668,Southwest,4407,49,19,91
+C0592,Private,Doctoral degree,39,26780,New England,370,27,18,99
+C0593,Public,Doctoral degree,81,13728,Southeast,6747,21,18,97
+C0594,Public,Doctoral degree,61,37170,Southeast,1004,36,15,100
+C0595,Private,Master's degree,,,Far West,1773,86,19,
+C0596,Private,Bachelor's degree,,23628,Southwest,1796,15,20,80
+C0597,Private,Master's degree,72,40700,Southeast,478,80,25,93
+C0598,Public,Doctoral degree,,9474,New England,1655,32,20,95
+C0599,Private,Bachelor's degree,74,11904,Plains,2421,8,19,90
+C0600,Private,Bachelor's degree,82,6207,Mid East,11885,,26,95
+C0601,Public,Master's degree,34,29090,New England,920,56,23,100
+C0602,Private,Doctoral degree,,6263,Great Lakes,506,35,19,96
+C0603,Private,Doctoral degree,71,17720,Great Lakes,24932,13,19,61
+C0604,Private,Master's degree,17,8124,Mid East,458,16,28,90
+C0605,Private,Master's degree,38,,Mid East,39794,72,26,
+C0606,Public,Doctoral degree,72,,Mid East,37272,39,,
+C0607,Public,Doctoral degree,49,22683,Southwest,8371,18,28,93
+C0608,Public,Doctoral degree,37,18106,Mid East,9775,10,23,99
+C0609,Public,Doctoral degree,71,24435,Plains,4587,26,19,96
+C0610,Public,Doctoral degree,80,7294,New England,1307,82,21,94
+C0611,Private,Bachelor's degree,92,41400,Mid East,28038,7,19,100
+C0612,Public,Master's degree,67,8376,Southwest,6634,35,21,95
+C0613,Public,Doctoral degree,70,35000,Southeast,2828,87,18,97
+C0614,Private,Master's degree,,4866,Southwest,8283,27,,95
+C0615,Private,Bachelor's degree,50,7580,Southeast,1938,28,21,98
+C0616,Public,Doctoral degree,52,27530,Great Lakes,3211,10,17,100
+C0617,Private,Master's degree,57,23160,Mid East,26887,51,17,97
+C0618,Private,Master's degree,83,27598,Mid East,4960,32,,100
+C0619,Private,Bachelor's degree,,5468,Mid East,20877,16,16,96
+C0620,Public,Doctoral degree,63,40170,Southeast,14513,60,,60
+C0621,Public,Doctoral degree,77,39810,Plains,4383,22,18,91
+C0622,Private,Doctoral degree,64,18236,Far West,623,68,30,89
+C0623,Public,Master's degree,7,7181,Plains,2223,0,17,96
+C0624,Private,Bachelor's degree,,12960,Southeast,16083,64,,86
+C0625,Private,Doctoral degree,49,,Plains,2480,39,,
+C0626,Private,Bachelor's degree,45,27830,New England,327,17,21,100
+C0627,Private,Master's degree,75,29458,Southwest,189,11,22,100
+C0628,Private,Master's degree,74,33740,Great Lakes,5304,26,20,95
+C0629,Private,Master's degree,65,9404,New England,16583,56,26,91
+C0630,Private,Bachelor's degree,24,6184,Great Lakes,1997,35,18,70
+C0631,Private,Doctoral degree,55,7065,Plains,2249,71,15,70
+C0632,Private,Bachelor's degree,59,8128,Great Lakes,3861,46,19,88
+C0633,Public,Doctoral degree,80,31034,Southeast,8351,7,19,91
+C0634,Public,Doctoral degree,69,39084,Southeast,1724,20,20,91
+C0635,Public,Doctoral degree,35,29810,Plains,24143,44,,100
+C0636,Public,Bachelor's degree,23,10347,Great Lakes,558,68,,59
+C0637,Public,Doctoral degree,58,9239,Far West,2371,43,,89
+C0638,Public,Bachelor's degree,72,43245,Southeast,25264,55,,81
+C0639,Public,Doctoral degree,13,6348,Great Lakes,2956,38,18,93
+C0640,Private,Bachelor's degree,45,11525,Mid East,2466,38,19,97
+C0641,Private,Master's degree,66,39794,Far West,4542,78,18,95
+C0642,Private,Bachelor's degree,85,21100,Southwest,2023,30,23,96
+C0643,Public,Doctoral degree,68,6287,Rocky Mountains,884,59,19,80
+C0644,Private,Master's degree,64,9080,Mid East,9513,28,16,88
+C0645,Private,Doctoral degree,79,30950,Mid East,1747,35,20,100
+C0646,Private,Bachelor's degree,39,35204,Southeast,28592,41,21,98
+C0647,Private,Master's degree,77,31604,Great Lakes,3136,38,18,100
+C0648,Private,Doctoral degree,66,22455,Rocky Mountains,3417,22,20,100
+C0649,Private,Doctoral degree,77,33852,Great Lakes,7400,9,18,100
+C0650,Private,Doctoral degree,54,10286,Plains,8510,31,,92
+C0651,Public,Master's degree,64,34850,Southeast,1542,47,18,100
+C0652,Public,Doctoral degree,,14868,Rocky Mountains,1629,30,20,99
+C0653,Public,Master's degree,49,24660,Mid East,3800,47,21,98
+C0654,Private,Master's degree,72,7200,New England,13900,55,22,91
+C0655,Private,Master's degree,7,24040,Mid East,680,,19,99
+C0656,Public,Doctoral degree,82,25126,New England,12818,14,,98
+C0657,Public,Doctoral degree,73,6579,Southeast,6387,29,18,92
+C0658,Private,Master's degree,54,29959,Southwest,4178,19,19,100
+C0659,Public,Doctoral degree,78,,New England,1399,78,16,
+C0660,Public,Doctoral degree,76,39120,Mid East,6634,54,29,99
+C0661,Public,Master's degree,18,7466,Plains,322,48,,97
+C0662,Private,Doctoral degree,93,9950,Great Lakes,1026,8,,81
+C0663,Public,Doctoral degree,84,25468,Mid East,30478,29,20,94
+C0664,Private,Bachelor's degree,69,7149,Southeast,633,12,19,90
+C0665,Public,Doctoral degree,47,6863,Southeast,1875,28,21,93
+C0666,Private,Bachelor's degree,60,23650,New England,2229,13,21,99
+C0667,Private,Doctoral degree,65,34480,Southeast,2224,27,,100
+C0668,Private,Master's degree,36,6438,Great Lakes,745,19,19,97
+C0669,Private,Bachelor's degree,,39220,Southeast,4270,53,32,99
+C0670,Public,Master's degree,36,30700,Plains,3319,53,30,100
+C0671,Private,Master's degree,73,13348,Southwest,11767,13,26,85
+C0672,Private,Master's degree,65,20000,Southeast,866,42,,100
+C0673,Private,Master's degree,54,43656,Plains,2229,43,30,90
+C0674,Private,Master's degree,78,6639,Southwest,6733,1,18,91
+C0675,Private,Master's degree,25,13380,Plains,7892,19,,100
+C0676,Private,Master's degree,80,28190,Great Lakes,28895,30,28,100
+C0677,Public,Bachelor's degree,58,44902,Mid East,682,62,22,72
+C0678,Public,Master's degree,84,9456,Great Lakes,6680,70,21,92
+C0679,Private,Doctoral degree,64,45018,Great Lakes,2911,67,17,41
+C0680,Private,Doctoral degree,57,32445,Great Lakes,1848,4,,100
+C0681,Private,Doctoral degree,69,6624,Great Lakes,5139,84,,66
+C0682,Public,Master's degree,73,6107,New England,3554,45,,75
+C0683,Private,Master's degree,47,8100,New England,125,65,17,96
+C0684,Public,Master's degree,68,4558,Plains,28623,48,19,99
+C0685,Public,Doctoral degree,,10466,New England,4241,46,18,96
+C0686,Public,Doctoral degree,,5818,Far West,8162,15,,90
+C0687,Public,Doctoral degree,64,17576,Great Lakes,1755,17,19,95
+C0688,Public,Doctoral degree,31,8506,Southwest,704,48,,79
+C0689,Public,Master's degree,48,4528,Plains,3787,76,17,96
+C0690,Public,Master's degree,54,38110,Great Lakes,38310,57,22,98
+C0691,Private,Bachelor's degree,78,6343,Great Lakes,322,53,21,69
+C0692,Private,Master's degree,66,5950,New England,3393,8,16,96
+C0693,Private,Doctoral degree,68,34424,Southeast,1835,36,18,95
+C0694,Private,Doctoral degree,86,7126,Southeast,5345,78,20,97
+C0695,Private,Doctoral degree,74,42292,Mid East,9902,19,20,75
+C0696,Private,Master's degree,83,5846,Great Lakes,2397,76,17,82
+C0697,Public,Master's degree,89,45358,Great Lakes,2187,16,,64
+C0698,Public,Doctoral degree,64,6207,Southeast,1640,18,17,61
+C0699,Private,Doctoral degree,78,7140,Mid East,20573,5,21,92
+C0700,Private,Doctoral degree,67,16480,Great Lakes,12024,,18,98
+C0701,Private,Bachelor's degree,,7784,Southeast,962,45,19,92
+C0702,Private,Bachelor's degree,91,9364,Far West,1979,65,20,97
+C0703,Private,Doctoral degree,59,,Great Lakes,1459,27,19,
+C0704,Private,Bachelor's degree,37,34644,Far West,3074,7,19,100
+C0705,Public,Master's degree,44,9804,Southwest,6264,54,25,99
+C0706,Private,Master's degree,68,23300,Rocky Mountains,1444,91,22,100
+C0707,Public,Master's degree,,43554,Great Lakes,3170,25,19,68
+C0708,Public,Doctoral degree,81,37400,Southeast,1554,22,20,96
+C0709,Public,Doctoral degree,73,12550,Great Lakes,6301,14,17,96
+C0710,Public,Master's degree,71,25736,Great Lakes,736,62,21,100
+C0711,Private,Master's degree,72,21200,Southwest,2291,90,,100
+C0712,Public,Bachelor's degree,85,27920,Southeast,18074,38,20,100
+C0713,Private,Doctoral degree,59,6500,Mid East,1315,41,18,90
+C0714,Public,Master's degree,37,18640,Plains,6225,52,20,100
+C0715,Private,Master's degree,65,29732,Plains,1263,33,23,94
+C0716,Private,Doctoral degree,,46285,Southeast,27292,16,20,61
+C0717,Private,Bachelor's degree,26,8100,New England,16765,11,19,96
+C0718,Private,Master's degree,71,7343,Southeast,8376,44,20,91
+C0719,Private,Master's degree,79,32256,Southeast,5852,54,16,92
+C0720,Public,Master's degree,47,,New England,5693,22,22,
+C0721,Private,Master's degree,96,18770,Far West,3269,27,18,93
+C0722,Public,Doctoral degree,30,8920,Great Lakes,49878,,18,93
+C0723,Private,Master's degree,37,46298,Southeast,14404,24,19,67
+C0724,Public,Doctoral degree,49,,Mid East,419,81,25,
+C0725,Public,Master's degree,86,18900,Southeast,4043,21,17,96
+C0726,Private,Doctoral degree,68,9313,Great Lakes,17004,,21,73
+C0727,Private,Master's degree,69,21150,Mid East,6238,42,20,91
+C0728,Public,Master's degree,83,7530,New England,2136,28,,94
+C0729,Private,Master's degree,84,7181,Mid East,6725,63,15,91
+C0730,Public,Doctoral degree,,6775,Great Lakes,9166,22,19,81
+C0731,Public,Doctoral degree,53,7033,Southeast,1146,40,25,90
+C0732,Public,Bachelor's degree,83,46509,Far West,10599,55,,75
+C0733,Private,Master's degree,82,7676,Far West,23060,40,28,89
+C0734,Private,Bachelor's degree,74,7140,Mid East,1419,62,18,87
+C0735,Private,Doctoral degree,79,17014,Far West,6051,65,21,99
+C0736,Private,Doctoral degree,91,23900,Great Lakes,2361,82,,100
+C0737,Private,Doctoral degree,,5241,Southeast,1321,14,19,85
+C0738,Private,Doctoral degree,77,23460,Southeast,2204,52,,98
+C0739,Public,Doctoral degree,8,5250,Mid East,29127,0,17,92
+C0740,Public,Master's degree,69,20595,Rocky Mountains,11674,42,25,69
+C0741,Public,Bachelor's degree,65,5932,Great Lakes,26073,63,20,87
+C0742,Public,Doctoral degree,47,34744,New England,449,6,24,100
+C0743,Private,Doctoral degree,70,16180,Rocky Mountains,1178,82,,85
+C0744,Private,Bachelor's degree,31,31368,Southeast,190,38,26,98
+C0745,Public,Master's degree,67,23000,Great Lakes,10821,28,20,100
+C0746,Private,Bachelor's degree,60,8412,Mid East,11118,53,16,86
+C0747,Private,Master's degree,68,12776,Mid East,2257,,20,96
+C0748,Private,Doctoral degree,68,10920,Southwest,3076,25,22,100
+C0749,Private,Master's degree,35,25396,Great Lakes,1529,48,21,100
+C0750,Private,Doctoral degree,63,23500,Mid East,3628,83,18,100
+C0751,Private,Doctoral degree,48,33720,Rocky Mountains,2002,10,24,90
+C0752,Private,Doctoral degree,77,35518,Great Lakes,4003,21,23,99
+C0753,Private,Doctoral degree,30,26632,Mid East,3461,73,24,84
+C0754,Private,Master's degree,44,38526,Rocky Mountains,10923,21,23,95
+C0755,Public,Doctoral degree,72,32454,Mid East,7260,42,,100
+C0756,Public,Doctoral degree,82,25740,Southeast,1164,76,,99
+C0757,Public,Doctoral degree,77,10105,Southeast,1223,0,32,22
+C0758,Private,Doctoral degree,14,10784,Great Lakes,1985,36,20,83
+C0759,Public,Doctoral degree,,40296,Great Lakes,1998,70,17,94
+C0760,Public,Doctoral degree,57,24080,Southeast,2406,58,22,100
+C0761,Private,Doctoral degree,33,7343,Plains,1582,25,26,60
+C0762,Public,Master's degree,64,33110,Mid East,1476,57,18,100
+C0763,Private,Master's degree,81,35730,Southeast,9722,7,19,100
+C0764,Public,Doctoral degree,81,24090,Great Lakes,914,18,21,100
+C0765,Public,Doctoral degree,65,5745,Great Lakes,3598,6,24,90
+C0766,Public,Doctoral degree,63,8878,Far West,2832,55,,79
+C0767,Private,Doctoral degree,76,31880,Far West,1093,3,,100
+C0768,Private,Doctoral degree,56,5598,Far West,21193,50,18,95
+C0769,Private,Doctoral degree,86,43573,Southeast,3512,47,18,87
+C0770,Private,Doctoral degree,51,5086,Far West,4942,41,23,74
+C0771,Public,Doctoral degree,47,10726,Southeast,1225,77,18,96
+C0772,Public,Master's degree,64,9065,New England,600,51,19,50
+C0773,Public,Master's degree,56,8100,Southwest,4367,1,21,94
+C0774,Public,Doctoral degree,76,26306,Southeast,281,35,18,100
+C0775,Public,Master's degree,64,4723,Great Lakes,2910,,27,97
+C0776,Public,Master's degree,74,13486,Southeast,1654,58,21,93
+C0777,Public,Doctoral degree,,31612,Southeast,31278,54,19,100
+C0778,Public,Doctoral degree,68,37816,Southwest,2368,5,20,100
+C0779,Public,Doctoral degree,51,38030,Plains,5658,28,20,99
+C0780,Public,Bachelor's degree,64,26340,Southeast,1187,26,21,97
+C0781,Private,Master's degree,66,16496,Far West,22501,87,24,84
+C0782,Public,Master's degree,75,7206,Mid East,1259,38,,90
+C0783,Private,Master's degree,35,,Far West,4044,33,24,
+C0784,Private,Doctoral degree,37,10600,Mid East,887,0,18,91
+C0785,Private,Doctoral degree,65,11960,Southeast,6130,31,,96
+C0786,Private,Doctoral degree,90,32310,Southeast,3419,21,,98
+C0787,Private,Bachelor's degree,87,31250,Far West,906,11,22,99
+C0788,Private,Master's degree,97,4605,Mid East,2630,58,20,96
+C0789,Private,Master's degree,76,10816,Southeast,815,43,20,90
+C0790,Private,Bachelor's degree,59,47514,New England,3987,7,18,67
+C0791,Private,Doctoral degree,89,6318,Great Lakes,592,44,19,96
+C0792,Private,Master's degree,30,5606,New England,3454,54,19,94
+C0793,Private,Master's degree,93,25690,Mid East,51526,57,19,99
+C0794,Private,Doctoral degree,67,5460,Great Lakes,24477,39,14,95
+C0795,Private,Master's degree,88,22150,Mid East,2644,21,22,100
+C0796,Private,Master's degree,74,28000,Mid East,5112,44,23,98
+C0797,Private,Doctoral degree,78,5732,Far West,1311,9,17,91
+C0798,Public,Master's degree,76,14730,Mid East,2022,,30,100
+C0799,Public,Master's degree,56,35972,Southeast,12513,54,25,96
+C0800,Public,Master's degree,37,44068,Mid East,6917,23,18,97
+C0801,Public,Doctoral degree,74,,Plains,5015,0,20,
+C0802,Public,Doctoral degree,92,5564,New England,3764,31,19,95
+C0803,Public,Doctoral degree,96,17125,New England,731,35,18,100
+C0804,Public,Master's degree,51,25830,Great Lakes,5847,17,17,100
+C0805,Public,Master's degree,61,26170,Great Lakes,1387,20,31,99
+C0806,Public,Bachelor's degree,59,31132,Southeast,1606,61,20,100
+C0807,Public,Bachelor's degree,45,12564,Plains,4252,6,18,100
+C0808,Public,Master's degree,54,9020,Southwest,3125,15,,81
+C0809,Public,Master's degree,50,6410,Far West,1028,86,,98
+C0810,Private,Doctoral degree,,43250,Far West,2942,39,,81
+C0811,Private,Doctoral degree,49,6838,Plains,2009,27,,94
+C0812,Private,Doctoral degree,62,6550,Great Lakes,4580,32,17,75
+C0813,Private,Doctoral degree,41,31760,Mid East,3033,30,22,100
+C0814,Private,Master's degree,62,23594,Southeast,21480,56,19,100
+C0815,Public,Master's degree,47,13499,Great Lakes,1081,74,,76
+C0816,Private,Doctoral degree,42,19790,Southeast,1225,16,19,99
+C0817,Private,Bachelor's degree,,15130,Great Lakes,4977,46,16,99
+C0818,Private,Bachelor's degree,42,21100,Great Lakes,2404,,18,98
+C0819,Private,Master's degree,99,9192,Southeast,2988,67,17,87
+C0820,Private,Master's degree,51,25580,Southeast,997,59,20,100
+C0821,Private,Doctoral degree,68,8899,Southeast,3520,15,19,91
+C0822,Private,Master's degree,36,46040,Southeast,981,10,,95
+C0823,Private,Master's degree,98,45650,Great Lakes,16387,47,19,43
+C0824,Private,Doctoral degree,63,12494,Great Lakes,2806,,16,94
+C0825,Private,Master's degree,99,45320,Southeast,7110,43,,63
+C0826,Private,Master's degree,,34070,Mid East,3868,60,,96
+C0827,Private,Doctoral degree,93,44805,Far West,4732,21,20,53
+C0828,Private,Doctoral degree,84,10262,Plains,2178,51,19,94
+C0829,Private,Master's degree,,6353,Far West,18568,74,17,94
+C0830,Private,Master's degree,84,4911,Mid East,24864,37,25,58
+C0831,Private,Doctoral degree,75,29090,Mid East,543,15,31,100
+C0832,Private,Master's degree,,8722,Great Lakes,2809,53,18,93
+C0833,Private,Bachelor's degree,,13271,Great Lakes,3194,14,23,62
+C0834,Private,Doctoral degree,49,43164,Mid East,6549,15,,86
+C0835,Private,Doctoral degree,76,14772,Mid East,3118,,17,100
+C0836,Private,Doctoral degree,69,12864,Plains,20272,27,20,69
+C0837,Private,Master's degree,76,29144,Mid East,2598,31,18,100
+C0838,Private,Master's degree,62,10068,Southeast,9422,19,,77
+C0839,Private,Doctoral degree,74,26460,New England,3180,22,19,99
+C0840,Private,Master's degree,61,4990,Southeast,410,6,18,82
+C0841,Private,Doctoral degree,43,5714,Southeast,1368,,,96
+C0842,Private,Doctoral degree,57,34670,Mid East,3711,54,21,99
+C0843,Private,Doctoral degree,52,8060,Far West,2177,46,,87
+C0844,Private,Doctoral degree,78,42778,Mid East,4686,39,18,98
+C0845,Private,Doctoral degree,,8100,New England,8307,17,24,95
+C0846,Private,Doctoral degree,38,27922,Southwest,4221,16,16,100
+C0847,Private,Bachelor's degree,81,7873,New England,8442,32,19,93
+C0848,Private,Doctoral degree,45,7125,Plains,10325,,19,68
+C0849,Private,Doctoral degree,74,27916,Southwest,4427,10,19,98
+C0850,Private,Master's degree,49,43910,Great Lakes,4220,48,20,100
+C0851,Private,Doctoral degree,81,44530,Rocky Mountains,4341,33,22,100
+C0852,Private,Doctoral degree,63,8525,Plains,6365,88,23,97
+C0853,Private,Doctoral degree,,6188,New England,20006,24,,92
+C0854,Private,Master's degree,70,22950,Great Lakes,4028,49,29,99
+C0855,Private,Master's degree,55,18454,Plains,1860,17,,99
+C0856,Private,Master's degree,,24770,Far West,1309,37,17,100
+C0857,Private,Master's degree,64,10700,Great Lakes,344,61,22,99
+C0858,Private,Master's degree,,14240,New England,2205,27,,83
+C0859,Private,Master's degree,75,43683,New England,833,54,,66
+C0860,Private,Master's degree,96,6143,Great Lakes,3056,25,,73
+C0861,Private,Master's degree,78,32613,Far West,1846,28,,99
+C0862,Private,Master's degree,56,34950,Southeast,80,6,19,92
+C0863,Private,Doctoral degree,83,44841,Mid East,5732,30,19,55
+C0864,Private,Doctoral degree,71,22000,Mid East,1540,8,29,100
+C0865,Public,Bachelor's degree,49,34600,Plains,1813,61,22,98
+C0866,Public,Bachelor's degree,56,8745,Great Lakes,6525,28,15,89
+C0867,Public,Bachelor's degree,71,4770,Rocky Mountains,9323,40,18,78
+C0868,Public,Bachelor's degree,64,27465,Great Lakes,791,18,23,100
+C0869,Public,Bachelor's degree,66,29000,Southeast,38315,47,18,98
+C0870,Public,Bachelor's degree,68,33209,Southeast,7746,44,20,99
+C0871,Public,Doctoral degree,75,29664,Southeast,2418,10,17,99
+C0872,Public,Doctoral degree,26,12610,Southeast,1367,79,30,89
+C0873,Public,Doctoral degree,53,6516,Mid East,97,26,26,99
+C0874,Public,Doctoral degree,90,9738,Southeast,2839,30,25,83
+C0875,Public,Doctoral degree,63,10614,Far West,3207,30,20,89
+C0876,Public,Master's degree,43,6744,Plains,32411,86,21,96
+C0877,Public,Master's degree,82,5372,Southeast,14441,22,21,89
+C0878,Public,Master's degree,28,7230,Plains,1614,47,20,79
+C0879,Public,Master's degree,70,8750,Plains,12757,16,,90
+C0880,Public,Master's degree,85,31580,Mid East,4655,17,22,100
+C0881,Public,Master's degree,68,7449,Mid East,4581,25,,92
+C0882,Public,Master's degree,54,43114,Southeast,4922,,22,73
+C0883,Public,Master's degree,47,42852,Far West,1610,19,19,75
+C0884,Public,Master's degree,59,6276,Great Lakes,31123,39,23,89
+C0885,Public,Master's degree,,7726,Mid East,4770,24,21,88
+C0886,Public,Master's degree,,25716,Southwest,1100,72,,99
+C0887,Public,Master's degree,,6766,Southwest,10835,76,21,62
+C0888,Public,Master's degree,55,15840,Mid East,3012,39,27,96
+C0889,Public,Master's degree,55,25450,Mid East,3233,70,22,100
+C0890,Public,Master's degree,41,9904,Southeast,8700,90,15,79
+C0891,Private,Doctoral degree,80,30800,Southeast,2399,56,,96
+C0892,Private,Doctoral degree,76,8706,Far West,988,37,19,84
+C0893,Private,Doctoral degree,96,23760,Rocky Mountains,8943,28,19,97
+C0894,Private,Master's degree,64,8074,Plains,34752,9,21,95
+C0895,Private,Bachelor's degree,23,17530,Far West,27848,35,,95
+C0896,Public,Master's degree,68,15250,Southeast,3583,45,28,84
+C0897,Private,Doctoral degree,40,34120,Plains,1479,35,21,97
+C0898,Private,Master's degree,63,5437,Great Lakes,2206,50,19,76
+C0899,Private,Master's degree,56,22430,Mid East,470,71,24,96
+C0900,Private,Bachelor's degree,75,13464,Great Lakes,2533,39,20,92
+C0901,Private,Doctoral degree,55,12093,Great Lakes,3255,44,20,88
+C0902,Public,Doctoral degree,,15840,Great Lakes,32955,23,18,100
+C0903,Private,Master's degree,53,9992,Southeast,11534,30,,66
+C0904,Private,Bachelor's degree,74,27380,Southeast,2246,18,21,95
+C0905,Private,Bachelor's degree,,22370,Mid East,1543,61,19,99
+C0906,Private,Bachelor's degree,66,26830,Plains,9661,15,17,100
+C0907,Private,Doctoral degree,95,6086,Rocky Mountains,1007,12,,91
+C0908,Private,Master's degree,87,24666,Mid East,1602,22,,100
+C0909,Private,Master's degree,,9376,Great Lakes,2029,16,15,82
+C0910,Private,Bachelor's degree,44,28644,Southeast,1458,72,19,100
+C0911,Private,Doctoral degree,68,6456,Mid East,3205,23,16,89
+C0912,Public,Doctoral degree,40,22790,Southeast,631,67,21,100
+C0913,Public,Master's degree,80,16972,Southeast,9904,28,18,100
+C0914,Private,Doctoral degree,72,8985,Great Lakes,1830,22,18,90
+C0915,Public,Doctoral degree,68,44670,Southeast,40909,41,22,63
+C0916,Private,Doctoral degree,76,45890,Plains,4455,37,16,62
+C0917,Private,Master's degree,72,22892,Southeast,6160,0,19,99
+C0918,Private,Bachelor's degree,,9763,New England,8458,,22,68
+C0919,Private,Doctoral degree,,5693,Great Lakes,3726,29,,79
+C0920,Private,Bachelor's degree,36,46598,Mid East,13757,15,22,44
+C0921,Private,Bachelor's degree,88,44605,Mid East,11267,53,22,69
+C0922,Private,Master's degree,87,7498,Southeast,5137,50,19,99
+C0923,Private,Bachelor's degree,53,15463,Plains,4407,28,16,53
+C0924,Private,Master's degree,51,42920,Rocky Mountains,1310,30,25,89
+C0925,Private,Master's degree,39,41392,New England,7476,65,19,76
+C0926,Private,Master's degree,18,6089,Southeast,23447,45,19,79
+C0927,Private,Master's degree,78,29448,Great Lakes,1738,13,18,98
+C0928,Private,Bachelor's degree,76,6059,Mid East,5236,19,,77
+C0929,Public,Doctoral degree,44,25450,Southeast,8703,41,22,100
+C0930,Public,Master's degree,49,6536,Mid East,680,28,18,68
+C0931,Public,Doctoral degree,80,7174,Southwest,2304,59,22,91
+C0932,Public,Doctoral degree,83,16094,Southeast,1185,39,17,99
+C0933,Public,Doctoral degree,35,33150,Far West,8917,19,20,79
+C0934,Public,Doctoral degree,41,13494,Mid East,879,52,27,97
+C0935,Public,Doctoral degree,85,33120,Southwest,480,8,18,100
+C0936,Private,Bachelor's degree,96,46600,Mid East,17363,47,17,65
+C0937,Public,Doctoral degree,,7218,Southeast,1439,28,16,95
+C0938,Private,Bachelor's degree,69,27368,Mid East,635,,22,100
+C0939,Public,Master's degree,70,7316,Southeast,4491,37,31,83
+C0940,Private,Master's degree,44,6216,Southeast,9120,18,,94
+C0941,Private,Master's degree,67,35380,Southwest,2372,23,15,97
+C0942,Private,Bachelor's degree,70,6772,Great Lakes,14852,28,25,93
+C0943,Private,Bachelor's degree,94,20060,Mid East,21593,83,,100
+C0944,Private,Master's degree,66,8060,Plains,3121,66,,75
+C0945,Private,Master's degree,77,8710,Plains,3049,52,28,82
+C0946,Private,Master's degree,73,23500,Mid East,10743,39,21,100
+C0947,Private,Doctoral degree,66,23900,Rocky Mountains,3462,37,28,98
+C0948,Private,Master's degree,59,32470,New England,21138,50,24,99
+C0949,Private,Doctoral degree,77,28200,Plains,4199,78,20,98
+C0950,Public,Doctoral degree,55,31120,Great Lakes,2506,76,,99
+C0951,Public,Doctoral degree,62,31760,Mid East,4399,47,27,100
+C0952,Public,Bachelor's degree,75,8130,Southeast,443,60,20,88
+C0953,Private,Doctoral degree,66,24150,Plains,43710,77,21,100
+C0954,Private,Doctoral degree,83,37600,Far West,1107,30,22,84
+C0955,Public,Bachelor's degree,55,7140,Great Lakes,1837,9,19,100
+C0956,Public,Master's degree,92,2700,Plains,1204,70,21,59
+C0957,Public,Doctoral degree,89,24550,Great Lakes,2449,18,,100
+C0958,Public,Doctoral degree,81,26328,Southeast,1299,18,19,98
+C0959,Public,Master's degree,50,40117,Far West,2170,51,22,100
+C0960,Public,Doctoral degree,65,27082,New England,3555,63,20,99
+C0961,Private,Doctoral degree,,27830,Southeast,1922,26,23,99
+C0962,Private,Master's degree,60,6186,Southwest,2339,50,,66
+C0963,Private,Master's degree,82,37024,Southeast,767,25,20,99
+C0964,Public,Doctoral degree,70,8100,Far West,13326,85,20,94
+C0965,Private,Doctoral degree,74,29500,New England,1255,15,,96
+C0966,Private,Doctoral degree,68,3232,Plains,591,71,20,81
+C0967,Private,Doctoral degree,43,28970,Great Lakes,12588,33,16,100
+C0968,Public,Master's degree,81,23696,Southeast,24828,19,,100
+C0969,Public,Doctoral degree,,14864,Great Lakes,25155,69,24,72
+C0970,Private,Master's degree,64,22684,Mid East,506,24,21,92
+C0971,Public,Doctoral degree,82,10650,Southeast,14629,15,22,72
+C0972,Private,Doctoral degree,73,5701,Southeast,965,43,27,95
+C0973,Private,Master's degree,97,15630,Plains,1714,49,,100
+C0974,Private,Bachelor's degree,33,38670,Mid East,15845,23,17,97
+C0975,Private,Doctoral degree,48,21680,Southwest,2536,41,,100
+C0976,Private,Master's degree,97,9908,Far West,8923,63,18,66
+C0977,Private,Master's degree,72,17300,Southwest,2010,41,,100
+C0978,Private,Master's degree,72,27684,Plains,842,39,19,99
+C0979,Public,Bachelor's degree,61,41686,Mid East,33329,48,19,77
+C0980,Public,Doctoral degree,85,7713,Southwest,824,54,21,92
+C0981,Private,Bachelor's degree,58,13142,Southeast,5033,5,18,63
+C0982,Private,Master's degree,79,9308,Far West,2729,28,20,97
+C0983,Private,Master's degree,62,11144,Great Lakes,12159,21,20,93
+C0984,Private,Master's degree,78,44790,Southeast,13407,18,20,49
+C0985,Private,Master's degree,61,15218,Plains,1580,35,,87
+C0986,Public,Doctoral degree,53,12112,Southeast,1247,18,20,82
+C0987,Private,Master's degree,90,10227,Mid East,1366,17,20,94
+C0988,Private,Master's degree,52,18430,Great Lakes,5790,13,29,99
+C0989,Private,Doctoral degree,48,9415,Great Lakes,1325,31,20,84
+C0990,Private,Master's degree,73,6940,Southwest,1618,59,23,95
+C0991,Private,Master's degree,73,5436,Far West,918,16,23,94
+C0992,Private,Master's degree,86,25520,Great Lakes,14032,33,19,94
+C0993,Private,Master's degree,68,29000,Mid East,1212,31,30,99
+C0994,Private,Doctoral degree,41,14220,Mid East,1170,42,21,93
+C0995,Public,Master's degree,,14120,Southeast,44942,24,14,96
+C0996,Public,Master's degree,83,8206,Far West,17904,42,16,71
+C0997,Public,Master's degree,70,36160,Southeast,1129,52,25,92
+C0998,Public,Master's degree,,7878,Rocky Mountains,13850,11,17,76
+C0999,Public,Doctoral degree,79,16234,Southeast,5279,9,18,94
+C1000,Public,Doctoral degree,60,19920,Far West,1741,36,,94
+C1001,Private,Bachelor's degree,78,14750,Southwest,1080,19,20,65
+C1002,Private,Doctoral degree,70,22272,Southeast,21981,83,,97
+C1003,Private,Master's degree,,25934,Southwest,3506,46,22,99
+C1004,Public,Master's degree,66,8585,Rocky Mountains,1653,10,18,83
+C1005,Private,Master's degree,65,17744,Great Lakes,1355,50,18,100
+C1006,Private,Master's degree,80,18330,Southeast,701,69,18,100
+C1007,Public,Doctoral degree,78,38930,Plains,2448,50,19,100
+C1008,Private,Doctoral degree,71,32142,New England,878,27,17,96
+C1009,Private,Master's degree,18,3850,Great Lakes,12448,12,,71
+C1010,Private,Doctoral degree,50,24642,Plains,6915,20,18,90
+C1011,Private,Doctoral degree,71,7182,Southeast,17838,60,28,97
+C1012,Private,Master's degree,89,16100,New England,1902,33,19,96
+C1013,Private,Master's degree,51,33990,Great Lakes,46615,24,,95
+C1014,Private,Master's degree,53,6118,Great Lakes,7431,19,18,81
+C1015,Private,Bachelor's degree,46,44490,Southeast,8918,3,,98
+C1016,Public,Doctoral degree,,32660,Southwest,1552,15,22,100
+C1017,Private,Doctoral degree,68,7578,New England,579,64,23,80
+C1018,Public,Doctoral degree,100,29124,Great Lakes,243,,21,98
+C1019,Private,Bachelor's degree,42,38754,Great Lakes,6777,63,17,95
+C1020,Private,Master's degree,82,25430,Great Lakes,7052,40,18,100
+C1021,Private,Master's degree,51,30715,Great Lakes,854,57,26,73
+C1022,Public,Master's degree,,14490,Southeast,5286,9,20,94
+C1023,Public,Master's degree,77,8634,Plains,46733,,,88
+C1024,Public,Master's degree,,45760,Mid East,1163,16,,47
+C1025,Public,Doctoral degree,84,25180,Plains,940,26,15,100
+C1026,Public,Doctoral degree,82,8423,Great Lakes,9719,12,20,94
+C1027,Public,Master's degree,15,8582,Far West,2240,14,23,84
+C1028,Private,Master's degree,75,28122,Southeast,5147,63,,95
+C1029,Public,Bachelor's degree,13,45874,Plains,2524,13,23,57
+C1030,Public,Doctoral degree,24,28630,Mid East,2161,20,18,100
+C1031,Private,Master's degree,70,8976,Southeast,20053,59,24,75
+C1032,Private,Doctoral degree,36,,Plains,17203,,,
+C1033,Public,Doctoral degree,51,41538,Rocky Mountains,14913,18,,73
+C1034,Private,Doctoral degree,88,,Southwest,808,57,,
+C1035,Public,Bachelor's degree,61,6357,Southwest,7096,22,,91
+C1036,Private,Master's degree,100,10600,Southeast,6723,22,,93
+C1037,Public,Bachelor's degree,61,6160,Mid East,27812,89,26,98
+C1038,Public,Master's degree,19,8542,Southwest,6033,70,21,88
+C1039,Private,Master's degree,59,31334,Southeast,8156,59,17,92
+C1040,Public,Doctoral degree,55,7546,Mid East,1600,23,19,99
+C1041,Private,Doctoral degree,77,5963,New England,6536,33,25,78
+C1042,Private,Doctoral degree,73,20650,Far West,3108,28,,100
+C1043,Public,Master's degree,59,6559,Southeast,2286,24,23,93
+C1044,Private,Doctoral degree,78,24778,Southeast,13908,87,19,91
+C1045,Private,Doctoral degree,54,31500,Mid East,3690,26,14,100
+C1046,Private,Bachelor's degree,34,23900,Great Lakes,15058,,24,100
+C1047,Private,Master's degree,20,14400,Mid East,2466,28,,
+C1048,Private,Master's degree,66,47642,Far West,1619,11,,70
+C1049,Public,Master's degree,74,19850,Southeast,2160,4,19,99
+C1050,Public,Doctoral degree,65,38941,Southeast,1027,11,23,75
+C1051,Public,Doctoral degree,25,4850,New England,2440,64,21,67
+C1052,Private,Doctoral degree,,40265,Southeast,568,33,21,90
+C1053,Public,Doctoral degree,77,13350,Rocky Mountains,4464,17,20,99
+C1054,Private,Doctoral degree,78,13332,Plains,5071,24,22,99
+C1055,Private,Master's degree,86,18930,Plains,3029,22,23,93
+C1056,Public,Master's degree,72,26180,Great Lakes,12778,7,19,100
+C1057,Private,Master's degree,72,5889,Far West,25911,9,19,92
+C1058,Private,Doctoral degree,56,10446,Southeast,22225,16,,79
+C1059,Private,Doctoral degree,47,20449,New England,1499,34,24,98
+C1060,Public,Master's degree,94,6226,Mid East,6222,35,16,97
+C1061,Private,Master's degree,75,5349,Southeast,12367,16,,88
+C1062,Private,Master's degree,55,6971,Mid East,1177,42,,90
+C1063,Private,Bachelor's degree,62,8976,New England,7602,18,19,85
+C1064,Private,Doctoral degree,47,29900,Southwest,497,87,21,99
+C1065,Private,Doctoral degree,89,9510,Southeast,661,20,21,97
+C1066,Private,Doctoral degree,43,35308,Great Lakes,6477,52,16,97
+C1067,Public,Doctoral degree,33,5480,Mid East,4473,25,20,88
+C1068,Private,Doctoral degree,87,28210,Southwest,4282,0,28,100
+C1069,Private,Master's degree,,38952,Great Lakes,4508,42,18,98
+C1070,Private,Master's degree,61,27146,Southeast,15010,53,25,100
+C1071,Public,Master's degree,63,5820,Mid East,7315,15,20,98
+C1072,Private,Doctoral degree,67,43900,Southeast,1306,88,21,79
+C1073,Private,Doctoral degree,58,8724,Southeast,1595,37,,50
+C1074,Private,Master's degree,72,22350,Great Lakes,2448,,,95
+C1075,Private,Doctoral degree,,35108,Great Lakes,8796,59,,100
+C1076,Private,Doctoral degree,57,14240,Far West,3607,87,18,83
+C1077,Public,Master's degree,93,7554,Southeast,1492,14,,96
+C1078,Public,Master's degree,83,28790,Great Lakes,5422,40,20,63
+C1079,Private,Master's degree,85,27100,Southeast,4923,38,21,100
+C1080,Private,Bachelor's degree,56,14410,Southeast,1168,14,19,99
+C1081,Private,Doctoral degree,48,29624,Southeast,1541,72,21,100
+C1082,Private,Doctoral degree,95,13762,Far West,4232,44,20,88
+C1083,Public,Master's degree,64,29370,Southeast,599,36,22,95
+C1084,Private,Doctoral degree,83,39710,Southwest,16275,51,22,100
+C1085,Public,Master's degree,37,10613,Southwest,11782,25,31,92
+C1086,Private,Master's degree,83,10800,New England,1419,26,19,92
+C1087,Private,Bachelor's degree,17,7412,New England,3377,68,19,94
+C1088,Private,Doctoral degree,58,35370,Great Lakes,8803,46,21,99
+C1089,Private,Master's degree,38,31290,Far West,3043,51,17,88
+C1090,Private,Bachelor's degree,55,10391,Southwest,6318,,,83
+C1091,Private,Doctoral degree,73,33371,Southeast,2506,52,21,100
+C1092,Private,Master's degree,92,37300,Southwest,8555,14,18,99
+C1093,Private,Bachelor's degree,,32560,Southeast,10804,,,99
+C1094,Private,Doctoral degree,79,31095,Mid East,922,,25,99
+C1095,Private,Doctoral degree,76,5554,Far West,8675,29,21,88
+C1096,Public,Doctoral degree,23,7457,Mid East,5763,43,18,84
+C1097,Private,Master's degree,93,46165,Great Lakes,915,51,25,81
+C1098,Private,Bachelor's degree,32,31716,Southeast,7423,26,24,80
+C1099,Private,Master's degree,35,30690,Far West,40795,25,23,98
+C1100,Public,Master's degree,8,46930,Great Lakes,8350,29,20,79
+C1101,Private,Master's degree,72,27350,Southeast,1188,80,23,100
+C1102,Private,Doctoral degree,48,13392,Mid East,16656,30,15,33
+C1103,Private,Bachelor's degree,57,34788,Southeast,1661,6,18,100
+C1104,Private,Doctoral degree,62,5916,Great Lakes,3893,15,17,96
+C1105,Private,Doctoral degree,54,5938,Mid East,346,34,,96
+C1106,Public,Master's degree,59,27930,Far West,6034,25,,100
+C1107,Public,Master's degree,53,12097,Southeast,11247,25,19,90
+C1108,Private,Bachelor's degree,,,Rocky Mountains,7098,21,,
+C1109,Public,Master's degree,82,33480,Southeast,38325,24,20,92
+C1110,Private,Doctoral degree,53,7400,Mid East,1386,59,17,87
+C1111,Private,Doctoral degree,78,28932,Southeast,1833,64,,100
+C1112,Private,Master's degree,79,13388,Plains,2285,14,19,78
+C1113,Public,Master's degree,85,5415,Southeast,9313,22,15,99
+C1114,Private,Doctoral degree,71,8550,Mid East,6820,24,26,82
+C1115,Private,Master's degree,,7083,Mid East,2422,51,23,73
+C1116,Private,Master's degree,67,5514,New England,5250,21,,93
+C1117,Private,Bachelor's degree,99,9960,Great Lakes,7376,25,,97
+C1118,Private,Doctoral degree,70,36020,Southeast,1898,55,28,97
+C1119,Public,Master's degree,73,6972,Southeast,6436,45,18,63
+C1120,Public,Master's degree,26,11681,Plains,40621,22,19,90
+C1121,Public,Master's degree,71,19200,Mid East,13307,36,,100
+C1122,Public,Bachelor's degree,69,,Plains,2314,36,17,
+C1123,Public,Bachelor's degree,52,8160,Far West,4057,74,21,100
+C1124,Public,Bachelor's degree,45,7222,Mid East,2993,36,23,87
+C1125,Public,Bachelor's degree,88,26740,Southeast,2661,56,22,100
+C1126,Public,Bachelor's degree,67,12584,Mid East,14035,31,27,93
+C1127,Public,Bachelor's degree,70,11902,New England,911,32,20,83
+C1128,Public,Bachelor's degree,60,7816,Plains,1356,35,28,86
+C1129,Public,Doctoral degree,62,18740,Great Lakes,2619,22,21,99
+C1130,Public,Bachelor's degree,74,35240,Great Lakes,1230,13,30,100
+C1131,Public,Bachelor's degree,49,23938,Southeast,11358,24,,97
+C1132,Public,Bachelor's degree,57,38952,Far West,2762,8,32,100
+C1133,Public,Bachelor's degree,68,21200,Mid East,20743,22,18,100
+C1134,Public,Doctoral degree,64,8256,Mid East,3027,65,19,92
+C1135,Public,Master's degree,38,29377,Mid East,5195,33,15,98
+C1136,Public,Bachelor's degree,51,35050,Southeast,4211,22,,95
+C1137,Public,Bachelor's degree,72,38780,Southwest,740,,18,98
+C1138,Public,Bachelor's degree,84,7094,Plains,1118,84,22,94
+C1139,Public,Master's degree,64,7430,New England,1705,59,,59
+C1140,Private,Master's degree,53,8968,Southeast,3011,90,19,87
+C1141,Private,Doctoral degree,71,4790,Great Lakes,8129,37,17,87
+C1142,Private,Doctoral degree,76,23170,Mid East,14925,,21,100
+C1143,Private,Master's degree,55,23690,Far West,5561,29,,100
+C1144,Public,Bachelor's degree,54,21300,Mid East,15065,18,21,98
+C1145,Public,Bachelor's degree,100,23812,Plains,490,11,,92
+C1146,Public,Bachelor's degree,,11277,Far West,6447,7,21,73
+C1147,Public,Doctoral degree,71,25636,Southeast,892,22,21,99
+C1148,Private,Master's degree,46,17211,Great Lakes,1084,0,18,95
+C1149,Private,Doctoral degree,98,6317,Great Lakes,4660,34,21,96
+C1150,Private,Master's degree,68,28090,Far West,215,29,,100
+C1151,Private,Doctoral degree,34,24930,Southeast,2220,57,19,77
+C1152,Private,Doctoral degree,64,10107,Mid East,1349,14,21,79
+C1153,Private,Doctoral degree,64,13149,Southeast,2381,35,23,77
+C1154,Private,Doctoral degree,78,8340,Mid East,2541,81,,68
+C1155,Private,Master's degree,78,27042,Southeast,2812,87,20,100
+C1156,Public,Master's degree,,13555,New England,4833,37,24,77
+C1157,Public,Doctoral degree,48,33320,New England,1610,63,21,99
+C1158,Private,Bachelor's degree,,40458,Great Lakes,4021,23,15,74
+C1159,Private,Bachelor's degree,48,28852,Rocky Mountains,283,4,,100
+C1160,Public,Doctoral degree,89,7186,Great Lakes,2384,34,,82
+C1161,Private,Bachelor's degree,89,16024,Southeast,12624,51,30,98
+C1162,Private,Bachelor's degree,,18230,Mid East,807,41,22,99
+C1163,Private,Master's degree,91,9178,Southwest,229,45,15,96
+C1164,Private,Doctoral degree,84,6752,Southeast,5131,30,17,87
+C1165,Private,Bachelor's degree,77,8991,Far West,592,33,20,83
+C1166,Private,Doctoral degree,67,6998,Southeast,2358,65,19,93
+C1167,Public,Master's degree,56,22400,Plains,21267,76,17,100
+C1168,Private,Master's degree,,28884,Great Lakes,351,44,18,94
+C1169,Private,Doctoral degree,66,27840,Great Lakes,1065,44,20,100
+C1170,Private,Doctoral degree,74,23210,Rocky Mountains,2045,23,,100
+C1171,Private,Master's degree,70,30149,Southwest,13937,44,18,68
+C1172,Private,Doctoral degree,,33320,Rocky Mountains,4140,63,22,100
+C1173,Private,Doctoral degree,54,6816,Southeast,1647,0,18,86
+C1174,Private,Master's degree,67,17418,Great Lakes,8019,22,21,100
+C1175,Private,Doctoral degree,76,30350,Far West,30759,,17,96
+C1176,Private,Master's degree,59,29589,Great Lakes,451,88,20,99
+C1177,Private,Master's degree,70,20450,Southeast,48702,29,,94
+C1178,Public,Doctoral degree,18,14730,Great Lakes,1366,36,27,83
+C1179,Public,Doctoral degree,,10780,Rocky Mountains,11301,23,21,99
+C1180,Private,Master's degree,23,6578,Southeast,2244,38,21,90
+C1181,Private,Doctoral degree,87,6462,Southwest,8014,10,,67
+C1182,Private,Bachelor's degree,81,27456,Southeast,7101,62,23,99
+C1183,Private,Doctoral degree,30,45446,Far West,3806,21,18,50
+C1184,Private,Master's degree,72,44718,Mid East,24414,32,,59
+C1185,Private,Bachelor's degree,,6248,New England,1045,22,19,96
+C1186,Private,Master's degree,52,37162,Mid East,140,17,,100
+C1187,Public,Master's degree,61,9470,Great Lakes,1233,72,22,97
+C1188,Public,Master's degree,72,39550,Far West,1852,4,21,89
+C1189,Private,Master's degree,88,6642,Far West,4353,13,18,84
+C1190,Public,Doctoral degree,58,41494,Far West,1704,60,21,100
+C1191,Private,Master's degree,,5337,Far West,715,59,17,92
+C1192,Private,Doctoral degree,85,,Southeast,10112,33,16,
+C1193,Private,Master's degree,67,21842,Plains,7422,12,,99
+C1194,Private,Master's degree,,23530,Mid East,8128,18,,100
+C1195,Private,Doctoral degree,,27914,Great Lakes,893,47,19,100
+C1196,Public,Master's degree,81,15901,Southeast,278,42,24,100
+C1197,Private,Master's degree,79,7947,Mid East,1118,17,18,92
+C1198,Public,Master's degree,36,25114,Mid East,1328,20,27,100
+C1199,Private,Master's degree,63,30740,Southeast,2640,49,20,100
+C1200,Private,Bachelor's degree,,6628,Mid East,1065,17,18,79
+C1201,Private,Bachelor's degree,97,39450,Mid East,20053,,22,100
+C1202,Private,Doctoral degree,76,6923,Plains,2436,89,,91
+C1203,Private,Doctoral degree,,33000,Great Lakes,270,59,,95
+C1204,Public,Master's degree,85,28250,Southeast,27897,22,28,100
+C1205,Public,Bachelor's degree,66,7368,Far West,955,5,18,99
+C1206,Public,Doctoral degree,71,45856,Great Lakes,1110,31,,65
+C1207,Public,Master's degree,55,35756,Southwest,3414,4,20,77
+C1208,Public,Doctoral degree,83,8730,Great Lakes,10399,47,16,88
+C1209,Public,Master's degree,60,35835,Great Lakes,8546,37,19,99
+C1210,Private,Bachelor's degree,84,30690,New England,1512,9,22,100
+C1211,Public,Master's degree,,38400,Southeast,481,21,,92
+C1212,Private,Bachelor's degree,55,7234,Mid East,932,17,,62
+C1213,Private,Master's degree,90,25516,Great Lakes,1618,59,21,96
+C1214,Public,Master's degree,60,21878,Great Lakes,3434,40,15,96
+C1215,Public,Doctoral degree,59,17830,Southeast,19210,15,,99
+C1216,Private,Master's degree,53,9450,Mid East,15227,31,25,75
+C1217,Private,Master's degree,46,12740,Southeast,10369,90,20,99
+C1218,Public,Master's degree,,5856,Southwest,2078,39,20,86
+C1219,Private,Bachelor's degree,57,6210,Great Lakes,1748,29,,70
+C1220,Public,Doctoral degree,88,6045,Plains,4257,16,26,89
+C1221,Private,Master's degree,57,16950,Great Lakes,679,15,18,98
+C1222,Public,Doctoral degree,61,30758,Mid East,1892,26,21,98
+C1223,Private,Master's degree,72,37100,Mid East,690,14,23,98
+C1224,Public,Master's degree,59,28095,Plains,5368,27,20,94
+C1225,Private,Doctoral degree,22,,Plains,14309,41,,
+C1226,Private,Master's degree,82,28504,Plains,15331,50,21,100
+C1227,Private,Master's degree,42,20200,Mid East,1501,8,,90
+C1228,Private,Doctoral degree,64,28020,Mid East,3551,9,17,99
+C1229,Private,Master's degree,59,28926,Southeast,2684,43,22,94
+C1230,Private,Master's degree,58,30924,Plains,4969,18,,100
+C1231,Private,Doctoral degree,,,Great Lakes,33917,72,17,
+C1232,Public,Doctoral degree,50,46625,Great Lakes,6080,23,17,88
+C1233,Private,Master's degree,87,,Far West,1154,24,,
+C1234,Private,Bachelor's degree,48,30300,Great Lakes,1070,10,,100
+C1235,Private,Master's degree,80,33650,Great Lakes,1681,24,19,100
+C1236,Private,Master's degree,95,35270,Far West,847,38,24,98
+C1237,Private,Bachelor's degree,36,25550,Far West,2147,50,15,100
+C1238,Private,Bachelor's degree,84,9840,Far West,4404,16,21,100
+C1239,Private,Master's degree,76,6241,Plains,4665,41,23,77
+C1240,Private,Doctoral degree,32,9798,Great Lakes,2297,21,23,63
+C1241,Private,Bachelor's degree,97,38200,Plains,874,30,17,99
+C1242,Private,Bachelor's degree,81,7563,Southwest,3711,36,26,97
+C1243,Public,Doctoral degree,14,9950,Southwest,8321,41,15,87
+C1244,Public,Doctoral degree,54,7946,Southeast,32165,82,23,95
+C1245,Private,Master's degree,57,14240,Great Lakes,1307,33,21,81
+C1246,Private,Master's degree,93,46167,Mid East,13868,30,21,77
+C1247,Private,Doctoral degree,78,26310,Southeast,2767,4,19,85
+C1248,Private,Doctoral degree,62,25000,Southwest,6736,57,,99
+C1249,Private,Master's degree,73,31560,Far West,2062,27,29,100
+C1250,Public,Doctoral degree,,32375,New England,12772,13,,97
+C1251,Public,Doctoral degree,61,6192,Far West,8954,66,17,94
+C1252,Public,Master's degree,57,8061,Mid East,1903,59,17,83
+C1253,Public,Doctoral degree,82,7536,Mid East,39540,39,,97
+C1254,Public,Doctoral degree,41,13550,Plains,1159,30,20,93
+C1255,Private,Doctoral degree,42,9176,Southeast,2315,86,17,60
+C1256,Private,Master's degree,83,24566,Far West,362,47,17,99
+C1257,Private,Doctoral degree,43,31000,Southeast,1124,,17,100
+C1258,Private,Doctoral degree,71,5144,Mid East,1811,31,21,92
+C1259,Private,Doctoral degree,66,36465,Southeast,1795,33,23,96
+C1260,Public,Doctoral degree,77,7933,Plains,12723,87,15,71
+C1261,Private,Master's degree,83,25160,Southeast,1512,37,18,99
+C1262,Private,Doctoral degree,91,7429,Rocky Mountains,6371,18,21,81
+C1263,Private,Master's degree,54,6032,Great Lakes,738,24,,91
+C1264,Public,Doctoral degree,78,37260,New England,1431,71,,98
+C1265,Private,Doctoral degree,,31496,Southeast,5025,19,20,59
+C1266,Private,Doctoral degree,90,18750,Mid East,990,46,15,99
+C1267,Private,Master's degree,32,13443,Great Lakes,1979,79,25,88
+C1268,Public,Master's degree,58,11369,Plains,2900,28,,98
+C1269,Public,Doctoral degree,67,38330,Southwest,4002,13,,100
+C1270,Private,Doctoral degree,63,8790,Southeast,703,57,20,95
+C1271,Private,Master's degree,62,25200,Southwest,328,40,21,96
+C1272,Public,Doctoral degree,58,7818,New England,1535,43,17,81
+C1273,Public,Master's degree,88,44430,New England,970,65,,66
+C1274,Public,Master's degree,77,12322,Mid East,10235,52,22,87
+C1275,Public,Doctoral degree,68,6096,Great Lakes,32077,34,23,81
+C1276,Private,Master's degree,92,34715,Southeast,4772,34,19,95
+C1277,Private,Bachelor's degree,51,41226,Southwest,16946,6,,99
+C1278,Private,Doctoral degree,,13410,Southeast,1252,,,82
+C1279,Private,Bachelor's degree,99,6292,Great Lakes,14670,30,,80
+C1280,Public,Doctoral degree,70,21600,Southeast,8347,25,20,96
+C1281,Public,Doctoral degree,42,46785,Mid East,2463,,21,81
+C1282,Private,Master's degree,92,30290,New England,1930,52,20,100
+C1283,Private,Master's degree,48,8819,Great Lakes,1240,64,22,87
+C1284,Private,Doctoral degree,96,20268,Southeast,1615,10,19,100
+C1285,Private,Master's degree,39,22885,New England,14950,40,19,86
+C1286,Public,Master's degree,49,18795,Southeast,1077,34,20,100
+C1287,Public,Doctoral degree,72,16485,Far West,7545,42,19,87
+C1288,Private,Doctoral degree,92,45640,Rocky Mountains,8548,68,19,64
+C1289,Public,Doctoral degree,49,27364,Rocky Mountains,3533,90,,100
+C1290,Public,Doctoral degree,51,10716,Plains,5391,53,,88
+C1291,Private,Bachelor's degree,79,6220,Southeast,320,50,,97
+C1292,Public,Doctoral degree,75,6129,Great Lakes,656,20,,69
+C1293,Private,Doctoral degree,62,18670,Rocky Mountains,15467,76,18,92
+C1294,Private,Master's degree,22,5774,Mid East,5029,11,17,92
+C1295,Private,Doctoral degree,82,6700,Mid East,47663,58,17,80
+C1296,Public,Doctoral degree,38,36597,Plains,13552,5,22,100
+C1297,Private,Master's degree,72,16284,Plains,1662,43,25,92
+C1298,Private,Doctoral degree,32,26802,Southeast,27902,11,,92
+C1299,Private,Doctoral degree,60,22295,Great Lakes,1070,,,84
+C1300,Private,Master's degree,57,26800,Southeast,1858,43,,98
+C1301,Private,Bachelor's degree,67,9160,Mid East,862,54,,87
+C1302,Public,Doctoral degree,54,4291,Southeast,6025,84,,87
+C1303,Public,Doctoral degree,63,25840,Plains,21303,29,,100
+C1304,Private,Master's degree,87,25377,Far West,957,71,22,100
+C1305,Private,Bachelor's degree,34,24168,Southeast,700,49,,98
+C1306,Public,Master's degree,75,7442,Great Lakes,9925,58,19,87
+C1307,Public,Doctoral degree,77,24500,Mid East,556,37,17,82
+C1308,Public,Doctoral degree,88,13670,Mid East,8243,61,,99
+C1309,Public,Doctoral degree,68,7327,Mid East,5260,50,,84
+C1310,Public,Doctoral degree,81,33565,Far West,4555,34,,100
+C1311,Public,Doctoral degree,83,32424,Mid East,827,25,16,98
+C1312,Public,Doctoral degree,79,13602,Southeast,14386,41,21,84
+C1313,Public,Doctoral degree,17,29540,Southwest,3560,21,,90
+C1314,Public,Doctoral degree,75,13800,Southeast,1323,8,,77
+C1315,Public,Doctoral degree,,13128,Southeast,4842,26,22,91
+C1316,Private,Doctoral degree,58,15600,Rocky Mountains,1820,20,17,91
+C1317,Private,Bachelor's degree,70,36810,New England,2134,64,20,100
+C1318,Private,Master's degree,46,8080,Southeast,2189,55,21,93
+C1319,Public,Master's degree,29,6525,Southeast,26957,30,21,74
+C1320,Public,Doctoral degree,65,35920,Great Lakes,6983,68,,99
+C1321,Public,Doctoral degree,74,5715,Southeast,492,23,27,93
+C1322,Public,Doctoral degree,70,46574,Southwest,5399,9,22,65
+C1323,Private,Doctoral degree,64,40540,Southeast,5084,19,24,100
+C1324,Public,Doctoral degree,78,24055,Mid East,7605,5,21,99
+C1325,Private,Master's degree,33,35720,Great Lakes,1560,18,18,98
+C1326,Private,Master's degree,59,25430,Mid East,1138,29,22,98
+C1327,Public,Doctoral degree,68,12998,New England,1023,38,,80
+C1328,Private,Bachelor's degree,54,11087,Mid East,13459,58,17,99
+C1329,Private,Doctoral degree,64,45376,Southeast,2061,50,17,64
+C1330,Private,Bachelor's degree,72,7995,Great Lakes,6931,72,19,80
+C1331,Public,Bachelor's degree,84,28753,Plains,28518,30,22,99
+C1332,Public,Master's degree,,23662,Southeast,4058,,22,100
+C1333,Private,Bachelor's degree,83,17355,Far West,3179,35,22,100
+C1334,Private,Bachelor's degree,63,,Great Lakes,4924,29,23,
+C1335,Public,Doctoral degree,,25888,Great Lakes,553,,16,100
+C1336,Public,Master's degree,54,5220,Mid East,55697,25,23,98
+C1337,Public,Doctoral degree,61,7179,Southeast,1952,65,,91
+C1338,Public,Master's degree,74,11911,Southwest,10928,14,17,69
+C1339,Private,Master's degree,91,17655,Great Lakes,6130,52,21,98
+C1340,Private,Master's degree,50,26180,Mid East,2558,25,28,100
+C1341,Private,Master's degree,85,27724,New England,9903,,,100
+C1342,Public,Master's degree,,42978,Far West,4946,35,18,65
+C1343,Private,Master's degree,60,27695,Far West,20729,45,28,100
+C1344,Private,Master's degree,,30132,Mid East,665,56,21,100
+C1345,Private,Master's degree,72,8850,Mid East,16765,46,20,79
+C1346,Public,Master's degree,93,7438,Mid East,863,79,18,85
+C1347,Public,Master's degree,100,19700,Far West,5616,13,21,99
+C1348,Private,Master's degree,42,32770,Rocky Mountains,2390,30,25,98
+C1349,Private,Doctoral degree,26,33813,Southeast,4461,42,19,97
+C1350,Private,Master's degree,40,34678,Rocky Mountains,30030,43,27,94
+C1351,Private,Master's degree,49,29060,Mid East,12285,2,21,100
+C1352,Private,Master's degree,72,40294,Southwest,34616,27,16,71
+C1353,Private,Master's degree,78,33605,Mid East,2819,90,18,100
+C1354,Private,Bachelor's degree,73,12397,Southeast,2392,27,,55
+C1355,Private,Bachelor's degree,,32050,Southeast,1904,34,,99
+C1356,Public,Bachelor's degree,61,44848,Great Lakes,1621,41,20,55
+C1357,Public,Doctoral degree,56,30284,Mid East,9030,12,20,95
+C1358,Private,Master's degree,,31300,New England,22166,19,20,100
+C1359,Private,Master's degree,90,6069,Great Lakes,6551,10,20,86
+C1360,Private,Bachelor's degree,73,30470,Plains,5354,12,17,100
+C1361,Public,Doctoral degree,66,25002,New England,574,84,,99
+C1362,Private,Doctoral degree,69,39100,Mid East,6555,7,18,100
+C1363,Public,Master's degree,79,25200,Mid East,2051,27,19,99
+C1364,Private,Master's degree,,6100,Southeast,1143,65,16,88
+C1365,Private,Master's degree,43,27380,Great Lakes,2257,4,17,87
+C1366,Private,Bachelor's degree,,29798,Southeast,1481,69,17,100
+C1367,Public,Doctoral degree,82,19640,Southeast,750,50,32,100
+C1368,Private,Bachelor's degree,34,46286,Plains,985,34,,86
+C1369,Private,Doctoral degree,79,8322,Mid East,1875,41,20,86
+C1370,Private,Master's degree,,,Far West,79,49,,
+C1371,Public,Doctoral degree,67,41120,Southeast,17505,22,22,93
+C1372,Private,Doctoral degree,100,13120,Great Lakes,2344,80,19,81
+C1373,Public,Master's degree,48,11918,Southeast,1481,15,20,87
+C1374,Private,Doctoral degree,26,24960,Great Lakes,4919,52,,92
+C1375,Private,Master's degree,,15816,Southeast,692,28,20,75
+C1376,Public,Master's degree,41,13412,Southeast,6633,34,18,94
+C1377,Private,Doctoral degree,51,24400,Rocky Mountains,30488,18,18,85
+C1378,Public,Doctoral degree,75,29090,Great Lakes,1408,5,19,93
+C1379,Public,Doctoral degree,77,21790,Southeast,1018,5,23,100
+C1380,Public,Doctoral degree,79,10198,Far West,1884,55,18,97
+C1381,Private,Bachelor's degree,47,29990,Plains,558,69,,100
+C1382,Private,Master's degree,14,15838,New England,3198,16,,100
+C1383,Private,Doctoral degree,64,8053,Great Lakes,5979,23,21,79
+C1384,Private,Bachelor's degree,66,40510,Southeast,2956,30,29,99
+C1385,Private,Doctoral degree,21,23886,Far West,116,65,21,100
+C1386,Private,Bachelor's degree,65,39330,Far West,1842,39,22,89
+C1387,Private,Master's degree,55,34882,Southeast,2702,30,19,95
+C1388,Public,Bachelor's degree,69,22000,Mid East,35586,3,18,99
+C1389,Private,Bachelor's degree,76,4992,Southeast,2474,30,19,94
+C1390,Public,Doctoral degree,,14404,Southwest,5473,23,18,82
+C1391,Public,Doctoral degree,80,9830,Great Lakes,536,,22,93
+C1392,Public,Doctoral degree,65,20720,Southwest,7261,47,24,100
+C1393,Public,Bachelor's degree,74,30350,Far West,3308,25,14,100
+C1394,Public,Doctoral degree,72,,Great Lakes,3359,39,,
+C1395,Private,Doctoral degree,86,22250,Southeast,524,53,16,99
+C1396,Private,Bachelor's degree,88,8090,Southeast,25341,36,29,100
+C1397,Private,Doctoral degree,90,8368,Great Lakes,2325,75,,91
+C1398,Public,Master's degree,89,6382,Rocky Mountains,24629,40,20,80
+C1399,Private,Doctoral degree,77,43520,Far West,8341,52,21,68
+C1400,Public,Doctoral degree,79,24992,Plains,1163,32,16,100
+C1401,Public,Master's degree,74,14096,Far West,31964,23,,89
+C1402,Private,Doctoral degree,86,7302,Plains,16860,59,,94
+C1403,Private,Master's degree,99,6725,Southeast,16809,52,19,90
+C1404,Private,Bachelor's degree,,3815,Mid East,1971,44,20,94
+C1405,Private,Doctoral degree,59,25834,Great Lakes,26841,63,,100
+C1406,Private,Master's degree,61,19940,Mid East,29466,33,16,98
+C1407,Private,Doctoral degree,90,6550,New England,21471,54,21,88
+C1408,Private,Master's degree,74,9300,Plains,23464,48,25,81
+C1409,Private,Doctoral degree,64,30356,Southwest,660,71,19,93
+C1410,Private,Doctoral degree,70,6108,Great Lakes,1216,24,24,86
+C1411,Private,Master's degree,47,4141,Mid East,12710,19,20,87
+C1412,Public,Doctoral degree,58,12000,Southeast,1607,51,18,100
+C1413,Public,Doctoral degree,,28948,Mid East,12213,21,23,86
+C1414,Public,Master's degree,70,12976,Southwest,24294,25,22,96
+C1415,Private,Bachelor's degree,47,28585,Southeast,172,57,17,100
+C1416,Private,Master's degree,79,24296,Rocky Mountains,840,68,,99
+C1417,Private,Master's degree,79,6240,Southeast,4597,70,20,71
+C1418,Private,Master's degree,75,10100,Great Lakes,4046,62,20,99
+C1419,Public,Bachelor's degree,46,26050,Mid East,2190,27,20,100
+C1420,Private,Doctoral degree,,9162,New England,1459,55,21,73
+C1421,Public,Master's degree,97,20468,Plains,1492,15,23,100
+C1422,Private,Bachelor's degree,81,8893,Plains,4537,79,18,81
+C1423,Public,Master's degree,95,6610,Southwest,2481,51,32,94
+C1424,Public,Bachelor's degree,55,36960,New England,1519,19,,99
+C1425,Public,Doctoral degree,61,36430,Southwest,1173,49,17,96
+C1426,Private,Master's degree,79,27480,Far West,1455,41,20,100
+C1427,Public,Bachelor's degree,75,5526,Mid East,28297,45,,97
+C1428,Public,Master's degree,81,46010,Plains,3993,32,25,53
+C1429,Public,Master's degree,57,20700,Plains,2894,53,23,98
+C1430,Public,Master's degree,69,20724,Great Lakes,16646,0,17,90
+C1431,Public,Bachelor's degree,72,13354,Great Lakes,11707,46,19,94
+C1432,Private,Master's degree,80,9167,Southeast,8944,24,20,96
+C1433,Public,Doctoral degree,87,43580,Rocky Mountains,1381,49,24,68
+C1434,Private,Doctoral degree,10,29630,Rocky Mountains,2431,62,,100
+C1435,Private,Master's degree,54,14776,Southeast,1872,32,22,90
+C1436,Private,Bachelor's degree,79,15714,Great Lakes,8117,0,21,94
+C1437,Private,Doctoral degree,52,6498,Great Lakes,1039,17,,98
+C1438,Private,Doctoral degree,66,26370,Southwest,9301,24,18,100
+C1439,Private,Master's degree,58,,Far West,5410,21,23,
+C1440,Private,Doctoral degree,73,33417,New England,1960,,18,100
+C1441,Private,Doctoral degree,,42849,Mid East,39897,25,,62
+C1442,Private,Master's degree,69,19800,Southwest,631,62,,100
+C1443,Private,Bachelor's degree,75,27242,Mid East,4831,21,20,100
+C1444,Private,Master's degree,49,18254,Great Lakes,1039,45,20,98
+C1445,Private,Doctoral degree,59,23430,Great Lakes,1187,30,26,100
+C1446,Private,Doctoral degree,89,11454,New England,7340,,20,99
+C1447,Private,Master's degree,47,11382,Southeast,534,57,20,100
+C1448,Private,Doctoral degree,75,15130,Southeast,5644,6,21,79
+C1449,Private,Doctoral degree,62,7620,Southeast,17338,0,18,99
+C1450,Private,Bachelor's degree,72,27431,Mid East,19431,37,19,100
+C1451,Private,Bachelor's degree,57,7573,Southeast,21207,18,19,82
+C1452,Private,Master's degree,48,10620,New England,2871,,24,100
+C1453,Private,Master's degree,76,36720,Southeast,8164,45,20,99
+C1454,Private,Doctoral degree,83,34890,Far West,6342,25,,100
+C1455,Public,Master's degree,,7177,Plains,42677,20,,96
+C1456,Public,Doctoral degree,66,37926,New England,6222,49,29,100
+C1457,Public,Master's degree,43,27456,Great Lakes,16932,57,15,99
+C1458,Public,Doctoral degree,81,8100,Southeast,6778,57,27,95
+C1459,Private,Master's degree,30,19996,Plains,,19,16,100
+C1460,Public,Doctoral degree,52,6400,Southeast,21444,45,20,97
+C1461,Public,Master's degree,66,23330,Far West,1424,40,19,99
+C1462,Public,Master's degree,,8694,Southeast,609,43,21,88
+C1463,Public,Master's degree,45,44507,New England,15249,28,,63
+C1464,Public,Doctoral degree,16,28500,Plains,2368,46,23,100
+C1465,Public,Doctoral degree,60,30460,Great Lakes,3486,23,20,100
+C1466,Public,Master's degree,58,42156,Southwest,2877,50,22,84
+C1467,Public,Master's degree,74,22040,Mid East,57466,56,,98
+C1468,Public,Doctoral degree,71,36590,Rocky Mountains,356,47,21,75
+C1469,Public,Doctoral degree,76,36020,Southwest,11591,8,23,95
+C1470,Private,Doctoral degree,92,23170,Great Lakes,338,37,22,100
+C1471,Public,Doctoral degree,76,8548,Great Lakes,3404,15,20,89
+C1472,Private,Bachelor's degree,46,20595,Plains,5784,86,30,95
+C1473,Private,Master's degree,22,5793,Far West,3826,60,18,98
+C1474,Private,Master's degree,88,30740,Southwest,1241,23,19,100
+C1475,Private,Doctoral degree,59,25880,Southeast,260,38,29,97
+C1476,Private,Doctoral degree,83,7685,Plains,4398,25,26,87
+C1477,Private,Doctoral degree,65,25261,Southeast,6102,37,,99
+C1478,Private,Master's degree,64,31500,Southeast,28649,41,20,100
+C1479,Private,Master's degree,67,18800,New England,1785,47,20,99
+C1480,Private,Doctoral degree,54,6630,Far West,5795,4,20,98
+C1481,Public,Bachelor's degree,59,7013,Mid East,2996,27,,87
+C1482,Private,Doctoral degree,67,45564,Mid East,726,22,20,61
+C1483,Public,Bachelor's degree,52,12697,Mid East,8712,2,29,62
+C1484,Public,Master's degree,80,47244,Mid East,1513,45,17,51
+C1485,Private,Master's degree,66,30889,Southeast,34536,22,22,99
+C1486,Private,Bachelor's degree,69,7595,Mid East,5701,61,15,95
+C1487,Public,Master's degree,75,32814,Southeast,9755,23,,100
+C1488,Public,Doctoral degree,63,7339,Southeast,4963,10,,93
+C1489,Private,Bachelor's degree,80,11492,Plains,12229,36,20,98
+C1490,Private,Bachelor's degree,,7144,Plains,2274,80,22,74
+C1491,Private,Master's degree,78,20040,Southeast,2713,44,,97
+C1492,Private,Master's degree,52,,Mid East,12085,41,21,
+C1493,Private,Bachelor's degree,72,11318,Mid East,2355,34,21,77
+C1494,Private,Bachelor's degree,60,28400,Southeast,5481,26,25,99
+C1495,Private,Bachelor's degree,68,6739,Southeast,6668,73,16,79
+C1496,Private,Bachelor's degree,70,20560,Plains,28389,58,16,99
+C1497,Public,Master's degree,83,23305,Far West,6032,79,25,98
+C1498,Private,Bachelor's degree,96,15400,Southeast,4579,88,22,92
+C1499,Private,Doctoral degree,71,13318,Great Lakes,2045,71,18,99
+C1500,Private,Bachelor's degree,,26764,Southeast,4827,13,13,100
+C1501,Private,Master's degree,75,19394,Great Lakes,3812,9,18,98
+C1502,Private,Master's degree,93,7720,Southwest,5232,69,19,84
+C1503,Private,Master's degree,56,27575,Southwest,8643,54,17,86
+C1504,Public,Doctoral degree,59,4404,Southeast,2400,22,18,92
+C1505,Private,Bachelor's degree,,10403,Rocky Mountains,66,,23,64
+C1506,Private,Bachelor's degree,79,9275,Far West,23258,33,21,96
+C1507,Private,Master's degree,55,38069,Mid East,8782,19,23,99
+C1508,Private,Master's degree,61,41456,Plains,1136,16,22,79
+C1509,Private,Master's degree,59,41868,Southeast,24445,13,,97
+C1510,Public,Master's degree,64,24222,Great Lakes,1128,43,21,100
+C1511,Public,Bachelor's degree,69,41328,Mid East,2245,11,20,94
+C1512,Public,Master's degree,68,25678,Mid East,2326,6,27,100
+C1513,Private,Bachelor's degree,68,10918,Mid East,1229,24,,78
+C1514,Private,Bachelor's degree,48,29934,Southeast,3462,9,21,100
+C1515,Private,Master's degree,100,6536,Great Lakes,574,32,21,85
+C1516,Private,Bachelor's degree,57,25710,Plains,2229,17,21,97
+C1517,Private,Doctoral degree,56,12022,Great Lakes,12124,41,22,77
+C1518,Private,Master's degree,68,13750,Far West,10696,18,22,94
+C1519,Private,Bachelor's degree,87,43800,Far West,971,28,20,76
+C1520,Private,Master's degree,59,6496,New England,2575,89,24,91
+C1521,Public,Bachelor's degree,78,36726,New England,2204,71,18,93
+C1522,Private,Master's degree,57,8129,Far West,4304,18,21,96
+C1523,Private,Master's degree,63,5600,Mid East,35546,3,26,87
+C1524,Private,Bachelor's degree,,41800,Great Lakes,3388,81,31,88
+C1525,Private,Bachelor's degree,57,35600,Mid East,1749,8,21,100
+C1526,Public,Master's degree,21,12235,Plains,2129,34,19,100
+C1527,Private,Doctoral degree,11,46652,New England,7089,15,18,69
+C1528,Private,Master's degree,,22044,Southeast,2842,21,17,100
+C1529,Private,Master's degree,100,19920,Plains,11300,51,,100
+C1530,Public,Master's degree,52,7961,Far West,11212,47,24,88
+C1531,Private,Bachelor's degree,80,7514,Mid East,516,44,18,86
+C1532,Private,Master's degree,66,9037,Plains,6736,14,15,90
+C1533,Private,Bachelor's degree,,15140,Southeast,14077,33,21,100
+C1534,Private,Master's degree,51,22200,Plains,1411,0,16,97

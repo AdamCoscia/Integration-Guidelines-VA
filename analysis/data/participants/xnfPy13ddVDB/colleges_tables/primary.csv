@@ -1,0 +1,1535 @@
+﻿ID,Control,Highest degree offered,,Admission rate (%),Total enrollment,Tuition and fees 2011-12 ($),4-year graduation rate (%),Geographic region,ACT Composite score (25th percentile),ACT Composite score (75th percentile),Receiving financial aid (%)
+C0001,Public,Doctoral degree,,90,5020,6828,10,Southeast,15,19,97
+C0002,Public,Doctoral degree,,87,18568,6264,29,Southeast,22,28,90
+C0003,Private,Doctoral degree,,,631,8720,0,Southeast,,,100
+C0004,Public,Doctoral degree,,81,7376,8094,16,Southeast,23,29,87
+C0005,Public,Doctoral degree,,51,6075,8082,9,Southeast,15,19,93
+C0006,Public,Doctoral degree,,57,34752,8600,43,Southeast,22,30,75
+C0007,Public,Bachelor's degree,,,3170,,,Southeast,,,
+C0008,Public,Doctoral degree,,84,5084,7580,10,Southeast,18,23,90
+C0009,Public,Doctoral degree,,83,24864,8698,38,Southeast,24,30,76
+C0010,Private,Bachelor's degree,,64,1188,29290,53,Southeast,23,29,98
+C0011,Private,Bachelor's degree,,,600,8090,10,Southeast,,,100
+C0012,Private,Doctoral degree,,,3193,15880,11,Southeast,,,99
+C0013,Private,Bachelor's degree,,63,1110,21990,30,Southeast,19,24,100
+C0014,Public,Doctoral degree,,83,8693,6120,10,Southeast,19,26,93
+C0015,Private,Bachelor's degree,,74,347,14460,38,Southeast,19,24,100
+C0016,Public,Master's degree,,100,4427,6918,18,Southeast,18,22,95
+C0017,Private,Bachelor's degree,,,1666,10490,6,Southeast,,,99
+C0018,Private,Master's degree,,71,1610,17220,33,Southeast,20,25,93
+C0019,Public,Master's degree,,87,3062,8520,24,Southeast,20,26,88
+C0020,Public,Master's degree,,81,6931,6084,12,Southeast,19,25,82
+C0021,Private,Master's degree,,34,1903,14678,19,Southeast,17,22,94
+C0022,Private,Doctoral degree,,77,4833,23963,49,Southeast,23,28,98
+C0023,Public,Doctoral degree,,86,15065,6204,14,Southeast,20,26,91
+C0024,Private,Master's degree,,46,1422,28060,47,Southeast,21,27,100
+C0025,Private,Bachelor's degree,,43,863,15062,17,Southeast,17,20,100
+C0026,Private,Bachelor's degree,,,932,11143,82,Southeast,,,98
+C0027,Public,Doctoral degree,,68,20573,6412,13,Southeast,18,24,78
+C0028,Private,Doctoral degree,,35,3118,17870,17,Southeast,18,22,96
+C0029,Public,Doctoral degree,,,17363,5396,9,Far West,,,81
+C0030,Public,Doctoral degree,,,9166,5568,14,Far West,,,83
+C0031,Public,Master's degree,,,2996,5380,4,Far West,,,79
+C0032,Private,Doctoral degree,,37,669,27110,25,Far West,20,24,100
+C0033,Private,Bachelor's degree,,,79,10500,25,Southwest,,,100
+C0034,Public,Doctoral degree,,80,48702,9720,38,Southwest,22,28,91
+C0035,Public,Doctoral degree,,77,40621,10035,40,Southwest,21,27,83
+C0036,Private,Master's degree,,79,1921,29552,37,Southwest,23,29,91
+C0037,Public,Doctoral degree,,91,26594,8826,30,Southwest,20,25,83
+C0038,Private,Master's degree,,,653,,,Southwest,,,
+C0039,Private,Doctoral degree,,73,943,27829,23,Southwest,22,30,94
+C0040,Private,Bachelor's degree,,61,635,18968,28,Southwest,20,25,99
+C0041,Public,Doctoral degree,,53,12377,6937,7,Southeast,20,27,94
+C0042,Private,Bachelor's degree,,,1027,7800,4,Southeast,,,88
+C0043,Private,Bachelor's degree,,59,592,22906,43,Southeast,22,28,100
+C0044,Public,Doctoral degree,,59,25341,7174,37,Southeast,23,28,81
+C0045,Public,Doctoral degree,,28,2615,5435,6,Southeast,15,20,96
+C0046,Public,Doctoral degree,,76,13552,6934,19,Southeast,21,26,95
+C0047,Public,Master's degree,,85,11369,5070,21,Southeast,18,25,95
+C0048,Public,Master's degree,,,3893,5290,10,Southeast,,,98
+C0049,Public,Doctoral degree,,90,11534,7183,21,Southeast,20,26,95
+C0050,Private,Bachelor's degree,,54,827,11610,19,Southeast,18,23,99
+C0051,Private,Doctoral degree,,76,6238,14610,40,Southeast,22,28,98
+C0052,Public,Master's degree,,62,3583,7010,14,Southeast,19,24,98
+C0053,Private,Master's degree,,80,1444,34230,63,Southeast,26,32,100
+C0054,Private,Master's degree,,70,2596,20766,55,Southeast,22,28,99
+C0055,Private,Bachelor's degree,,70,1543,20630,48,Southeast,21,27,99
+C0056,Private,Bachelor's degree,,61,585,22050,34,Southeast,20,26,98
+C0057,Private,Bachelor's degree,,,556,11910,20,Southeast,,,100
+C0058,Private,Bachelor's degree,,68,574,12620,24,Southeast,19,24,100
+C0059,Public,Master's degree,,61,3404,6786,14,Southeast,18,24,97
+C0060,Public,Bachelor's degree,,57,7170,4250,9,Southeast,19,25,96
+C0061,Private,Doctoral degree,,80,10755,29940,47,Far West,21,27,92
+C0062,Private,Doctoral degree,,73,6301,29908,49,Far West,22,27,96
+C0063,Private,Doctoral degree,,,1271,,,Far West,,,
+C0064,Private,Master's degree,,79,7144,25808,41,Far West,18,24,95
+C0065,Private,Doctoral degree,,11,2181,37704,82,Far West,33,35,73
+C0066,Private,Doctoral degree,,48,4282,32860,61,Far West,22,26,98
+C0067,Public,Master's degree,,31,19703,7911,29,Far West,25,30,50
+C0068,Private,Doctoral degree,,49,4201,,,Far West,,,75
+C0069,Public,Master's degree,,66,8371,6682,15,Far West,15,22,81
+C0070,Public,Doctoral degree,,72,8917,6582,18,Far West,16,22,82
+C0071,Public,Doctoral degree,,58,18398,6518,9,Far West,16,20,85
+C0072,Public,Doctoral degree,,52,22501,6106,10,Far West,20,26,68
+C0073,Public,Master's degree,,72,16356,6890,17,Far West,19,24,63
+C0074,Public,Master's degree,,57,14670,6095,4,Far West,15,19,88
+C0075,Public,Doctoral degree,,58,23060,6263,14,Far West,16,22,80
+C0076,Public,Doctoral degree,,46,38325,6120,14,Far West,19,24,66
+C0077,Public,Doctoral degree,,69,14526,6414,11,Far West,16,22,75
+C0078,Public,Doctoral degree,,31,35586,6240,14,Far West,18,24,71
+C0079,Public,Doctoral degree,,68,23258,6095,7,Far West,15,20,82
+C0080,Public,Doctoral degree,,46,38310,6488,13,Far West,16,22,74
+C0081,Public,Doctoral degree,,70,28811,6573,8,Far West,17,22,79
+C0082,Public,Doctoral degree,,18,36198,12834,72,Far West,27,33,69
+C0083,Public,Doctoral degree,,45,33307,13860,51,Far West,23,29,77
+C0084,Public,Doctoral degree,,42,28895,13122,68,Far West,21,27,77
+C0085,Public,Doctoral degree,,22,40795,12686,69,Far West,25,31,62
+C0086,Public,Doctoral degree,,62,21207,12924,41,Far West,20,25,86
+C0087,Public,Doctoral degree,,38,29517,13200,56,Far West,25,31,62
+C0088,Public,Doctoral degree,,44,22225,13595,68,Far West,24,29,70
+C0089,Public,Doctoral degree,,60,17203,13416,50,Far West,20,26,80
+C0090,Public,Bachelor's degree,,75,1045,6536,43,Far West,21,26,68
+C0091,Private,Doctoral degree,,45,7892,40234,59,Far West,24,29,87
+C0092,Private,Master's degree,,91,4046,27300,54,Far West,20,25,100
+C0093,Private,Bachelor's degree,,49,914,23814,31,Far West,19,22,100
+C0094,Private,Doctoral degree,,,2204,,,Far West,,,
+C0095,Private,Master's degree,,12,1328,42240,84,Far West,29,33,53
+C0096,Private,Master's degree,,100,833,19600,100,Far West,,,90
+C0097,Private,Master's degree,,78,2147,37350,36,Far West,20,25,98
+C0098,Private,Doctoral degree,,,1190,,,Far West,,,
+C0099,Private,Master's degree,,78,3393,24790,43,Far West,18,22,99
+C0100,Private,Doctoral degree,,,3227,,,Far West,,,
+C0101,Private,Bachelor's degree,,18,807,42410,86,Far West,32,35,75
+C0102,Private,Master's degree,,57,1343,30390,25,Far West,17,21,100
+C0103,Public,Master's degree,,80,8293,7062,11,Far West,18,24,74
+C0104,Private,Doctoral degree,,,990,10620,52,Far West,,,73
+C0105,Private,Doctoral degree,,,1356,,,Far West,,,
+C0106,Private,Master's degree,,59,229,25788,69,Far West,,,92
+C0107,Private,Doctoral degree,,39,8796,31300,39,Far West,20,25,97
+C0108,Private,Doctoral degree,,,492,9220,0,Far West,,,22
+C0109,Private,Doctoral degree,,47,2440,27231,30,Far West,17,22,100
+C0110,Private,Doctoral degree,,61,1499,26650,48,Far West,22,27,99
+C0111,Private,Doctoral degree,,54,9661,37825,67,Far West,25,29,90
+C0112,Private,Bachelor's degree,,37,745,35076,28,Far West,19,25,98
+C0113,Private,Doctoral degree,,68,1595,39264,53,Far West,23,28,100
+C0114,Private,Master's degree,,,731,,,Far West,,,
+C0115,Private,Doctoral degree,,74,3274,31339,52,Far West,16,22,100
+C0116,Private,Doctoral degree,,,18207,11376,15,Far West,,,41
+C0117,Private,Master's degree,,87,2030,29890,36,Far West,18,22,100
+C0118,Private,Master's degree,,42,2128,42871,83,Far West,27,31,69
+C0119,Private,Master's degree,,47,1356,24064,27,Far West,17,22,98
+C0120,Private,Master's degree,,51,1647,25965,24,Far West,18,25,100
+C0121,Private,Doctoral degree,,73,6421,36290,40,Far West,22,29,91
+C0122,Private,Doctoral degree,,37,7315,40752,70,Far West,,,72
+C0123,Private,Bachelor's degree,,15,1081,42550,73,Far West,,,41
+C0124,Private,Master's degree,,67,3359,28310,62,Far West,23,28,93
+C0125,Private,Bachelor's degree,,14,1610,39883,93,Far West,31,34,68
+C0126,Private,Doctoral degree,,67,5147,37302,63,Far West,23,27,94
+C0127,Public,Doctoral degree,,31,31899,6578,33,Far West,21,26,62
+C0128,Private,Doctoral degree,,49,8321,38582,65,Far West,25,30,76
+C0129,Public,Doctoral degree,,64,29905,6276,13,Far West,19,24,70
+C0130,Private,Doctoral degree,,61,10112,37424,57,Far West,23,27,71
+C0131,Public,Master's degree,,63,31278,6828,8,Far West,19,25,60
+C0132,Private,Doctoral degree,,51,8770,39048,77,Far West,27,31,84
+C0133,Private,Bachelor's degree,,36,1009,41950,80,Far West,29,32,61
+C0134,Private,Master's degree,,55,1255,21600,38,Far West,21,23,100
+C0135,Private,Doctoral degree,,69,4257,37150,50,Far West,22,27,91
+C0136,Public,Master's degree,,82,9120,6862,26,Far West,19,24,62
+C0137,Private,Master's degree,,70,2415,27400,47,Far West,18,28,99
+C0138,Private,Doctoral degree,,20,41368,42818,78,Far West,29,33,67
+C0139,Private,Bachelor's degree,,79,366,22850,73,Far West,23,31,82
+C0140,Private,Bachelor's degree,,70,1321,35650,72,Far West,24,29,99
+C0141,Private,Doctoral degree,,63,2339,36992,63,Far West,20,25,94
+C0142,Private,Master's degree,,56,1607,29994,19,Far West,19,25,79
+C0143,Public,Master's degree,,53,3211,5627,12,Rocky Mountains,17,22,92
+C0144,Public,Doctoral degree,,76,22206,7394,16,Rocky Mountains,20,26,71
+C0145,Public,Doctoral degree,,91,11321,6512,26,Rocky Mountains,21,25,76
+C0146,Public,Doctoral degree,,88,32017,9152,44,Rocky Mountains,24,29,59
+C0147,Private,Master's degree,,98,5368,22960,24,Rocky Mountains,,,98
+C0148,Private,Master's degree,,22,2061,40050,79,Rocky Mountains,27,32,53
+C0149,Public,Doctoral degree,,37,5790,14453,41,Rocky Mountains,27,31,87
+C0150,Public,Doctoral degree,,77,31186,7952,37,Rocky Mountains,22,27,73
+C0151,Private,Bachelor's degree,,,497,15790,32,Rocky Mountains,,,95
+C0152,Private,Doctoral degree,,77,11778,37833,67,Rocky Mountains,25,30,85
+C0153,Public,Master's degree,,88,4021,5592,17,Rocky Mountains,20,25,91
+C0154,Public,Doctoral degree,,82,9676,6548,13,Rocky Mountains,18,23,90
+C0155,Public,Master's degree,,71,22752,4834,6,Rocky Mountains,18,23,68
+C0156,Private,Master's degree,,80,992,26360,20,Rocky Mountains,,,63
+C0157,Public,Doctoral degree,,70,12710,6623,27,Rocky Mountains,20,24,90
+C0158,Private,Doctoral degree,,70,9722,31188,42,Rocky Mountains,21,26,98
+C0159,Public,Master's degree,,94,7089,6270,18,Rocky Mountains,18,23,94
+C0160,Public,Master's degree,,93,2404,5473,23,Rocky Mountains,19,24,91
+C0161,Private,Master's degree,,68,1582,26294,0,New England,,,83
+C0162,Private,Doctoral degree,,64,4842,27330,19,New England,18,22,93
+C0163,Public,Doctoral degree,,64,11865,8055,20,New England,19,25,84
+C0164,Public,Bachelor's degree,,,1580,,,New England,,,
+C0165,Private,Master's degree,,36,1922,43990,79,New England,,,53
+C0166,Public,Doctoral degree,,54,25911,10670,68,New England,25,30,77
+C0167,Public,Master's degree,,65,5368,8555,32,New England,20,24,82
+C0168,Private,Doctoral degree,,71,4919,40580,79,New England,,,89
+C0169,Private,Master's degree,,,281,,,New England,,,
+C0170,Private,Doctoral degree,,62,6820,30754,51,New England,20,26,98
+C0171,Private,Bachelor's degree,,58,866,27714,31,New England,,,100
+C0172,Private,Doctoral degree,,74,6555,31750,44,New England,20,25,95
+C0173,Private,Doctoral degree,,67,8803,36130,72,New England,22,27,89
+C0174,Private,Doctoral degree,,76,6983,32724,63,New England,,,95
+C0175,Private,Doctoral degree,,86,2640,30310,37,New England,18,22,100
+C0176,Public,Doctoral degree,,75,10804,8248,18,New England,17,22,81
+C0177,Private,Master's degree,,32,2390,44070,81,New England,25,29,41
+C0178,Private,Doctoral degree,,21,3205,43974,86,New England,29,33,51
+C0179,Public,Doctoral degree,,65,6025,8104,21,New England,,,81
+C0180,Private,Doctoral degree,,7,12109,40500,90,New England,32,35,61
+C0181,Public,Doctoral degree,,42,4336,7056,18,Mid East,16,19,97
+C0182,Public,Doctoral degree,,65,22166,11192,68,Mid East,24,29,82
+C0183,Private,Master's degree,,62,1655,21565,11,Mid East,16,23,97
+C0184,Private,Doctoral degree,,,13621,9470,31,Mid East,,,87
+C0185,Private,Doctoral degree,,43,12818,38071,76,Mid East,26,30,80
+C0186,Private,Doctoral degree,,60,6725,35460,62,Mid East,22,27,95
+C0187,Public,Master's degree,,,5011,5010,6,Mid East,,,86
+C0188,Private,Doctoral degree,,66,1561,11986,16,Mid East,15,20,88
+C0189,Private,Doctoral degree,,33,25264,44148,76,Mid East,27,31,68
+C0190,Private,Doctoral degree,,17,17849,41393,88,Mid East,29,33,53
+C0191,Private,Doctoral degree,,49,10297,20171,40,Mid East,21,26,93
+C0192,Private,Master's degree,,52,2506,20975,15,Mid East,,,99
+C0193,Private,Doctoral degree,,47,9030,28160,22,Southeast,17,21,97
+C0194,Private,Master's degree,,67,3787,13990,23,Southeast,15,18,99
+C0195,Private,Doctoral degree,,78,2297,31700,33,Southeast,18,22,79
+C0196,Private,Doctoral degree,,36,991,12048,13,Southeast,,,100
+C0197,Public,Doctoral degree,,49,59589,5584,36,Southeast,23,28,96
+C0198,Private,Master's degree,,70,505,16315,44,Southeast,19,25,100
+C0199,Private,Bachelor's degree,,71,2173,34546,59,Southeast,23,28,97
+C0200,Private,Bachelor's degree,,27,862,10994,1,Southeast,15,18,97
+C0201,Private,Doctoral degree,,74,5279,29852,34,Southeast,21,27,92
+C0202,Public,Doctoral degree,,45,10743,5187,12,Southeast,18,22,95
+C0203,Public,Doctoral degree,,48,30759,4264,15,Southeast,20,24,87
+C0204,Private,Bachelor's degree,,50,2839,14510,46,Southeast,21,25,85
+C0205,Private,Bachelor's degree,,59,558,13180,9,Southeast,20,26,94
+C0206,Private,Doctoral degree,,60,5644,34990,39,Southeast,23,28,95
+C0207,Public,Doctoral degree,,43,47663,5678,20,Southeast,24,27,91
+C0208,Private,Master's degree,,42,1560,14604,23,Southeast,,,90
+C0209,Private,Master's degree,,50,2619,26112,47,Southeast,22,27,99
+C0210,Public,Doctoral degree,,57,40909,5826,57,Southeast,25,29,95
+C0211,Public,Doctoral degree,,47,49878,5657,65,Southeast,26,31,96
+C0212,Private,Doctoral degree,,47,4157,27900,24,Southeast,19,24,99
+C0213,Private,Bachelor's degree,,,449,7410,14,Southeast,,,50
+C0214,Private,Doctoral degree,,93,17129,15064,59,Southeast,,,92
+C0215,Private,Master's degree,,,347,,,Southeast,,,
+C0216,Private,Doctoral degree,,40,16935,39654,71,Southeast,28,32,75
+C0217,Private,Bachelor's degree,,81,189,15478,44,Southeast,,,95
+C0218,Public,Doctoral degree,,53,16083,5627,21,Southeast,23,26,94
+C0219,Private,Doctoral degree,,57,25670,23214,25,Southeast,21,27,98
+C0220,Private,Doctoral degree,,84,3764,24100,40,Southeast,20,26,100
+C0221,Private,Doctoral degree,,59,3153,38400,61,Southeast,24,29,86
+C0222,Private,Doctoral degree,,77,16275,18870,31,Southeast,,,94
+C0223,Public,Bachelor's degree,,,31820,2988,,Southeast,,,81
+C0224,Public,Doctoral degree,,45,41428,5800,36,Southeast,23,28,98
+C0225,Private,Doctoral degree,,46,2315,23910,28,Southeast,16,21,100
+C0226,Private,Doctoral degree,,59,4044,35078,56,Southeast,23,28,100
+C0227,Private,Master's degree,,59,3434,17718,24,Southeast,17,23,97
+C0228,Private,Master's degree,,52,7260,23976,51,Southeast,21,26,95
+C0229,Private,Master's degree,,34,1162,16660,26,Southeast,17,21,99
+C0230,Private,Master's degree,,64,715,19670,2,Southeast,17,24,100
+C0231,Public,Doctoral degree,,48,12588,4701,20,Southeast,21,26,91
+C0232,Private,Bachelor's degree,,67,915,32195,66,Southeast,,,100
+C0233,Public,Master's degree,,20,4260,5802,16,Southeast,17,20,99
+C0234,Public,Doctoral degree,,70,7101,4854,10,Southeast,19,23,91
+C0235,Private,Bachelor's degree,,54,1439,16226,33,Southeast,18,22,95
+C0236,Private,Doctoral degree,,57,3458,18912,21,Southeast,17,21,98
+C0237,Private,Master's degree,,60,2223,26090,50,Southeast,24,29,100
+C0238,Private,Doctoral degree,,78,2854,21124,30,Southeast,19,21,97
+C0239,Private,Bachelor's degree,,51,693,13790,10,Southeast,17,20,100
+C0240,Public,Master's degree,,48,7261,4926,9,Southeast,18,21,94
+C0241,Public,Doctoral degree,,55,8156,5457,12,Southeast,19,23,93
+C0242,Private,Master's degree,,57,1173,27220,48,Southeast,23,28,100
+C0243,Public,Bachelor's degree,,,5015,3622,8,Southeast,,,93
+C0244,Private,Bachelor's degree,,48,806,14550,31,Southeast,,,100
+C0245,Private,Doctoral degree,,26,14513,41164,84,Southeast,29,32,53
+C0246,Public,Master's degree,,33,3180,6030,8,Southeast,,,97
+C0247,Public,Doctoral degree,,55,21471,9652,41,Southeast,28,32,72
+C0248,Public,Master's degree,,68,2806,4786,15,Southeast,18,22,91
+C0249,Public,Doctoral degree,,68,6551,8344,39,Southeast,22,26,95
+C0250,Public,Doctoral degree,,52,20517,5659,26,Southeast,21,25,89
+C0251,Public,Doctoral degree,,55,32165,9410,21,Southeast,20,25,91
+C0252,Public,Doctoral degree,,56,34536,9472,57,Southeast,26,30,94
+C0253,Public,Doctoral degree,,57,24629,5340,15,Southeast,21,24,90
+C0254,Private,Master's degree,,58,940,23272,31,Southeast,19,23,99
+C0255,Private,Doctoral degree,,75,2730,8815,22,Southeast,,,92
+C0256,Private,Doctoral degree,,69,8351,31548,44,Southeast,23,28,100
+C0257,Private,Bachelor's degree,,67,2170,23792,39,Southeast,18,23,94
+C0258,Public,Doctoral degree,,,,,,Southeast,,,
+C0259,Private,Master's degree,,56,1100,29150,55,Southeast,22,27,97
+C0260,Private,Bachelor's degree,,44,924,12502,4,Southeast,14,18,99
+C0261,Private,Doctoral degree,,61,2368,19000,40,Southeast,19,24,99
+C0262,Private,Master's degree,,51,1309,17670,21,Southeast,18,25,92
+C0263,Public,Master's degree,,83,4772,6032,8,Southeast,16,19,99
+C0264,Private,Master's degree,,68,1629,17870,33,Southeast,18,23,99
+C0265,Private,Bachelor's degree,,38,2129,23254,60,Southeast,20,24,90
+C0266,Public,Master's degree,,78,6549,5500,10,Southeast,22,26,91
+C0267,Private,Master's degree,,69,1090,13320,14,Southeast,,,56
+C0268,Private,Bachelor's degree,,49,870,16910,35,Southeast,17,23,100
+C0269,Private,Bachelor's degree,,81,1606,15010,10,Southeast,17,22,100
+C0270,Public,Doctoral degree,,55,11885,5697,16,Southeast,20,24,92
+C0271,Private,Master's degree,,43,700,18500,58,Southeast,17,22,100
+C0272,Public,Doctoral degree,,54,11929,5645,17,Southeast,18,22,94
+C0273,Private,Master's degree,,84,2752,18440,27,Far West,19,23,100
+C0274,Public,Doctoral degree,,75,4043,5944,8,Far West,19,23,85
+C0275,Public,Doctoral degree,,80,20006,9100,19,Far West,21,27,79
+C0276,Private,Master's degree,,64,6736,16610,19,Far West,19,25,95
+C0277,Public,Bachelor's degree,,76,2361,5146,6,Far West,16,22,64
+C0278,Public,Doctoral degree,,78,21981,5566,11,Rocky Mountains,20,26,80
+C0279,Public,Doctoral degree,,,13326,5796,11,Rocky Mountains,,,87
+C0280,Public,Doctoral degree,,66,12024,5856,25,Rocky Mountains,20,26,91
+C0281,Private,Master's degree,,91,1122,22695,54,Rocky Mountains,21,27,99
+C0282,Public,Bachelor's degree,,100,4304,5348,9,Rocky Mountains,18,22,97
+C0283,Private,Doctoral degree,,62,2246,24030,32,Rocky Mountains,21,28,100
+C0284,Private,Bachelor's degree,,100,27692,3811,22,Rocky Mountains,20,25,71
+C0285,Private,Bachelor's degree,,59,2524,33363,74,Great Lakes,,,99
+C0286,Private,Doctoral degree,,76,4946,19450,44,Great Lakes,19,24,100
+C0287,Private,Bachelor's degree,,68,543,16296,34,Great Lakes,19,25,99
+C0288,Private,Doctoral degree,,67,5430,26704,55,Great Lakes,23,28,99
+C0289,Public,Doctoral degree,,29,5701,9062,4,Great Lakes,17,20,97
+C0290,Private,Doctoral degree,,9,15048,43780,88,Great Lakes,32,35,67
+C0291,Private,Master's degree,,91,10142,20644,32,Great Lakes,,,79
+C0292,Private,Doctoral degree,,54,5286,25456,45,Great Lakes,20,24,100
+C0293,Private,Doctoral degree,,60,24414,30618,54,Great Lakes,23,28,95
+C0294,Private,Bachelor's degree,,,684,16650,7,Great Lakes,,,100
+C0295,Public,Master's degree,,62,9775,10534,34,Great Lakes,19,24,93
+C0296,Private,Master's degree,,72,3210,30054,59,Great Lakes,21,26,89
+C0297,Private,Bachelor's degree,,68,692,18750,43,Great Lakes,19,26,100
+C0298,Public,Doctoral degree,,,5568,,,Great Lakes,,,
+C0299,Private,Master's degree,,66,1368,22198,41,Great Lakes,19,25,98
+C0300,Public,Doctoral degree,,71,28038,12656,30,Great Lakes,21,26,82
+C0301,Private,Doctoral degree,,69,6318,23184,38,Great Lakes,19,25,96
+C0302,Public,Doctoral degree,,62,44942,13838,68,Great Lakes,26,31,65
+C0303,Private,Bachelor's degree,,58,2009,36572,72,Great Lakes,25,30,99
+C0304,Private,Master's degree,,61,1028,24550,56,Great Lakes,19,25,100
+C0305,Private,Doctoral degree,,57,7850,35125,32,Great Lakes,25,30,100
+C0306,Public,Doctoral degree,,69,20272,11832,46,Great Lakes,22,26,79
+C0307,Private,Doctoral degree,,71,1170,26110,32,Great Lakes,18,27,100
+C0308,Private,Bachelor's degree,,75,1424,34464,71,Great Lakes,,,98
+C0309,Private,Master's degree,,57,1618,36920,58,Great Lakes,23,28,99
+C0310,Private,Doctoral degree,,56,6525,24770,45,Great Lakes,21,26,99
+C0311,Private,Bachelor's degree,,87,1240,23000,,Great Lakes,16,19,89
+C0312,Private,Doctoral degree,,91,15957,33294,60,Great Lakes,24,29,96
+C0313,Private,Bachelor's degree,,75,571,20400,28,Great Lakes,19,22,100
+C0314,Private,Doctoral degree,,63,3027,24190,32,Great Lakes,20,25,100
+C0315,Private,Doctoral degree,,55,2261,28612,48,Great Lakes,21,26,100
+C0316,Private,Bachelor's degree,,64,1255,28650,57,Great Lakes,20,25,100
+C0317,Private,Doctoral degree,,99,4814,18895,29,Great Lakes,,,86
+C0318,Private,Master's degree,,64,3048,29733,51,Great Lakes,22,27,99
+C0319,Private,Doctoral degree,,52,3136,21050,39,Great Lakes,19,25,99
+C0320,Public,Doctoral degree,,56,21138,12422,26,Great Lakes,19,24,96
+C0321,Private,Doctoral degree,,15,21592,41983,86,Great Lakes,31,34,63
+C0322,Public,Master's degree,,60,10821,7879,4,Great Lakes,16,21,77
+C0323,Private,Doctoral degree,,82,4579,27590,49,Great Lakes,21,27,100
+C0324,Private,Master's degree,,89,1455,24140,39,Great Lakes,20,25,100
+C0325,Private,Master's degree,,21,3233,21600,76,Great Lakes,,,97
+C0326,Private,Master's degree,,41,1230,25570,25,Great Lakes,19,25,100
+C0327,Private,Doctoral degree,,79,6130,25000,27,Great Lakes,19,25,96
+C0328,Private,Doctoral degree,,60,3470,26610,50,Great Lakes,20,24,100
+C0329,Private,Doctoral degree,,51,3764,25932,32,Great Lakes,21,25,100
+C0330,Private,Master's degree,,51,4252,27060,30,Great Lakes,19,24,100
+C0331,Public,Doctoral degree,,60,5137,8581,28,Great Lakes,20,27,96
+C0332,Private,Bachelor's degree,,29,97,30150,50,Great Lakes,,,86
+C0333,Public,Doctoral degree,,79,17964,11038,23,Great Lakes,19,25,88
+C0334,Public,Doctoral degree,,84,13850,8865,28,Great Lakes,20,25,86
+C0335,Private,Master's degree,,90,1380,22572,49,Great Lakes,20,25,96
+C0336,Private,Doctoral degree,,94,2125,24610,35,Great Lakes,20,25,100
+C0337,Public,Doctoral degree,,59,11707,10719,29,Great Lakes,18,23,82
+C0338,Private,Doctoral degree,,69,2993,28960,74,Great Lakes,27,32,81
+C0339,Private,Doctoral degree,,55,2442,24610,45,Great Lakes,21,25,100
+C0340,Public,Doctoral degree,,61,20503,8558,35,Great Lakes,20,24,87
+C0341,Private,Master's degree,,72,1804,23630,47,Great Lakes,20,27,100
+C0342,Private,Doctoral degree,,66,4827,31948,51,Great Lakes,25,30,94
+C0343,Private,Master's degree,,40,1140,14880,18,Great Lakes,15,20,95
+C0344,Private,Bachelor's degree,,61,2304,36970,74,Great Lakes,25,29,98
+C0345,Private,Master's degree,,64,1159,38284,59,Great Lakes,26,31,97
+C0346,Private,Doctoral degree,,84,2630,29416,53,Great Lakes,23,29,96
+C0347,Private,Bachelor's degree,,60,1014,25865,53,Great Lakes,19,24,100
+C0348,Private,Master's degree,,55,888,25700,54,Great Lakes,21,30,100
+C0349,Private,Doctoral degree,,79,1904,22546,54,Great Lakes,20,26,100
+C0350,Private,Bachelor's degree,,67,1163,28850,68,Great Lakes,23,28,100
+C0351,Private,Bachelor's degree,,72,524,22900,42,Great Lakes,19,26,100
+C0352,Private,Master's degree,,97,1124,23210,57,Great Lakes,21,27,99
+C0353,Public,Master's degree,,83,13459,6708,6,Great Lakes,19,24,87
+C0354,Public,Doctoral degree,,70,30488,8243,15,Great Lakes,19,25,85
+C0355,Private,Doctoral degree,,84,5452,23010,45,Great Lakes,19,25,98
+C0356,Public,Doctoral degree,,69,9902,6032,15,Great Lakes,19,24,88
+C0357,Public,Doctoral degree,,83,12448,7982,22,Great Lakes,16,22,92
+C0358,Public,Master's degree,,74,4178,6323,7,Great Lakes,18,23,82
+C0359,Public,Master's degree,,70,8073,6507,6,Great Lakes,18,23,86
+C0360,Public,Doctoral degree,,72,46817,9524,58,Great Lakes,24,30,71
+C0361,Public,Master's degree,,76,6387,6408,8,Great Lakes,17,23,79
+C0362,Public,Master's degree,,79,6733,6365,9,Great Lakes,17,23,80
+C0363,Public,Master's degree,,54,4456,6280,9,Great Lakes,18,23,91
+C0364,Private,Doctoral degree,,71,1349,25950,40,Great Lakes,19,25,100
+C0365,Private,Doctoral degree,,58,2714,26000,28,Great Lakes,19,25,99
+C0366,Private,Doctoral degree,,95,14959,21956,55,Great Lakes,21,27,80
+C0367,Private,Master's degree,,,506,13520,9,Great Lakes,,,96
+C0368,Private,Doctoral degree,,22,12124,41417,90,Great Lakes,32,34,69
+C0369,Private,Doctoral degree,,73,2418,16640,41,Great Lakes,19,24,100
+C0370,Public,Master's degree,,61,9422,6336,9,Great Lakes,,,66
+C0371,Public,Master's degree,,72,6102,6872,8,Great Lakes,17,23,82
+C0372,Private,Master's degree,,54,2381,23950,33,Great Lakes,19,23,100
+C0373,Private,Master's degree,,64,1163,26330,36,Great Lakes,19,24,100
+C0374,Private,Master's degree,,98,887,27622,49,Great Lakes,15,22,100
+C0375,Private,Bachelor's degree,,86,1479,32000,67,Great Lakes,23,28,98
+C0376,Private,Master's degree,,88,2245,27438,65,Great Lakes,24,31,99
+C0377,Private,Master's degree,,72,1875,26730,33,Great Lakes,21,27,100
+C0378,Private,Doctoral degree,,80,4508,31040,58,Great Lakes,23,29,92
+C0379,Private,Bachelor's degree,,,902,32450,63,Great Lakes,,,95
+C0380,Private,Doctoral degree,,,1174,24694,40,Plains,,,97
+C0381,Private,Master's degree,,70,2399,27226,43,Plains,20,25,98
+C0382,Private,Bachelor's degree,,66,1386,27844,62,Plains,21,26,100
+C0383,Private,Doctoral degree,,78,1225,25760,59,Plains,20,25,99
+C0384,Private,Master's degree,,62,1419,32380,61,Plains,23,28,100
+C0385,Private,Bachelor's degree,,64,1125,32920,64,Plains,23,29,96
+C0386,Private,Master's degree,,75,1430,24300,54,Plains,21,28,100
+C0387,Private,Doctoral degree,,66,5139,28382,61,Plains,25,30,99
+C0388,Private,Doctoral degree,,77,2023,22620,29,Plains,17,22,94
+C0389,Private,Doctoral degree,,50,2286,21790,30,Plains,18,24,100
+C0390,Private,Master's degree,,95,2129,21018,28,Plains,19,23,100
+C0391,Private,Bachelor's degree,,35,1721,39810,81,Plains,28,32,90
+C0392,Public,Doctoral degree,,83,32955,7486,38,Plains,22,28,88
+C0393,Private,Bachelor's degree,,60,599,23160,17,Plains,19,24,100
+C0394,Public,Doctoral degree,,80,29748,7765,48,Plains,25,28,83
+C0395,Private,Master's degree,,69,1621,27258,48,Plains,21,26,100
+C0396,Private,Bachelor's degree,,72,2466,34885,67,Plains,23,29,100
+C0397,Private,Doctoral degree,,42,1136,24430,24,Plains,,,97
+C0398,Private,Master's degree,,53,2542,24050,48,Plains,20,25,100
+C0399,Private,Master's degree,,68,1761,24360,66,Plains,20,23,85
+C0400,Public,Doctoral degree,,83,12159,7350,37,Plains,20,24,87
+C0401,Private,Bachelor's degree,,76,1233,24630,53,Plains,21,27,100
+C0402,Private,Doctoral degree,,96,3607,24920,47,Plains,20,25,100
+C0403,Private,Master's degree,,88,1773,28123,55,Plains,21,27,100
+C0404,Private,Master's degree,,58,5304,23356,24,Plains,19,24,85
+C0405,Private,Bachelor's degree,,78,1714,30960,59,Plains,21,26,99
+C0406,Private,Master's degree,,58,1875,21720,17,Plains,17,22,100
+C0407,Private,Doctoral degree,,87,3076,23390,36,Plains,21,26,100
+C0408,Private,Master's degree,,61,2177,21475,43,Plains,22,28,100
+C0409,Private,Bachelor's degree,,59,665,21677,27,Plains,18,23,98
+C0410,Private,Bachelor's degree,,64,482,21700,39,Plains,19,26,100
+C0411,Private,Bachelor's degree,,50,1037,18400,27,Plains,18,24,93
+C0412,Private,Bachelor's degree,,,474,6032,,Plains,,,92
+C0413,Public,Doctoral degree,,61,6033,4952,20,Plains,19,25,96
+C0414,Public,Master's degree,,89,13441,4082,19,Plains,18,24,97
+C0415,Private,Master's degree,,59,2178,21030,13,Plains,18,24,100
+C0416,Public,Doctoral degree,,92,26968,9222,36,Plains,22,28,79
+C0417,Private,Master's degree,,45,3736,21716,33,Plains,20,27,99
+C0418,Public,Doctoral degree,,96,24581,7657,26,Plains,,,83
+C0419,Private,Master's degree,,54,729,21400,31,Plains,20,24,99
+C0420,Private,Master's degree,,87,656,20600,43,Plains,19,24,95
+C0421,Private,Master's degree,,72,1907,21500,41,Plains,19,21,99
+C0422,Private,Master's degree,,99,558,21680,22,Plains,19,25,100
+C0423,Private,Master's degree,,,356,,,Plains,,,
+C0424,Public,Master's degree,,79,7400,5162,24,Plains,19,24,91
+C0425,Private,Doctoral degree,,47,1325,20770,44,Plains,19,24,100
+C0426,Private,Doctoral degree,,90,1661,21680,42,Plains,20,25,100
+C0427,Private,Bachelor's degree,,44,690,20150,30,Plains,19,25,100
+C0428,Private,Master's degree,,74,736,21740,45,Plains,18,27,100
+C0429,Public,Doctoral degree,,,6973,5270,17,Plains,,,92
+C0430,Public,Doctoral degree,,96,14386,6155,22,Plains,21,26,89
+C0431,Private,Bachelor's degree,,45,631,9600,21,Southeast,18,24,100
+C0432,Private,Master's degree,,66,1797,24229,56,Southeast,21,27,99
+C0433,Private,Doctoral degree,,95,3419,32140,53,Southeast,22,27,100
+C0434,Private,Bachelor's degree,,34,1623,910,47,Southeast,22,26,100
+C0435,Private,Master's degree,,45,949,18340,16,Southeast,19,24,100
+C0436,Private,Master's degree,,68,3520,20740,28,Southeast,18,24,95
+C0437,Private,Bachelor's degree,,69,1381,34000,80,Southeast,26,31,97
+C0438,Private,Doctoral degree,,71,4924,18000,24,Southeast,19,25,100
+C0439,Public,Doctoral degree,,60,16111,6960,18,Southeast,19,24,97
+C0440,Private,Master's degree,,82,1399,29300,49,Southeast,21,26,98
+C0441,Public,Master's degree,,38,2533,5808,7,Southeast,16,20,89
+C0442,Private,Bachelor's degree,,67,657,19515,25,Southeast,19,25,100
+C0443,Public,Doctoral degree,,69,28435,9128,34,Southeast,22,28,93
+C0444,Private,Master's degree,,51,594,15150,18,Southeast,18,24,100
+C0445,Private,Master's degree,,,2644,20030,15,Southeast,,,100
+C0446,Public,Doctoral degree,,71,21444,8930,25,Southeast,22,28,97
+C0447,Private,Master's degree,,70,2251,13350,5,Southeast,15,24,95
+C0448,Private,Master's degree,,54,1351,19950,34,Southeast,19,25,100
+C0449,Public,Doctoral degree,,84,11358,6942,22,Southeast,19,25,99
+C0450,Public,Doctoral degree,,82,10943,6576,29,Southeast,19,25,99
+C0451,Public,Doctoral degree,,47,15263,7584,14,Southeast,19,25,95
+C0452,Private,Doctoral degree,,100,2205,16250,16,Southeast,16,22,100
+C0453,Private,Master's degree,,,767,17080,18,Southeast,,,99
+C0454,Private,Doctoral degree,,81,2367,19350,18,Southeast,18,22,99
+C0455,Private,Master's degree,,88,1600,25845,42,Southeast,20,25,100
+C0456,Private,Bachelor's degree,,96,1082,28250,67,Southeast,24,30,100
+C0457,Private,Master's degree,,74,1164,20079,16,Southeast,19,24,100
+C0458,Public,Doctoral degree,,92,20448,8084,25,Southeast,18,25,93
+C0459,Private,Master's degree,,66,661,25290,49,Southeast,22,28,100
+C0460,Private,Bachelor's degree,,35,1183,14770,5,Southeast,17,20,99
+C0461,Public,Doctoral degree,,44,5071,4886,7,Southeast,16,20,96
+C0462,Public,Bachelor's degree,,61,2229,4402,7,Southeast,18,22,92
+C0463,Public,Doctoral degree,,76,30478,6354,38,Southeast,23,28,93
+C0464,Public,Master's degree,,83,4114,4494,15,Southeast,20,24,94
+C0465,Private,Master's degree,,74,1400,13380,29,Southeast,18,23,96
+C0466,Public,Doctoral degree,,67,11015,5896,29,Southeast,21,26,94
+C0467,Private,Doctoral degree,,87,4686,33552,44,Southeast,22,28,98
+C0468,Public,Master's degree,,62,8341,4383,13,Southeast,20,24,95
+C0469,Public,Doctoral degree,,50,9323,5214,13,Southeast,21,25,90
+C0470,Public,Master's degree,,87,6532,4737,19,Southeast,20,24,95
+C0471,Public,Doctoral degree,,77,8645,5101,19,Southeast,20,25,96
+C0472,Public,Master's degree,,84,8944,5049,19,Southeast,19,24,95
+C0473,Private,Master's degree,,48,1112,14699,5,Southeast,,,81
+C0474,Public,Doctoral degree,,45,14934,4604,13,Southeast,20,24,93
+C0475,Public,Doctoral degree,,36,6777,5074,8,Southeast,17,20,98
+C0476,Public,Master's degree,,49,2292,3906,4,Southeast,15,18,58
+C0477,Public,Doctoral degree,,59,16646,4864,13,Southeast,21,25,94
+C0478,Private,Doctoral degree,,26,12938,43434,62,Southeast,29,32,79
+C0479,Private,Doctoral degree,,54,3121,17900,27,Southeast,20,26,99
+C0480,Private,Master's degree,,74,370,36063,56,New England,,,100
+C0481,Private,Bachelor's degree,,24,1791,42800,88,New England,,,43
+C0482,Private,Bachelor's degree,,15,1795,42816,88,New England,30,33,50
+C0483,Private,Bachelor's degree,,26,1820,42820,89,New England,28,32,47
+C0484,Private,Doctoral degree,,80,3049,14435,25,New England,17,21,79
+C0485,Public,Bachelor's degree,,,4770,7448,3,New England,,,89
+C0486,Public,Master's degree,,84,2061,9367,38,New England,,,96
+C0487,Public,Bachelor's degree,,63,1209,7575,36,New England,18,27,97
+C0488,Public,Bachelor's degree,,85,892,7480,14,New England,18,25,98
+C0489,Public,Doctoral degree,,81,11247,10588,36,New England,21,26,93
+C0490,Public,Master's degree,,65,1018,11305,53,New England,20,24,72
+C0491,Public,Bachelor's degree,,,1263,7300,15,New England,,,99
+C0492,Private,Doctoral degree,,86,6032,30500,49,New England,21,26,100
+C0493,Private,Master's degree,,78,1614,28700,49,New England,,,98
+C0494,Public,Doctoral degree,,83,8923,8900,10,New England,20,25,93
+C0495,Private,Master's degree,,72,1522,22770,35,New England,16,21,98
+C0496,Private,Bachelor's degree,,89,553,23540,45,New England,,,99
+C0497,Public,Doctoral degree,,73,6518,7500,23,Mid East,,,95
+C0498,Public,Doctoral degree,,52,5561,6347,13,Mid East,17,20,90
+C0499,Private,Master's degree,,33,1185,20180,17,Mid East,,,98
+C0500,Public,Doctoral degree,,36,3383,5732,4,Mid East,,,95
+C0501,Public,Doctoral degree,,59,5473,7128,22,Mid East,18,22,83
+C0502,Private,Master's degree,,72,2111,36554,59,Mid East,,,91
+C0503,Private,Master's degree,,81,2392,31060,55,Mid East,18,25,98
+C0504,Private,Doctoral degree,,18,20918,42280,87,Mid East,30,34,61
+C0505,Private,Doctoral degree,,58,5977,40870,79,Mid East,25,29,81
+C0506,Public,Doctoral degree,,,39557,6168,1,Mid East,,,77
+C0507,Public,Doctoral degree,,63,13908,9467,37,Mid East,24,29,77
+C0508,Public,Doctoral degree,,47,37272,8655,66,Mid East,,,73
+C0509,Public,Doctoral degree,,55,4220,6482,13,Mid East,16,19,93
+C0510,Public,Doctoral degree,,58,7546,6928,11,Mid East,16,19,95
+C0511,Private,Master's degree,,67,2240,31536,61,Mid East,17,23,100
+C0512,Private,Doctoral degree,,50,2877,29700,45,Mid East,20,23,99
+C0513,Public,Doctoral degree,,55,8643,7332,47,Mid East,22,26,88
+C0514,Public,Master's degree,,72,1858,14445,71,Mid East,25,30,72
+C0515,Private,Master's degree,,,1080,7920,10,Mid East,,,93
+C0516,Private,Master's degree,,81,490,43656,56,Mid East,,,75
+C0517,Public,Doctoral degree,,60,22499,7906,40,Mid East,21,25,75
+C0518,Private,Master's degree,,,591,,,Mid East,,,
+C0519,Private,Master's degree,,60,4404,23636,42,Mid East,18,23,99
+C0520,Private,Master's degree,,67,1512,38542,65,Mid East,24,29,93
+C0521,Private,Master's degree,,76,3229,34780,64,Mid East,21,27,99
+C0522,Private,Doctoral degree,,68,3657,27902,28,New England,16,21,100
+C0523,Private,Bachelor's degree,,14,1785,42898,89,New England,30,34,65
+C0524,Private,Master's degree,,78,1540,29860,43,New England,,,100
+C0525,Private,Master's degree,,74,2756,32545,70,New England,,,99
+C0526,Private,Master's degree,,58,2357,27045,46,New England,18,22,100
+C0527,Private,Bachelor's degree,,63,1902,28490,16,New England,19,24,100
+C0528,Private,Doctoral degree,,44,5658,38328,81,New England,26,30,77
+C0529,Private,Doctoral degree,,32,14309,42204,89,New England,30,33,59
+C0530,Private,Doctoral degree,,46,32411,41420,80,New England,26,30,62
+C0531,Private,Doctoral degree,,37,5825,41860,86,New England,28,32,65
+C0532,Public,Master's degree,,79,11267,7552,29,New England,19,24,79
+C0533,Private,Doctoral degree,,,3114,13240,2,New England,,,33
+C0534,Private,Doctoral degree,,62,3551,37350,76,New England,,,89
+C0535,Private,Master's degree,,67,3074,32210,35,New England,16,20,95
+C0536,Private,Master's degree,,56,1478,25300,41,New England,17,24,100
+C0537,Private,Master's degree,,48,4561,32728,80,New England,26,30,72
+C0538,Private,Master's degree,,60,2436,32300,51,New England,21,26,99
+C0539,Private,Doctoral degree,,72,5029,27130,65,New England,21,25,94
+C0540,Private,Bachelor's degree,,63,1930,25778,4,New England,,,86
+C0541,Public,Master's degree,,72,6680,8300,20,New England,18,22,90
+C0542,Public,Master's degree,,52,6429,7580,33,New England,19,25,93
+C0543,Private,Master's degree,,41,2073,30626,58,New England,22,29,99
+C0544,Private,Bachelor's degree,,64,1492,42900,56,New England,,,88
+C0545,Private,Doctoral degree,,6,28297,39851,87,New England,32,35,75
+C0546,Private,Bachelor's degree,,33,2912,41488,89,New England,,,72
+C0547,Private,Master's degree,,76,2081,27500,47,New England,18,23,98
+C0548,Private,Doctoral degree,,67,5195,30545,35,New England,21,26,97
+C0549,Public,Doctoral degree,,64,16932,11297,28,New England,22,28,90
+C0550,Public,Doctoral degree,,63,28518,12797,59,New England,24,29,88
+C0551,Public,Doctoral degree,,71,16277,11407,15,New England,,,80
+C0552,Private,Doctoral degree,,8,11301,40732,84,New England,33,35,87
+C0553,Public,Master's degree,,77,1476,6867,49,New England,20,24,89
+C0554,Private,Master's degree,,79,3067,32865,54,New England,,,96
+C0555,Private,Master's degree,,47,2251,41456,76,New England,,,79
+C0556,Private,Master's degree,,61,1288,25915,29,New England,15,20,98
+C0557,Private,Bachelor's degree,,60,962,26600,24,New England,,,98
+C0558,Private,Master's degree,,80,1459,30400,42,New England,19,23,91
+C0559,Public,Master's degree,,67,1716,8075,38,New England,20,25,97
+C0560,Private,Doctoral degree,,32,20053,38602,0,New England,30,33,77
+C0561,Private,Master's degree,,75,1678,28208,57,New England,16,22,100
+C0562,Private,Master's degree,,64,346,22042,28,New England,,,77
+C0563,Public,Master's degree,,69,9301,7670,22,New England,19,24,88
+C0564,Private,Doctoral degree,,49,4655,33356,66,New England,23,28,97
+C0565,Private,Bachelor's degree,,92,350,43840,,New England,,,84
+C0566,Private,Doctoral degree,,43,3033,40070,82,New England,,,73
+C0567,Private,Doctoral degree,,70,3255,30660,58,New England,20,25,99
+C0568,Public,Doctoral degree,,72,9053,11135,30,New England,21,25,90
+C0569,Private,Bachelor's degree,,71,2481,33920,82,New England,22,28,92
+C0570,Private,Doctoral degree,,83,8675,29894,41,New England,20,25,80
+C0571,Private,Doctoral degree,,19,10872,42962,87,New England,30,33,44
+C0572,Private,Bachelor's degree,,29,2474,40660,84,New England,29,33,68
+C0573,Private,Master's degree,,58,4179,25025,50,New England,21,27,99
+C0574,Private,Doctoral degree,,82,3800,30844,52,New England,22,26,97
+C0575,Public,Master's degree,,75,6371,7886,44,New England,17,22,88
+C0576,Private,Bachelor's degree,,67,1654,41894,71,New England,,,93
+C0577,Private,Master's degree,,73,1378,30055,46,New England,19,25,100
+C0578,Private,Master's degree,,17,2150,43190,90,New England,30,34,65
+C0579,Private,Doctoral degree,,52,6296,40030,70,New England,,,98
+C0580,Public,Master's degree,,61,6447,7653,34,New England,20,24,88
+C0581,Private,Master's degree,,56,1658,27440,39,Great Lakes,19,24,98
+C0582,Private,Bachelor's degree,,56,1307,32662,64,Great Lakes,22,28,99
+C0583,Private,Bachelor's degree,,68,1419,29230,43,Great Lakes,22,27,100
+C0584,Private,Doctoral degree,,38,3516,23428,29,Great Lakes,20,26,100
+C0585,Private,Master's degree,,71,2001,24286,30,Great Lakes,21,26,99
+C0586,Private,Bachelor's degree,,,2828,7560,2,Great Lakes,,,96
+C0587,Private,Bachelor's degree,,,4977,7560,0,Great Lakes,,,96
+C0588,Private,Master's degree,,70,4034,25565,57,Great Lakes,23,29,100
+C0589,Public,Doctoral degree,,63,26841,10024,21,Great Lakes,20,24,92
+C0590,Private,Master's degree,,54,740,21600,14,Great Lakes,19,24,100
+C0591,Private,Master's degree,,92,9591,12536,8,Great Lakes,,,95
+C0592,Private,Doctoral degree,,61,5112,32500,35,Great Lakes,22,28,99
+C0593,Public,Doctoral degree,,64,23447,8684,12,Great Lakes,19,24,97
+C0594,Public,Doctoral degree,,76,14707,9934,23,Great Lakes,19,24,96
+C0595,Private,Master's degree,,62,1985,29988,11,Great Lakes,24,29,100
+C0596,Private,Bachelor's degree,,75,579,11860,17,Great Lakes,,,100
+C0597,Private,Master's degree,,68,2809,22388,30,Great Lakes,21,26,98
+C0598,Public,Doctoral degree,,83,24477,9716,33,Great Lakes,21,26,88
+C0599,Private,Bachelor's degree,,73,3388,27020,68,Great Lakes,24,29,94
+C0600,Private,Bachelor's degree,,67,1458,35920,72,Great Lakes,25,30,100
+C0601,Public,Master's degree,,92,2435,9364,17,Great Lakes,20,25,97
+C0602,Private,Doctoral degree,,44,4002,26278,16,Great Lakes,22,28,86
+C0603,Private,Doctoral degree,,61,4399,14700,31,Great Lakes,19,25,92
+C0604,Private,Master's degree,,94,1960,18020,8,Great Lakes,14,18,99
+C0605,Private,Master's degree,,66,1129,19122,19,Great Lakes,18,24,100
+C0606,Public,Doctoral degree,,33,43710,12634,76,Great Lakes,28,32,63
+C0607,Public,Doctoral degree,,69,49317,12202,50,Great Lakes,23,28,63
+C0608,Public,Doctoral degree,,77,6975,12853,24,Great Lakes,24,29,97
+C0609,Public,Doctoral degree,,63,8748,9788,15,Great Lakes,22,27,89
+C0610,Public,Doctoral degree,,78,8555,8712,9,Great Lakes,18,24,84
+C0611,Private,Bachelor's degree,,,4021,7560,0,Great Lakes,,,95
+C0612,Public,Master's degree,,73,8918,8414,21,Great Lakes,19,25,90
+C0613,Public,Doctoral degree,,66,20169,9938,15,Great Lakes,20,26,92
+C0614,Private,Master's degree,,51,1133,21118,26,Great Lakes,17,22,99
+C0615,Private,Bachelor's degree,,68,291,17526,37,Great Lakes,18,25,99
+C0616,Public,Doctoral degree,,79,10240,7815,10,Great Lakes,18,24,94
+C0617,Private,Master's degree,,68,2684,20554,21,Great Lakes,19,23,100
+C0618,Private,Master's degree,,65,3962,21520,30,Great Lakes,20,26,100
+C0619,Private,Bachelor's degree,,59,525,19898,31,Great Lakes,17,22,97
+C0620,Public,Doctoral degree,,76,27897,9809,11,Great Lakes,19,26,89
+C0621,Public,Doctoral degree,,83,24294,9606,24,Great Lakes,19,25,84
+C0622,Private,Doctoral degree,,61,3554,30418,47,Plains,20,25,99
+C0623,Public,Master's degree,,67,4963,7858,26,Plains,19,23,90
+C0624,Private,Bachelor's degree,,75,579,22410,38,Plains,20,26,100
+C0625,Private,Doctoral degree,,95,4340,29460,63,Plains,22,28,100
+C0626,Private,Bachelor's degree,,21,2045,42942,90,Plains,29,33,77
+C0627,Private,Master's degree,,80,2558,29360,62,Plains,22,28,100
+C0628,Private,Master's degree,,52,3661,28500,30,Plains,18,24,99
+C0629,Private,Master's degree,,96,824,11320,52,Plains,22,27,97
+C0630,Private,Bachelor's degree,,63,2449,35520,81,Plains,24,30,99
+C0631,Private,Doctoral degree,,66,4581,31994,60,Plains,21,27,100
+C0632,Private,Bachelor's degree,,34,2039,42021,85,Plains,29,32,81
+C0633,Public,Doctoral degree,,66,15426,7148,21,Plains,20,24,85
+C0634,Public,Doctoral degree,,100,8510,6341,10,Plains,,,84
+C0635,Public,Doctoral degree,,44,51526,13022,54,Plains,26,30,77
+C0636,Public,Bachelor's degree,,69,2839,11097,34,Plains,19,24,92
+C0637,Public,Doctoral degree,,78,11241,12486,30,Plains,22,26,83
+C0638,Public,Bachelor's degree,,58,1946,12091,50,Plains,23,28,93
+C0639,Public,Doctoral degree,,89,6634,7378,22,Plains,20,25,86
+C0640,Private,Bachelor's degree,,95,1305,17400,17,Plains,19,26,100
+C0641,Private,Master's degree,,69,3352,25700,51,Plains,22,27,99
+C0642,Private,Bachelor's degree,,76,2051,34308,75,Plains,23,28,100
+C0643,Public,Doctoral degree,,87,16765,7105,19,Plains,19,24,86
+C0644,Private,Master's degree,,75,1979,33606,71,Plains,23,28,100
+C0645,Private,Doctoral degree,,75,5528,27250,43,Plains,20,26,99
+C0646,Private,Bachelor's degree,,59,3125,38150,83,Plains,26,31,93
+C0647,Private,Master's degree,,55,1323,21470,36,Plains,18,24,96
+C0648,Private,Doctoral degree,,73,4206,29506,59,Plains,21,26,100
+C0649,Private,Doctoral degree,,86,10192,32073,63,Plains,23,28,97
+C0650,Private,Doctoral degree,,61,5017,31640,38,Plains,20,25,100
+C0651,Public,Master's degree,,65,6917,7743,22,Plains,19,24,95
+C0652,Public,Doctoral degree,,61,8782,8540,30,Plains,21,25,88
+C0653,Public,Master's degree,,83,3848,5247,18,Southeast,16,19,77
+C0654,Private,Master's degree,,48,4025,18420,25,Southeast,19,25,100
+C0655,Private,Master's degree,,56,532,9130,37,Southeast,18,25,97
+C0656,Public,Doctoral degree,,89,4785,5288,16,Southeast,18,22,94
+C0657,Public,Doctoral degree,,65,9134,5050,17,Southeast,17,21,93
+C0658,Private,Master's degree,,47,804,29482,59,Southeast,23,28,100
+C0659,Public,Doctoral degree,,59,19431,5790,36,Southeast,21,27,83
+C0660,Public,Doctoral degree,,43,2629,4876,22,Southeast,18,24,99
+C0661,Public,Master's degree,,23,2203,5307,11,Southeast,15,19,96
+C0662,Private,Doctoral degree,,67,4921,14038,35,Southeast,21,27,99
+C0663,Public,Doctoral degree,,65,20161,5805,31,Southeast,20,28,93
+C0664,Private,Bachelor's degree,,14,922,8100,12,Southeast,13,14,99
+C0665,Public,Doctoral degree,,66,15249,5834,21,Southeast,20,27,96
+C0666,Private,Bachelor's degree,,36,878,10218,27,Southeast,15,21,94
+C0667,Private,Doctoral degree,,49,3882,10350,46,Southeast,20,28,92
+C0668,Private,Master's degree,,61,1971,23100,26,Plains,20,24,100
+C0669,Private,Bachelor's degree,,65,1107,20130,26,Plains,19,24,100
+C0670,Public,Master's degree,,81,12513,6945,30,Plains,18,24,94
+C0671,Private,Master's degree,,,16946,6034,26,Plains,,,84
+C0672,Private,Master's degree,,59,843,22550,38,Plains,18,23,100
+C0673,Private,Master's degree,,81,4649,21043,32,Plains,22,28,84
+C0674,Private,Master's degree,,64,2274,18000,35,Plains,19,26,98
+C0675,Private,Master's degree,,65,1997,21220,3,Plains,21,25,92
+C0676,Private,Master's degree,,68,1229,16902,46,Plains,19,25,93
+C0677,Public,Bachelor's degree,,,1298,4553,2,Plains,,,98
+C0678,Public,Master's degree,,,3043,6478,6,Plains,,,94
+C0679,Private,Doctoral degree,,66,12213,14000,25,Plains,20,25,95
+C0680,Private,Doctoral degree,,76,5033,22882,51,Plains,23,27,99
+C0681,Private,Doctoral degree,,61,5345,19650,27,Plains,19,24,100
+C0682,Public,Master's degree,,97,5616,5090,15,Plains,18,24,93
+C0683,Private,Master's degree,,22,1668,17780,15,Plains,18,21,100
+C0684,Public,Master's degree,,,5795,5676,13,Plains,,,97
+C0685,Public,Doctoral degree,,79,34616,8989,47,Plains,23,28,84
+C0686,Public,Doctoral degree,,33,15718,9029,21,Plains,21,27,92
+C0687,Public,Doctoral degree,,82,8129,9084,25,Plains,25,31,97
+C0688,Public,Doctoral degree,,74,16809,9038,20,Plains,21,26,95
+C0689,Public,Master's degree,,72,6225,7008,54,Plains,25,30,99
+C0690,Public,Master's degree,,72,6485,5947,27,Plains,20,25,95
+C0691,Private,Bachelor's degree,,13,1513,18030,50,Plains,20,25,100
+C0692,Private,Master's degree,,96,10978,9290,27,Plains,,,91
+C0693,Private,Doctoral degree,,75,2920,28660,60,Plains,23,28,100
+C0694,Private,Doctoral degree,,64,17343,33986,61,Plains,25,30,93
+C0695,Private,Doctoral degree,,90,3812,18200,37,Plains,20,26,97
+C0696,Private,Master's degree,,68,854,26620,25,Plains,19,26,100
+C0697,Public,Master's degree,,85,11767,6555,27,Plains,20,25,93
+C0698,Public,Doctoral degree,,85,21271,6598,30,Plains,21,26,89
+C0699,Private,Doctoral degree,,16,14032,41992,88,Plains,32,34,55
+C0700,Private,Doctoral degree,,58,17904,22400,46,Plains,21,27,97
+C0701,Private,Bachelor's degree,,72,1026,20570,52,Plains,21,27,100
+C0702,Private,Bachelor's degree,,58,1044,29600,50,Plains,22,28,100
+C0703,Private,Doctoral degree,,75,2136,19000,45,Plains,19,26,100
+C0704,Private,Bachelor's degree,,53,1431,25198,54,Rocky Mountains,22,26,100
+C0705,Public,Master's degree,,,4969,5470,12,Rocky Mountains,,,90
+C0706,Private,Master's degree,,73,1138,19580,17,Rocky Mountains,,,97
+C0707,Public,Master's degree,,89,2010,6420,20,Rocky Mountains,21,27,89
+C0708,Public,Doctoral degree,,84,14852,6428,20,Rocky Mountains,21,27,87
+C0709,Public,Doctoral degree,,94,14525,5722,24,Rocky Mountains,21,26,89
+C0710,Public,Master's degree,,100,1334,5480,15,Rocky Mountains,17,22,88
+C0711,Private,Master's degree,,67,1067,22134,19,Rocky Mountains,19,25,100
+C0712,Public,Bachelor's degree,,,1455,3947,27,Rocky Mountains,,,87
+C0713,Private,Doctoral degree,,,9788,6540,23,Plains,,,100
+C0714,Public,Master's degree,,,3056,5340,17,Plains,,,87
+C0715,Private,Master's degree,,72,2206,23060,42,Plains,21,27,100
+C0716,Private,Doctoral degree,,77,8019,31894,67,Plains,24,30,100
+C0717,Private,Bachelor's degree,,72,1113,23590,51,Plains,21,26,100
+C0718,Private,Master's degree,,58,481,16626,23,Plains,19,24,100
+C0719,Private,Master's degree,,74,1144,23734,43,Plains,21,26,100
+C0720,Public,Master's degree,,85,7052,6320,21,Plains,20,25,87
+C0721,Private,Master's degree,,68,1288,24810,41,Plains,18,23,100
+C0722,Public,Doctoral degree,,71,15227,6280,14,Plains,20,26,88
+C0723,Private,Master's degree,,77,2149,24656,55,Plains,22,26,100
+C0724,Public,Doctoral degree,,64,24445,7563,32,Plains,22,28,87
+C0725,Public,Master's degree,,,2422,5648,19,Plains,,,92
+C0726,Private,Doctoral degree,,57,970,24254,27,Plains,20,26,100
+C0727,Private,Master's degree,,52,911,18780,25,Plains,19,26,100
+C0728,Public,Master's degree,,,3506,5318,25,Plains,,,92
+C0729,Private,Master's degree,,49,470,15300,18,Plains,17,22,91
+C0730,Public,Doctoral degree,,85,27848,6428,15,Far West,19,24,92
+C0731,Public,Doctoral degree,,84,18776,5630,16,Far West,21,26,94
+C0732,Public,Bachelor's degree,,,3181,2513,27,Far West,,,59
+C0733,Private,Master's degree,,,955,25370,37,Far West,,,93
+C0734,Private,Bachelor's degree,,83,1409,34110,48,New England,,,99
+C0735,Private,Doctoral degree,,10,6342,42996,87,New England,30,34,61
+C0736,Private,Doctoral degree,,85,2204,29450,39,New England,16,21,100
+C0737,Private,Doctoral degree,,90,2224,30400,34,New England,,,95
+C0738,Private,Doctoral degree,,79,28389,27234,47,New England,,,94
+C0739,Public,Doctoral degree,,78,14913,15250,64,New England,,,84
+C0740,Public,Master's degree,,82,4923,11800,52,New England,,,96
+C0741,Public,Bachelor's degree,,73,926,12640,30,New England,,,88
+C0742,Public,Doctoral degree,,77,5236,11518,41,New England,18,23,89
+C0743,Private,Doctoral degree,,89,2346,25885,43,New England,17,21,100
+C0744,Private,Bachelor's degree,,74,1923,32540,71,New England,23,27,98
+C0745,Public,Master's degree,,,2058,6810,9,New England,,,70
+C0746,Private,Bachelor's degree,,,80,17600,46,New England,,,100
+C0747,Private,Master's degree,,55,1979,23700,14,Mid East,,,96
+C0748,Private,Doctoral degree,,64,2160,26890,35,Mid East,16,25,98
+C0749,Private,Master's degree,,91,2400,28890,56,Mid East,18,23,100
+C0750,Private,Doctoral degree,,77,2291,41304,65,Mid East,22,27,97
+C0751,Private,Doctoral degree,,73,8546,32538,32,Mid East,,,95
+C0752,Private,Doctoral degree,,88,1933,28080,24,Mid East,15,23,100
+C0753,Private,Doctoral degree,,78,3029,35002,40,Mid East,,,99
+C0754,Private,Master's degree,,78,2257,27984,25,Mid East,,,99
+C0755,Public,Doctoral degree,,59,13349,12019,46,Mid East,,,83
+C0756,Public,Doctoral degree,,41,8442,10021,5,Mid East,,,90
+C0757,Public,Doctoral degree,,80,14404,10200,19,Mid East,,,78
+C0758,Private,Doctoral degree,,78,6316,28000,42,Mid East,22,25,100
+C0759,Public,Doctoral degree,,65,19464,10646,34,Mid East,,,77
+C0760,Public,Doctoral degree,,65,10130,13974,23,Mid East,22,29,87
+C0761,Private,Doctoral degree,,7,8014,37000,88,Mid East,31,35,60
+C0762,Public,Master's degree,,55,5852,12758,59,Mid East,20,26,78
+C0763,Private,Master's degree,,72,5410,31930,55,Mid East,19,25,98
+C0764,Public,Doctoral degree,,59,6264,12615,27,Mid East,,,85
+C0765,Public,Doctoral degree,,60,48036,12754,57,Mid East,,,76
+C0766,Public,Doctoral degree,,54,11212,12294,32,Mid East,,,80
+C0767,Private,Doctoral degree,,54,3194,29800,34,Mid East,16,21,100
+C0768,Private,Doctoral degree,,79,9903,33490,50,Mid East,22,27,98
+C0769,Private,Doctoral degree,,48,1552,28221,41,Mid East,,,99
+C0770,Private,Doctoral degree,,38,5784,41782,45,Mid East,27,32,98
+C0771,Public,Doctoral degree,,62,8458,11963,42,Mid East,20,24,87
+C0772,Public,Master's degree,,,20877,5322,,Mid East,,,
+C0773,Public,Master's degree,,43,7340,13887,72,Mid East,,,83
+C0774,Public,Doctoral degree,,68,11414,11464,16,Mid East,,,87
+C0775,Public,Master's degree,,63,5847,4147,12,Southwest,17,22,99
+C0776,Public,Master's degree,,,3690,3284,9,Southwest,,,95
+C0777,Public,Doctoral degree,,41,2134,5301,19,Southwest,23,29,96
+C0778,Public,Doctoral degree,,65,28592,5809,15,Southwest,19,25,98
+C0779,Public,Doctoral degree,,85,16765,5827,16,Southwest,18,24,97
+C0780,Public,Bachelor's degree,,,1681,2822,0,Southwest,,,91
+C0781,Private,Master's degree,,,923,13608,6,Southwest,,,100
+C0782,Public,Master's degree,,,3560,4030,12,Southwest,,,97
+C0783,Private,Master's degree,,77,1741,18400,48,Mid East,,,94
+C0784,Private,Doctoral degree,,68,7645,28460,53,Mid East,19,24,96
+C0785,Private,Doctoral degree,,70,2431,26884,45,Mid East,22,27,100
+C0786,Private,Doctoral degree,,38,2355,43306,60,Mid East,,,75
+C0787,Private,Bachelor's degree,,21,2489,42184,82,Mid East,28,32,49
+C0788,Private,Master's degree,,,1118,11025,29,Mid East,,,96
+C0789,Private,Master's degree,,73,4537,30713,58,Mid East,22,27,99
+C0790,Private,Bachelor's degree,,78,1077,26736,53,Mid East,,,100
+C0791,Private,Doctoral degree,,64,3726,36780,61,Mid East,24,28,100
+C0792,Private,Master's degree,,26,2900,42920,87,Mid East,30,32,41
+C0793,Private,Master's degree,,55,1255,16720,18,Mid East,,,95
+C0794,Private,Doctoral degree,,7,26957,45290,86,Mid East,31,34,57
+C0795,Private,Master's degree,,67,953,26620,28,Mid East,16,20,94
+C0796,Private,Master's degree,,8,920,39150,68,Mid East,29,33,100
+C0797,Private,Doctoral degree,,16,21593,41541,87,Mid East,30,34,64
+C0798,Public,Master's degree,,25,17505,5550,39,Mid East,,,70
+C0799,Public,Master's degree,,32,17004,5584,24,Mid East,,,70
+C0800,Public,Master's degree,,100,14441,5508,27,Mid East,,,71
+C0801,Public,Doctoral degree,,34,15331,5459,9,Mid East,,,79
+C0802,Public,Doctoral degree,,,6736,,,Mid East,,,
+C0803,Public,Doctoral degree,,30,23019,5529,22,Mid East,,,69
+C0804,Public,Master's degree,,34,15010,5459,25,Mid East,,,77
+C0805,Public,Master's degree,,23,12085,5508,15,Mid East,,,86
+C0806,Public,Bachelor's degree,,91,6477,5432,5,Mid East,,,91
+C0807,Public,Bachelor's degree,,77,16860,5469,3,Mid East,,,86
+C0808,Public,Master's degree,,37,18974,5607,25,Mid East,,,61
+C0809,Public,Master's degree,,35,8307,5496,5,Mid East,,,81
+C0810,Private,Doctoral degree,,79,3150,21760,19,Mid East,20,25,100
+C0811,Private,Doctoral degree,,49,2871,22310,27,Mid East,,,100
+C0812,Private,Doctoral degree,,72,1998,22940,21,Mid East,18,23,99
+C0813,Private,Doctoral degree,,78,3198,25908,18,Mid East,,,93
+C0814,Private,Master's degree,,80,1542,36950,60,Mid East,20,27,99
+C0815,Public,Master's degree,,45,9755,4459,,Mid East,,,69
+C0816,Private,Doctoral degree,,47,15097,40292,76,Mid East,26,30,92
+C0817,Private,Bachelor's degree,,27,1926,42640,90,Mid East,29,33,58
+C0818,Private,Bachelor's degree,,84,1618,36040,54,Mid East,23,27,100
+C0819,Private,Master's degree,,81,1070,18940,31,Mid East,,,98
+C0820,Private,Master's degree,,49,2372,42915,74,Mid East,,,81
+C0821,Private,Doctoral degree,,59,10928,34150,50,Mid East,23,28,96
+C0822,Private,Master's degree,,91,1100,26094,65,Mid East,21,28,100
+C0823,Private,Master's degree,,92,4241,30192,53,Mid East,20,24,98
+C0824,Private,Doctoral degree,,67,6723,35278,69,Mid East,,,92
+C0825,Private,Master's degree,,88,2036,25235,36,Mid East,,,100
+C0826,Private,Master's degree,,62,3319,28380,63,Mid East,21,26,100
+C0827,Private,Doctoral degree,,87,8483,31606,8,Mid East,17,22,97
+C0828,Private,Doctoral degree,,81,10599,31646,22,Mid East,19,23,96
+C0829,Private,Master's degree,,,270,,,Mid East,,,
+C0830,Private,Master's degree,,66,3883,29700,60,Mid East,23,27,92
+C0831,Private,Doctoral degree,,77,2750,35370,54,Mid East,,,99
+C0832,Private,Master's degree,,37,6365,28890,70,Mid East,,,88
+C0833,Private,Bachelor's degree,,75,1833,24708,37,Mid East,21,26,92
+C0834,Private,Doctoral degree,,54,2390,21598,38,Mid East,,,92
+C0835,Private,Doctoral degree,,57,11648,17360,23,Mid East,,,95
+C0836,Private,Doctoral degree,,73,4455,23300,39,Mid East,20,25,97
+C0837,Private,Master's degree,,86,2556,24410,41,Mid East,20,24,99
+C0838,Private,Master's degree,,73,1938,27810,37,Mid East,17,23,100
+C0839,Private,Doctoral degree,,68,2823,27422,59,Mid East,,,100
+C0840,Private,Master's degree,,57,3966,29100,16,Mid East,22,25,100
+C0841,Private,Doctoral degree,,67,10301,38198,50,Mid East,22,28,95
+C0842,Private,Doctoral degree,,26,44599,41606,77,Mid East,28,32,55
+C0843,Private,Doctoral degree,,66,4056,26400,60,Mid East,21,25,98
+C0844,Private,Doctoral degree,,74,7545,27290,25,Mid East,20,24,97
+C0845,Private,Doctoral degree,,97,3082,21500,24,Mid East,17,22,100
+C0846,Private,Doctoral degree,,77,12624,35032,34,Mid East,21,25,99
+C0847,Private,Bachelor's degree,,75,981,23695,26,Mid East,20,25,99
+C0848,Private,Doctoral degree,,75,4890,37882,33,Mid East,28,32,94
+C0849,Private,Doctoral degree,,41,6714,42704,65,Mid East,27,31,95
+C0850,Private,Master's degree,,73,1735,25322,53,Mid East,20,25,100
+C0851,Private,Doctoral degree,,60,16583,32037,28,Mid East,25,31,95
+C0852,Private,Doctoral degree,,36,11020,41826,77,Mid East,29,32,89
+C0853,Private,Doctoral degree,,57,2832,28000,52,Mid East,,,98
+C0854,Private,Master's degree,,80,2244,27890,54,Mid East,21,27,99
+C0855,Private,Master's degree,,64,2819,18100,27,Mid East,,,98
+C0856,Private,Master's degree,,46,2506,42735,77,Mid East,,,95
+C0857,Private,Master's degree,,78,4542,25464,53,Mid East,,,99
+C0858,Private,Master's degree,,82,1972,23720,36,Mid East,17,20,97
+C0859,Private,Master's degree,,62,1782,45212,62,Mid East,,,78
+C0860,Private,Master's degree,,68,3207,29295,74,Mid East,22,27,98
+C0861,Private,Master's degree,,35,2702,42380,83,Mid East,26,30,57
+C0862,Private,Master's degree,,75,5354,18425,56,Mid East,21,25,96
+C0863,Private,Doctoral degree,,63,3987,26260,65,Mid East,22,27,100
+C0864,Private,Doctoral degree,,53,20729,33875,36,Mid East,21,27,98
+C0865,Public,Bachelor's degree,,55,3555,6542,39,Mid East,21,26,94
+C0866,Public,Bachelor's degree,,78,3512,6539,23,Mid East,,,96
+C0867,Public,Bachelor's degree,,59,3308,6780,28,Mid East,,,91
+C0868,Public,Bachelor's degree,,73,2453,7768,29,Mid East,16,22,90
+C0869,Public,Bachelor's degree,,53,8162,6444,21,Mid East,19,23,68
+C0870,Public,Bachelor's degree,,59,3028,7520,21,Mid East,17,21,94
+C0871,Public,Doctoral degree,,55,17338,7172,56,Mid East,22,26,79
+C0872,Public,Doctoral degree,,43,16077,7216,69,Mid East,27,30,61
+C0873,Public,Doctoral degree,,57,29850,7482,52,Mid East,23,28,75
+C0874,Public,Doctoral degree,,39,24143,6994,45,Mid East,26,30,80
+C0875,Public,Doctoral degree,,51,2229,6269,51,Mid East,23,27,90
+C0876,Public,Master's degree,,48,2480,6439,32,Mid East,22,26,92
+C0877,Public,Master's degree,,48,8128,6508,48,Mid East,21,26,87
+C0878,Public,Master's degree,,49,11091,6353,25,Mid East,,,87
+C0879,Public,Master's degree,,47,7110,6574,47,Mid East,21,25,84
+C0880,Public,Master's degree,,52,5391,6688,45,Mid East,21,26,87
+C0881,Public,Master's degree,,46,5644,6758,66,Mid East,27,29,59
+C0882,Public,Master's degree,,44,7578,6458,51,Mid East,23,27,73
+C0883,Public,Master's degree,,51,6034,6559,54,Mid East,22,25,79
+C0884,Public,Master's degree,,49,8117,6510,40,Mid East,22,26,91
+C0885,Public,Master's degree,,68,4042,6506,30,Mid East,,,91
+C0886,Public,Master's degree,,33,4353,6829,50,Mid East,21,26,82
+C0887,Public,Master's degree,,58,4367,6324,20,Mid East,19,22,77
+C0888,Public,Master's degree,,46,6051,6502,41,Mid East,20,24,91
+C0889,Public,Master's degree,,81,11823,5545,8,Mid East,,,94
+C0890,Public,Master's degree,,64,1755,6457,25,Mid East,20,26,76
+C0891,Private,Doctoral degree,,49,21267,37668,69,Mid East,23,28,74
+C0892,Private,Doctoral degree,,,5149,,,Mid East,,,
+C0893,Private,Doctoral degree,,59,13868,14550,31,Mid East,,,84
+C0894,Private,Master's degree,,,39897,,,Mid East,,,
+C0895,Private,Bachelor's degree,,37,2246,43602,82,Mid East,28,31,81
+C0896,Public,Master's degree,,,985,,62,US Service schools,,,18
+C0897,Private,Doctoral degree,,85,4028,29996,30,Mid East,18,23,99
+C0898,Private,Master's degree,,24,2477,44705,90,Mid East,30,33,71
+C0899,Private,Master's degree,,70,2245,35820,53,Mid East,22,27,99
+C0900,Private,Bachelor's degree,,60,534,33410,56,Mid East,21,26,100
+C0901,Private,Doctoral degree,,82,6747,35200,60,Mid East,23,29,84
+C0902,Public,Doctoral degree,,63,17838,5538,42,Southeast,24,28,67
+C0903,Private,Master's degree,,42,1065,22982,41,Southeast,18,22,100
+C0904,Private,Bachelor's degree,,68,1647,26182,33,Southeast,18,24,100
+C0905,Private,Bachelor's degree,,83,680,16794,25,Southeast,,,100
+C0906,Private,Bachelor's degree,,45,701,22860,31,Southeast,18,22,99
+C0907,Private,Doctoral degree,,70,6122,24720,39,Southeast,17,27,100
+C0908,Private,Master's degree,,41,1310,25160,41,Southeast,,,99
+C0909,Private,Master's degree,,62,1367,21020,15,Southeast,14,17,100
+C0910,Private,Bachelor's degree,,26,1788,38866,90,Southeast,29,33,62
+C0911,Private,Doctoral degree,,13,15467,41938,87,Southeast,30,34,64
+C0912,Public,Doctoral degree,,62,26887,5364,31,Southeast,21,24,73
+C0913,Public,Master's degree,,57,2421,3814,21,Southeast,16,18,97
+C0914,Private,Doctoral degree,,54,6305,27881,77,Southeast,23,26,68
+C0915,Public,Doctoral degree,,55,6179,4109,12,Southeast,17,19,96
+C0916,Private,Doctoral degree,,48,4656,23510,43,Southeast,19,25,100
+C0917,Private,Master's degree,,78,1012,24970,15,Southeast,15,21,100
+C0918,Private,Bachelor's degree,,68,2302,30430,49,Southeast,20,26,99
+C0919,Private,Doctoral degree,,64,4199,,58,Southeast,21,26,73
+C0920,Private,Bachelor's degree,,37,1387,17368,32,Southeast,15,19,89
+C0921,Private,Bachelor's degree,,66,890,22564,30,Southeast,,,100
+C0922,Private,Master's degree,,68,1898,26524,40,Southeast,18,23,99
+C0923,Private,Bachelor's degree,,71,1175,15408,11,Southeast,13,16,98
+C0924,Private,Master's degree,,64,1440,23318,26,Southeast,17,23,99
+C0925,Private,Master's degree,,62,1872,27770,50,Southeast,20,25,100
+C0926,Private,Master's degree,,61,2463,25550,18,Southeast,18,23,99
+C0927,Private,Master's degree,,54,926,23198,26,Southeast,17,23,100
+C0928,Private,Bachelor's degree,,50,3414,16300,26,Southeast,17,20,100
+C0929,Public,Doctoral degree,,70,10561,4668,16,Southeast,17,21,95
+C0930,Public,Master's degree,,64,3784,5393,37,Southeast,24,27,77
+C0931,Public,Doctoral degree,,28,29127,7009,81,Southeast,28,32,68
+C0932,Public,Doctoral degree,,69,26571,5440,26,Southeast,20,25,75
+C0933,Public,Doctoral degree,,60,18074,5765,30,Southeast,21,25,80
+C0934,Public,Doctoral degree,,50,8093,4801,15,Southeast,16,19,97
+C0935,Public,Doctoral degree,,50,34009,7018,41,Southeast,25,30,71
+C0936,Private,Bachelor's degree,,47,1602,24890,23,Southeast,15,20,84
+C0937,Public,Doctoral degree,,54,13937,5672,52,Southeast,22,26,69
+C0938,Private,Bachelor's degree,,91,1007,25886,38,Southeast,16,21,100
+C0939,Public,Master's degree,,72,6222,4643,15,Southeast,18,21,92
+C0940,Private,Master's degree,,96,1860,21625,33,Southeast,18,22,100
+C0941,Private,Master's degree,,77,2285,25356,44,Southeast,21,26,97
+C0942,Private,Bachelor's degree,,41,162,11200,30,Southeast,14,20,100
+C0943,Private,Bachelor's degree,,67,1299,17160,22,Southeast,13,17,85
+C0944,Private,Master's degree,,58,1187,22720,61,Southeast,22,27,99
+C0945,Private,Master's degree,,54,2062,13226,16,Southeast,,,98
+C0946,Private,Master's degree,,64,635,21614,4,Southeast,18,23,100
+C0947,Private,Doctoral degree,,35,7602,41576,82,Southeast,,,81
+C0948,Private,Master's degree,,70,893,26675,40,Southeast,23,27,90
+C0949,Private,Doctoral degree,,79,3002,22180,47,Southeast,19,24,99
+C0950,Public,Doctoral degree,,56,5399,4584,18,Southeast,16,19,96
+C0951,Public,Doctoral degree,,38,10107,5387,32,Southeast,20,24,83
+C0952,Public,Bachelor's degree,,49,1449,5608,15,Plains,18,23,82
+C0953,Private,Doctoral degree,,57,997,17270,33,Plains,21,24,100
+C0954,Private,Doctoral degree,,83,2910,13424,28,Plains,20,25,100
+C0955,Public,Bachelor's degree,,,1065,6084,21,Plains,,,95
+C0956,Public,Master's degree,,57,3533,5763,14,Plains,19,24,91
+C0957,Public,Doctoral degree,,74,15143,7092,24,Plains,21,26,88
+C0958,Public,Doctoral degree,,84,14629,7270,26,Plains,21,26,88
+C0959,Public,Master's degree,,83,1366,6197,23,Plains,18,23,99
+C0960,Public,Doctoral degree,,96,24932,9545,16,Great Lakes,18,25,90
+C0961,Private,Doctoral degree,,74,5979,28582,42,Great Lakes,20,25,97
+C0962,Private,Master's degree,,64,4053,26396,55,Great Lakes,21,27,100
+C0963,Private,Master's degree,,53,1146,26154,52,Great Lakes,19,25,100
+C0964,Public,Doctoral degree,,72,16958,10164,31,Great Lakes,19,24,96
+C0965,Private,Doctoral degree,,76,3628,30450,52,Great Lakes,21,27,100
+C0966,Private,Doctoral degree,,42,10325,39120,65,Great Lakes,29,33,88
+C0967,Private,Doctoral degree,,74,3462,24400,61,Great Lakes,24,29,97
+C0968,Public,Master's degree,,33,2068,5672,10,Great Lakes,15,19,91
+C0969,Public,Doctoral degree,,73,34379,10419,25,Great Lakes,22,28,83
+C0970,Private,Master's degree,,97,3711,16750,16,Great Lakes,17,23,61
+C0971,Public,Doctoral degree,,63,17497,9002,8,Great Lakes,19,25,92
+C0972,Private,Doctoral degree,,53,10835,31640,60,Great Lakes,24,29,98
+C0973,Private,Master's degree,,72,989,25890,38,Great Lakes,18,23,100
+C0974,Private,Bachelor's degree,,46,2274,40210,78,Great Lakes,27,31,100
+C0975,Private,Doctoral degree,,68,4880,28104,44,Great Lakes,21,26,100
+C0976,Private,Master's degree,,,1241,23670,35,Great Lakes,,,100
+C0977,Private,Master's degree,,57,1311,28950,57,Great Lakes,19,25,100
+C0978,Private,Master's degree,,83,3711,31710,65,Great Lakes,22,27,100
+C0979,Public,Bachelor's degree,,,1846,5288,11,Great Lakes,,,88
+C0980,Public,Doctoral degree,,83,28998,9346,28,Great Lakes,20,25,91
+C0981,Private,Bachelor's degree,,38,1705,42630,86,Great Lakes,28,32,64
+C0982,Private,Master's degree,,56,1086,26550,28,Great Lakes,19,23,100
+C0983,Private,Master's degree,,69,2187,13176,7,Great Lakes,,,98
+C0984,Private,Master's degree,,72,2074,23420,46,Great Lakes,19,26,100
+C0985,Private,Master's degree,,64,1542,29690,44,Great Lakes,21,27,99
+C0986,Public,Doctoral degree,,67,17901,13153,68,Great Lakes,25,30,77
+C0987,Private,Master's degree,,71,2187,25700,53,Great Lakes,20,25,95
+C0988,Private,Master's degree,,63,2229,22080,49,Great Lakes,20,26,100
+C0989,Private,Doctoral degree,,88,2326,24400,39,Great Lakes,19,24,100
+C0990,Private,Master's degree,,76,2154,21610,29,Great Lakes,18,24,100
+C0991,Private,Master's degree,,90,2269,24652,18,Great Lakes,18,22,100
+C0992,Private,Master's degree,,30,2911,43210,76,Great Lakes,28,32,88
+C0993,Private,Master's degree,,49,2573,26790,29,Great Lakes,20,24,100
+C0994,Private,Doctoral degree,,68,3619,34380,53,Great Lakes,23,29,99
+C0995,Public,Master's degree,,,1077,6327,20,Great Lakes,,,94
+C0996,Public,Master's degree,,,1204,6327,20,Great Lakes,,,87
+C0997,Public,Master's degree,,,1259,6327,21,Great Lakes,,,92
+C0998,Public,Master's degree,,,2315,6327,19,Great Lakes,,,100
+C0999,Public,Doctoral degree,,56,57466,9735,59,Great Lakes,27,31,83
+C1000,Public,Doctoral degree,,73,28786,9936,48,Great Lakes,22,26,79
+C1001,Private,Bachelor's degree,,75,1830,37820,54,Great Lakes,22,27,99
+C1002,Private,Doctoral degree,,74,2919,29550,2,Great Lakes,21,26,100
+C1003,Private,Master's degree,,,2314,19520,23,Great Lakes,,,94
+C1004,Public,Master's degree,,,4341,6762,13,Great Lakes,,,96
+C1005,Private,Master's degree,,76,2733,21220,61,Great Lakes,23,28,97
+C1006,Private,Master's degree,,39,4954,19124,34,Great Lakes,18,23,98
+C1007,Public,Doctoral degree,,91,20743,8788,23,Great Lakes,19,25,96
+C1008,Private,Doctoral degree,,,1660,11472,25,Great Lakes,,,90
+C1009,Private,Master's degree,,,1748,21566,24,Great Lakes,,,81
+C1010,Private,Doctoral degree,,58,1357,24910,28,Great Lakes,19,24,100
+C1011,Private,Doctoral degree,,77,2963,23765,44,Great Lakes,20,25,100
+C1012,Private,Master's degree,,58,479,12470,39,Great Lakes,,,100
+C1013,Private,Master's degree,,46,1173,26840,33,Great Lakes,19,24,100
+C1014,Private,Master's degree,,89,1979,36434,59,Great Lakes,23,25,99
+C1015,Private,Bachelor's degree,,56,2116,38290,70,Great Lakes,25,30,99
+C1016,Public,Doctoral degree,,,16656,7800,19,Great Lakes,,,88
+C1017,Private,Doctoral degree,,70,6633,31160,66,Great Lakes,23,27,100
+C1018,Public,Doctoral degree,,,13352,7451,9,Great Lakes,,,96
+C1019,Private,Bachelor's degree,,72,965,12900,0,Southwest,15,19,88
+C1020,Private,Master's degree,,49,1355,20160,50,Southwest,18,24,100
+C1021,Private,Master's degree,,,2249,19794,33,Southwest,,,100
+C1022,Public,Master's degree,,,5898,4590,8,Southwest,,,88
+C1023,Public,Master's degree,,84,17220,4718,10,Southwest,20,24,76
+C1024,Public,Master's degree,,98,4587,4703,17,Southwest,18,23,85
+C1025,Public,Doctoral degree,,,2533,4112,16,Southwest,,,94
+C1026,Public,Doctoral degree,,73,8548,4602,12,Southwest,18,23,94
+C1027,Public,Master's degree,,60,2307,4968,13,Southwest,17,22,96
+C1028,Private,Master's degree,,63,2421,18456,28,Southwest,22,28,99
+C1029,Public,Bachelor's degree,,48,1375,5704,16,Southwest,16,21,92
+C1030,Public,Doctoral degree,,76,26073,7107,33,Southwest,22,28,87
+C1031,Private,Master's degree,,56,2097,19756,47,Southwest,21,27,99
+C1032,Private,Doctoral degree,,72,3179,27500,49,Southwest,23,29,96
+C1033,Public,Doctoral degree,,80,27292,8325,35,Southwest,23,29,74
+C1034,Private,Doctoral degree,,44,3414,20756,41,Southwest,20,25,98
+C1035,Public,Bachelor's degree,,54,4473,4777,9,Southwest,17,23,88
+C1036,Private,Master's degree,,95,684,19705,15,Southwest,,,95
+C1037,Public,Bachelor's degree,,62,918,3744,27,Southwest,18,24,95
+C1038,Public,Master's degree,,80,3826,4904,13,Southwest,18,22,96
+C1039,Private,Master's degree,,88,847,12350,35,Southwest,17,23,93
+C1040,Public,Doctoral degree,,90,4942,4800,14,Southwest,18,24,95
+C1041,Private,Doctoral degree,,41,4597,31551,51,Southwest,25,32,88
+C1042,Private,Doctoral degree,,56,5428,25650,36,Far West,18,24,99
+C1043,Public,Master's degree,,67,4157,7046,15,Far West,,,94
+C1044,Private,Doctoral degree,,75,3712,29380,52,Far West,20,26,99
+C1045,Private,Doctoral degree,,63,3521,38500,67,Far West,26,31,90
+C1046,Private,Bachelor's degree,,92,1671,32416,59,Far West,21,26,99
+C1047,Private,Master's degree,,39,1408,18405,0,Far West,,,100
+C1048,Private,Master's degree,,70,660,23600,42,Far West,18,23,100
+C1049,Public,Master's degree,,71,4407,7889,18,Far West,20,25,89
+C1050,Public,Doctoral degree,,79,27902,7600,30,Far West,21,27,86
+C1051,Public,Doctoral degree,,74,24473,8789,44,Far West,22,27,68
+C1052,Private,Doctoral degree,,86,3583,33612,52,Far West,21,27,99
+C1053,Public,Doctoral degree,,61,28260,7764,18,Far West,,,76
+C1054,Private,Doctoral degree,,67,4036,35740,70,Far West,,,97
+C1055,Private,Master's degree,,49,1411,42800,70,Far West,28,33,53
+C1056,Public,Master's degree,,73,5992,6840,18,Far West,,,85
+C1057,Private,Master's degree,,53,506,18290,23,Far West,,,93
+C1058,Private,Doctoral degree,,32,1143,25406,46,Far West,20,26,100
+C1059,Private,Doctoral degree,,58,2855,39012,71,Far West,24,29,98
+C1060,Public,Master's degree,,88,6177,8076,20,Far West,,,88
+C1061,Private,Master's degree,,52,278,16074,6,Mid East,20,25,100
+C1062,Private,Master's degree,,62,2384,33990,48,Mid East,20,25,99
+C1063,Private,Bachelor's degree,,65,2161,36190,74,Mid East,23,29,100
+C1064,Private,Doctoral degree,,76,3266,29000,63,Mid East,22,26,99
+C1065,Private,Doctoral degree,,78,2871,26630,35,Mid East,18,22,100
+C1066,Private,Doctoral degree,,60,3905,34150,53,Mid East,22,27,100
+C1067,Public,Doctoral degree,,89,10127,8082,42,Mid East,19,23,84
+C1068,Private,Doctoral degree,,40,1738,40824,81,Mid East,27,32,79
+C1069,Private,Master's degree,,30,3608,43866,87,Mid East,27,32,55
+C1070,Private,Master's degree,,74,2448,33176,39,Mid East,17,23,99
+C1071,Public,Master's degree,,93,8243,8912,31,Mid East,17,21,89
+C1072,Private,Doctoral degree,,95,3012,23504,47,Mid East,17,23,100
+C1073,Private,Doctoral degree,,25,12367,44010,74,Mid East,30,34,70
+C1074,Private,Master's degree,,59,1486,30110,50,Mid East,17,24,100
+C1075,Private,Doctoral degree,,61,2170,30312,44,Mid East,,,100
+C1076,Private,Doctoral degree,,58,2189,29200,27,Mid East,19,23,98
+C1077,Public,Master's degree,,,1212,8404,9,Mid East,,,96
+C1078,Public,Master's degree,,93,6080,8340,33,Mid East,,,91
+C1079,Private,Master's degree,,68,2023,30704,47,Mid East,19,25,100
+C1080,Private,Bachelor's degree,,44,2396,43060,83,Mid East,27,31,72
+C1081,Private,Doctoral degree,,81,26132,34505,28,Mid East,24,30,94
+C1082,Private,Doctoral degree,,74,9904,28671,66,Mid East,22,27,100
+C1083,Public,Master's degree,,78,6778,8351,36,Mid East,18,22,83
+C1084,Private,Doctoral degree,,64,4004,25850,49,Mid East,18,24,100
+C1085,Public,Master's degree,,87,7098,8360,23,Mid East,17,22,91
+C1086,Private,Master's degree,,70,1892,34830,71,Mid East,21,28,99
+C1087,Private,Bachelor's degree,,39,2297,42610,84,Mid East,,,61
+C1088,Private,Doctoral degree,,80,4211,25522,48,Mid East,20,26,100
+C1089,Private,Master's degree,,68,1852,23330,59,Mid East,20,26,100
+C1090,Private,Bachelor's degree,,42,2524,42610,80,Mid East,27,29,74
+C1091,Private,Doctoral degree,,,673,,,Mid East,,,
+C1092,Private,Master's degree,,66,2371,27120,50,Mid East,16,22,100
+C1093,Private,Bachelor's degree,,23,1187,42208,91,Mid East,30,33,57
+C1094,Private,Doctoral degree,,76,2956,24640,38,Mid East,16,22,100
+C1095,Private,Doctoral degree,,80,3675,28850,39,Mid East,18,21,100
+C1096,Public,Doctoral degree,,90,14925,8362,31,Mid East,17,22,88
+C1097,Private,Master's degree,,74,1635,34090,72,Mid East,,,100
+C1098,Private,Bachelor's degree,,72,1595,19620,26,Mid East,17,21,98
+C1099,Private,Master's degree,,72,2391,27680,61,Mid East,,,100
+C1100,Public,Master's degree,,82,9513,8359,34,Mid East,18,22,87
+C1101,Private,Master's degree,,56,1481,23160,33,Mid East,17,24,91
+C1102,Private,Doctoral degree,,80,6436,35240,55,Mid East,19,25,99
+C1103,Private,Bachelor's degree,,34,2486,41358,85,Mid East,27,31,63
+C1104,Private,Doctoral degree,,67,2022,33200,68,Mid East,22,27,100
+C1105,Private,Doctoral degree,,31,7096,40960,73,Mid East,28,32,68
+C1106,Public,Master's degree,,61,1963,9062,23,Mid East,15,20,99
+C1107,Public,Master's degree,,88,5260,8239,28,Mid East,17,23,91
+C1108,Private,Bachelor's degree,,72,1307,31818,54,Mid East,21,26,100
+C1109,Public,Master's degree,,92,2970,8654,35,Mid East,19,23,94
+C1110,Private,Doctoral degree,,71,3175,28175,54,Mid East,,,100
+C1111,Private,Doctoral degree,,75,3011,27657,54,Mid East,21,26,100
+C1112,Private,Master's degree,,66,3084,28356,71,Mid East,23,29,100
+C1113,Public,Master's degree,,72,8279,8361,37,Mid East,19,24,86
+C1114,Private,Doctoral degree,,65,3026,25990,64,Mid East,20,26,100
+C1115,Private,Master's degree,,80,1837,33446,70,Mid East,,,99
+C1116,Private,Master's degree,,69,1835,18750,18,Mid East,18,22,100
+C1117,Private,Bachelor's degree,,46,2448,39915,81,Mid East,25,31,91
+C1118,Private,Doctoral degree,,55,2956,23350,29,Mid East,16,20,100
+C1119,Public,Master's degree,,84,4057,13636,46,Mid East,19,25,83
+C1120,Public,Master's degree,,,473,,,Mid East,,,
+C1121,Public,Master's degree,,74,680,13048,34,Mid East,16,27,93
+C1122,Public,Bachelor's degree,,69,568,12994,14,Mid East,15,22,99
+C1123,Public,Bachelor's degree,,82,613,12994,30,Mid East,19,23,94
+C1124,Public,Bachelor's degree,,82,1178,12966,22,Mid East,19,22,93
+C1125,Public,Bachelor's degree,,85,925,13094,36,Mid East,19,28,84
+C1126,Public,Bachelor's degree,,85,3861,13636,48,Mid East,19,23,83
+C1127,Public,Bachelor's degree,,87,703,13102,25,Mid East,16,24,92
+C1128,Public,Bachelor's degree,,83,2732,13636,35,Mid East,19,25,81
+C1129,Public,Doctoral degree,,80,4441,13628,39,Mid East,22,24,75
+C1130,Public,Bachelor's degree,,79,1492,13102,17,Mid East,17,23,89
+C1131,Public,Bachelor's degree,,88,704,12994,33,Mid East,20,22,95
+C1132,Public,Bachelor's degree,,89,846,13040,21,Mid East,18,21,94
+C1133,Public,Bachelor's degree,,86,951,13048,30,Mid East,20,24,94
+C1134,Public,Doctoral degree,,54,46615,15984,65,Mid East,25,29,68
+C1135,Public,Master's degree,,80,623,13102,24,Mid East,18,24,92
+C1136,Public,Bachelor's degree,,83,1023,13102,33,Mid East,20,23,95
+C1137,Public,Bachelor's degree,,78,3694,13102,26,Mid East,18,24,86
+C1138,Public,Bachelor's degree,,81,837,12994,24,Mid East,18,21,93
+C1139,Public,Master's degree,,84,1177,12966,27,Mid East,21,25,81
+C1140,Private,Master's degree,,,1796,15900,,Mid East,,,87
+C1141,Private,Doctoral degree,,12,24630,42098,88,Mid East,30,34,62
+C1142,Private,Doctoral degree,,64,3523,30546,45,Mid East,21,25,98
+C1143,Private,Master's degree,,51,1093,20888,24,Mid East,18,26,100
+C1144,Public,Bachelor's degree,,85,1481,12496,33,Mid East,19,23,97
+C1145,Public,Bachelor's degree,,93,1677,12626,33,Mid East,20,24,91
+C1146,Public,Bachelor's degree,,90,2840,12528,32,Mid East,20,24,91
+C1147,Public,Doctoral degree,,56,28649,16132,64,Mid East,26,30,76
+C1148,Private,Master's degree,,74,3841,23720,42,Mid East,19,25,99
+C1149,Private,Doctoral degree,,81,5481,23038,41,Mid East,21,24,100
+C1150,Private,Master's degree,,58,957,29050,46,Mid East,19,23,100
+C1151,Private,Doctoral degree,,76,2344,27808,57,Mid East,20,25,98
+C1152,Private,Doctoral degree,,79,8954,36640,70,Mid East,22,26,97
+C1153,Private,Doctoral degree,,69,1813,28804,64,Mid East,20,25,100
+C1154,Private,Doctoral degree,,75,5633,35992,75,Mid East,22,27,95
+C1155,Private,Master's degree,,65,2357,28354,45,Mid East,19,26,100
+C1156,Public,Master's degree,,83,7548,8856,37,Mid East,18,22,87
+C1157,Public,Doctoral degree,,67,8347,8505,40,Mid East,19,23,89
+C1158,Private,Bachelor's degree,,72,2187,35860,71,Mid East,23,27,98
+C1159,Private,Bachelor's degree,,14,1534,41150,89,Mid East,31,34,59
+C1160,Public,Doctoral degree,,64,37270,13596,39,Mid East,22,27,89
+C1161,Private,Bachelor's degree,,66,1100,24856,27,Mid East,18,23,92
+C1162,Private,Bachelor's degree,,66,1596,41820,75,Mid East,24,30,100
+C1163,Private,Master's degree,,66,1004,17377,31,Mid East,19,25,98
+C1164,Private,Doctoral degree,,49,10696,41110,86,Mid East,29,31,66
+C1165,Private,Bachelor's degree,,40,1328,36420,73,Mid East,,,100
+C1166,Private,Doctoral degree,,75,2190,19090,45,Mid East,20,25,96
+C1167,Public,Master's degree,,52,15845,8274,44,Mid East,,,79
+C1168,Private,Master's degree,,73,1366,30510,63,Mid East,20,25,100
+C1169,Private,Doctoral degree,,67,5025,34762,40,Mid East,,,99
+C1170,Private,Doctoral degree,,76,4665,28210,47,Mid East,,,96
+C1171,Private,Master's degree,,53,662,29340,44,Mid East,19,24,95
+C1172,Private,Doctoral degree,,74,5250,15880,37,Mid East,20,25,98
+C1173,Private,Doctoral degree,,9,8943,42230,84,New England,29,34,64
+C1174,Private,Master's degree,,77,3454,34624,78,New England,23,27,89
+C1175,Private,Doctoral degree,,76,10369,25407,43,New England,,,99
+C1176,Private,Master's degree,,,2933,19935,,New England,,,91
+C1177,Private,Master's degree,,60,4665,40975,83,New England,23,28,81
+C1178,Public,Doctoral degree,,69,8700,7268,15,New England,17,22,86
+C1179,Public,Doctoral degree,,79,16387,11366,41,New England,22,26,91
+C1180,Private,Master's degree,,81,4732,30908,50,New England,,,91
+C1181,Private,Doctoral degree,,67,2603,32800,61,New England,23,26,92
+C1182,Private,Bachelor's degree,,,651,11940,11,Southeast,,,93
+C1183,Private,Doctoral degree,,65,2966,20910,36,Southeast,21,26,100
+C1184,Private,Master's degree,,69,3269,20840,23,Southeast,18,23,100
+C1185,Private,Bachelor's degree,,,2512,17190,14,Southeast,,,98
+C1186,Private,Master's degree,,94,1701,20550,29,Southeast,15,22,97
+C1187,Public,Master's degree,,70,11619,9616,52,Southeast,23,28,75
+C1188,Public,Master's degree,,80,3598,10216,62,Southeast,21,25,85
+C1189,Private,Master's degree,,53,1884,13370,29,Southeast,15,21,98
+C1190,Public,Doctoral degree,,58,21303,12304,59,Southeast,26,31,91
+C1191,Private,Master's degree,,53,1172,22200,39,Southeast,18,22,100
+C1192,Private,Doctoral degree,,63,1154,18065,52,Southeast,19,25,93
+C1193,Private,Master's degree,,65,1169,25050,32,Southeast,20,24,98
+C1194,Private,Master's degree,,52,1333,27320,55,Southeast,21,26,98
+C1195,Private,Doctoral degree,,70,815,28460,52,Southeast,19,24,100
+C1196,Public,Master's degree,,57,4058,8802,16,Southeast,17,22,99
+C1197,Private,Master's degree,,64,2953,39560,80,Southeast,25,30,86
+C1198,Public,Master's degree,,42,2877,9504,32,Southeast,18,22,99
+C1199,Private,Master's degree,,53,3307,20000,19,Southeast,20,23,100
+C1200,Private,Bachelor's degree,,,824,10530,14,Southeast,,,99
+C1201,Private,Bachelor's degree,,59,1039,22925,27,Southeast,17,22,100
+C1202,Private,Doctoral degree,,58,2466,13396,41,Southeast,21,29,100
+C1203,Private,Doctoral degree,,66,1433,31280,60,Southeast,22,28,100
+C1204,Public,Master's degree,,51,3299,8750,21,Southeast,18,23,97
+C1205,Public,Bachelor's degree,,73,1724,8158,10,Southeast,18,22,91
+C1206,Public,Doctoral degree,,61,31964,10168,54,Southeast,24,29,90
+C1207,Public,Master's degree,,74,9478,9760,27,Southeast,19,23,91
+C1208,Public,Doctoral degree,,51,3463,9258,14,Southeast,17,19,98
+C1209,Public,Master's degree,,64,5445,9596,24,Southeast,19,23,97
+C1210,Private,Bachelor's degree,,51,536,10780,20,Southeast,,,99
+C1211,Public,Master's degree,,72,6130,12656,35,Southeast,19,25,99
+C1212,Private,Bachelor's degree,,69,1615,33190,78,Southeast,24,29,92
+C1213,Private,Master's degree,,68,1765,26590,48,Plains,21,27,100
+C1214,Public,Master's degree,,89,4464,7424,11,Plains,19,23,92
+C1215,Public,Doctoral degree,,83,3129,6897,20,Plains,19,24,94
+C1216,Private,Master's degree,,70,879,20810,31,Plains,19,27,100
+C1217,Private,Master's degree,,72,1225,20656,45,Plains,20,25,99
+C1218,Public,Master's degree,,93,3275,6951,24,Plains,19,25,97
+C1219,Private,Bachelor's degree,,66,791,15435,33,Plains,18,22,99
+C1220,Public,Doctoral degree,,92,12525,6887,27,Plains,20,25,92
+C1221,Private,Master's degree,,97,1408,22850,35,Plains,20,26,100
+C1222,Public,Doctoral degree,,88,10235,7209,30,Plains,21,26,93
+C1223,Private,Master's degree,,52,574,19050,44,Southeast,23,27,100
+C1224,Public,Master's degree,,86,10399,6432,15,Southeast,19,24,99
+C1225,Private,Doctoral degree,,80,6915,24960,56,Southeast,24,29,87
+C1226,Private,Master's degree,,51,6634,13552,11,Southeast,17,22,94
+C1227,Private,Master's degree,,38,1704,19550,54,Southeast,20,25,91
+C1228,Private,Doctoral degree,,67,2045,21778,37,Southeast,20,26,100
+C1229,Private,Master's degree,,47,1577,26110,31,Southeast,21,27,100
+C1230,Private,Master's degree,,47,1501,19200,20,Southeast,19,23,100
+C1231,Private,Doctoral degree,,53,4580,23494,44,Southeast,22,28,100
+C1232,Public,Doctoral degree,,86,14691,6271,17,Southeast,19,25,94
+C1233,Private,Master's degree,,40,646,19462,41,Southeast,17,18,98
+C1234,Private,Bachelor's degree,,,338,11646,16,Southeast,,,100
+C1235,Private,Master's degree,,92,1811,17081,38,Southeast,21,27,100
+C1236,Private,Master's degree,,64,2575,24052,45,Southeast,20,25,92
+C1237,Private,Bachelor's degree,,49,1554,8220,20,Southeast,13,16,99
+C1238,Private,Bachelor's degree,,23,1023,10298,6,Southeast,14,17,94
+C1239,Private,Master's degree,,92,4922,12680,35,Southeast,21,27,94
+C1240,Private,Doctoral degree,,70,3952,17720,14,Southeast,19,27,87
+C1241,Private,Bachelor's degree,,,1144,20582,40,Southeast,,,97
+C1242,Private,Bachelor's degree,,73,1168,29924,47,Southeast,21,26,100
+C1243,Public,Doctoral degree,,68,21480,7390,13,Southeast,19,25,97
+C1244,Public,Doctoral degree,,70,23881,6754,16,Southeast,19,24,99
+C1245,Private,Master's degree,,68,1198,25260,52,Southeast,22,26,98
+C1246,Private,Master's degree,,58,2040,36464,74,Southeast,27,31,95
+C1247,Private,Doctoral degree,,60,1701,32292,76,Southeast,26,30,77
+C1248,Private,Doctoral degree,,38,3255,18324,19,Southeast,20,25,99
+C1249,Private,Master's degree,,71,1084,19700,32,Southeast,19,24,95
+C1250,Public,Doctoral degree,,78,11674,6718,15,Southeast,21,25,96
+C1251,Public,Doctoral degree,,72,30030,8396,37,Southeast,24,29,96
+C1252,Public,Master's degree,,77,7423,6716,21,Southeast,20,25,96
+C1253,Public,Doctoral degree,,,8883,6088,8,Southeast,,,98
+C1254,Public,Doctoral degree,,93,11118,6406,22,Southeast,20,26,98
+C1255,Private,Doctoral degree,,77,2406,20490,36,Southeast,19,26,99
+C1256,Private,Master's degree,,72,2055,20910,18,Southeast,18,23,99
+C1257,Private,Doctoral degree,,74,3993,24030,51,Southeast,22,29,100
+C1258,Private,Doctoral degree,,13,12757,41332,87,Southeast,32,34,65
+C1259,Private,Doctoral degree,,49,4461,25270,37,Southwest,21,27,99
+C1260,Public,Doctoral degree,,80,6536,6211,14,Southwest,18,23,93
+C1261,Private,Master's degree,,59,1223,31270,67,Southwest,23,27,99
+C1262,Private,Doctoral degree,,57,15616,31658,57,Southwest,24,29,96
+C1263,Private,Master's degree,,47,2565,22920,18,Southwest,20,25,97
+C1264,Public,Doctoral degree,,93,10913,6594,24,Southwest,17,23,74
+C1265,Private,Doctoral degree,,42,5422,19900,43,Southwest,18,27,95
+C1266,Private,Doctoral degree,,90,2598,31150,56,Southwest,24,30,100
+C1267,Private,Master's degree,,74,1247,20500,24,Southwest,18,22,100
+C1268,Public,Master's degree,,37,1842,4974,,Southwest,19,23,98
+C1269,Public,Doctoral degree,,68,11591,6283,24,Southwest,18,24,93
+C1270,Private,Doctoral degree,,38,2220,22460,34,Southwest,20,25,98
+C1271,Private,Master's degree,,73,2910,25445,24,Southwest,21,27,100
+C1272,Public,Doctoral degree,,,8164,,,Southwest,,,
+C1273,Public,Master's degree,,95,13757,4786,3,Southwest,16,21,83
+C1274,Public,Master's degree,,51,4491,5830,,Southwest,16,21,96
+C1275,Public,Doctoral degree,,58,39540,7513,16,Southwest,22,27,87
+C1276,Private,Master's degree,,54,1170,21700,30,Southwest,18,22,99
+C1277,Private,Bachelor's degree,,46,973,12430,10,Southwest,13,17,97
+C1278,Private,Doctoral degree,,93,8685,22790,19,Southwest,18,23,100
+C1279,Private,Bachelor's degree,,,609,13374,5,Southwest,,,98
+C1280,Public,Doctoral degree,,77,14035,8076,13,Southwest,18,23,81
+C1281,Public,Doctoral degree,,48,7431,5409,21,Southwest,16,20,99
+C1282,Private,Master's degree,,41,2729,23590,34,Southwest,22,30,99
+C1283,Private,Master's degree,,95,2002,16870,30,Southwest,19,24,99
+C1284,Private,Doctoral degree,,85,3492,22950,28,Southwest,21,27,96
+C1285,Private,Master's degree,,59,1216,22045,25,Southwest,18,24,99
+C1286,Public,Master's degree,,72,5870,5648,17,Southwest,19,23,90
+C1287,Public,Doctoral degree,,60,38315,7989,25,Southwest,21,26,89
+C1288,Private,Doctoral degree,,66,2927,22756,19,Southwest,14,21,97
+C1289,Public,Doctoral degree,,62,20053,5034,16,Southwest,18,21,90
+C1290,Public,Doctoral degree,,,12285,5352,9,Southwest,,,89
+C1291,Private,Bachelor's degree,,99,243,12350,1,Southwest,13,18,71
+C1292,Public,Doctoral degree,,42,8283,6132,11,Southwest,15,20,97
+C1293,Private,Doctoral degree,,17,6628,35551,79,Southwest,31,34,75
+C1294,Private,Master's degree,,79,4861,28700,51,Southwest,22,26,90
+C1295,Private,Doctoral degree,,77,3525,25300,27,Southwest,23,28,92
+C1296,Public,Doctoral degree,,65,19210,5972,28,Southwest,19,23,87
+C1297,Private,Master's degree,,93,1136,20355,35,Southwest,19,24,100
+C1298,Private,Doctoral degree,,58,3868,23426,33,Southwest,21,24,98
+C1299,Private,Doctoral degree,,51,10929,39430,67,Southwest,27,31,76
+C1300,Private,Master's degree,,35,2012,15730,14,Southwest,,,99
+C1301,Private,Bachelor's degree,,52,1535,33440,65,Southwest,22,29,100
+C1302,Public,Doctoral degree,,57,12772,7344,23,Southwest,19,24,86
+C1303,Public,Doctoral degree,,75,35546,7264,30,Southwest,21,25,75
+C1304,Private,Master's degree,,54,808,17080,22,Southwest,17,22,100
+C1305,Private,Bachelor's degree,,,172,6910,,Southwest,,,99
+C1306,Public,Master's degree,,52,2842,4764,14,Southwest,15,21,94
+C1307,Public,Doctoral degree,,57,13307,5281,22,Southwest,19,23,86
+C1308,Public,Doctoral degree,,88,12229,6640,18,Southwest,16,21,95
+C1309,Public,Doctoral degree,,,,,,Southwest,,,
+C1310,Public,Doctoral degree,,69,55697,8421,49,Southwest,23,29,79
+C1311,Public,Doctoral degree,,60,33329,8878,17,Southwest,20,26,79
+C1312,Public,Doctoral degree,,40,52059,9794,51,Southwest,25,31,63
+C1313,Public,Doctoral degree,,59,21193,10276,46,Southwest,25,31,84
+C1314,Public,Doctoral degree,,100,23003,7065,12,Southwest,17,22,86
+C1315,Public,Doctoral degree,,82,7476,6592,27,Southwest,21,25,83
+C1316,Private,Doctoral degree,,47,9925,32490,59,Southwest,25,29,75
+C1317,Private,Bachelor's degree,,,971,9682,4,Southwest,,,95
+C1318,Private,Master's degree,,51,1341,23930,31,Southwest,20,25,100
+C1319,Public,Master's degree,,84,5131,5124,13,Southwest,19,23,92
+C1320,Public,Doctoral degree,,73,28623,7042,10,Southwest,20,25,84
+C1321,Public,Doctoral degree,,45,8703,7442,6,Southwest,15,19,95
+C1322,Public,Doctoral degree,,66,33111,7380,33,Southwest,22,27,75
+C1323,Private,Doctoral degree,,30,2397,19760,15,Southwest,19,22,98
+C1324,Public,Doctoral degree,,86,15058,5429,22,Southwest,17,23,93
+C1325,Private,Master's degree,,64,2358,31356,72,Southwest,26,31,94
+C1326,Private,Master's degree,,99,6222,11320,21,Southwest,17,23,96
+C1327,Public,Doctoral degree,,74,8377,6008,25,Southwest,19,24,90
+C1328,Private,Bachelor's degree,,,1392,11050,7,Southwest,,,100
+C1329,Private,Doctoral degree,,49,31123,4560,31,Rocky Mountains,26,31,67
+C1330,Private,Bachelor's degree,,36,2882,4450,28,Far West,21,26,78
+C1331,Public,Bachelor's degree,,,8350,3888,8,Rocky Mountains,,,87
+C1332,Public,Master's degree,,57,7745,5198,22,Rocky Mountains,20,26,88
+C1333,Private,Bachelor's degree,,,320,14100,100,Rocky Mountains,,,96
+C1334,Private,Bachelor's degree,,,351,15858,34,Rocky Mountains,,,100
+C1335,Public,Doctoral degree,,97,27812,5560,25,Rocky Mountains,20,27,81
+C1336,Public,Master's degree,,,30564,4584,7,Rocky Mountains,,,74
+C1337,Public,Doctoral degree,,82,32077,6762,24,Rocky Mountains,21,27,64
+C1338,Public,Master's degree,,,25155,4548,14,Rocky Mountains,,,82
+C1339,Private,Master's degree,,75,3108,27182,43,Rocky Mountains,22,28,96
+C1340,Private,Master's degree,,65,738,42800,58,New England,,,95
+C1341,Private,Master's degree,,83,243,22545,0,New England,,,86
+C1342,Public,Master's degree,,92,2175,9468,34,New England,17,23,90
+C1343,Private,Master's degree,,71,3305,28400,50,New England,22,28,93
+C1344,Private,Master's degree,,100,592,13670,29,New England,,,57
+C1345,Private,Master's degree,,76,840,29316,31,New England,,,98
+C1346,Public,Master's degree,,97,1692,9468,17,New England,15,23,92
+C1347,Public,Master's degree,,99,1519,9468,18,New England,18,21,96
+C1348,Private,Master's degree,,76,260,36560,50,New England,,,98
+C1349,Private,Doctoral degree,,17,2495,42428,87,New England,31,33,45
+C1350,Private,Master's degree,,63,3417,30194,51,New England,21,26,100
+C1351,Private,Master's degree,,75,2378,36240,69,New England,23,28,99
+C1352,Private,Master's degree,,,443,,,New England,,,
+C1353,Private,Master's degree,,68,271,19465,13,New England,16,18,96
+C1354,Private,Bachelor's degree,,99,480,20450,28,New England,16,20,99
+C1355,Private,Bachelor's degree,,94,116,27552,28,New England,,,100
+C1356,Public,Bachelor's degree,,83,1543,12084,29,New England,16,21,94
+C1357,Public,Doctoral degree,,78,12723,14784,65,New England,24,29,94
+C1358,Private,Master's degree,,63,906,24480,18,Southeast,17,22,100
+C1359,Private,Master's degree,,57,842,19980,38,Southeast,16,21,100
+C1360,Private,Bachelor's degree,,55,1848,26750,52,Southeast,20,25,100
+C1361,Public,Doctoral degree,,33,8376,13132,83,Southeast,28,32,53
+C1362,Private,Doctoral degree,,85,5693,12340,21,Southeast,19,25,100
+C1363,Public,Master's degree,,59,5232,10084,50,Southeast,23,28,75
+C1364,Private,Master's degree,,66,959,27040,33,Southeast,18,25,100
+C1365,Private,Master's degree,,65,1640,26400,50,Southeast,18,25,99
+C1366,Private,Bachelor's degree,,74,1512,26375,20,Southeast,14,20,100
+C1367,Public,Doctoral degree,,62,33917,9266,43,Southeast,24,28,66
+C1368,Private,Bachelor's degree,,55,1070,33874,60,Southeast,22,27,100
+C1369,Private,Doctoral degree,,36,4622,18798,50,Southeast,18,23,90
+C1370,Private,Master's degree,,69,750,30795,56,Southeast,21,27,100
+C1371,Public,Doctoral degree,,64,20181,8448,65,Southeast,23,27,60
+C1372,Private,Doctoral degree,,22,77338,19154,27,Southeast,19,26,95
+C1373,Public,Master's degree,,81,4960,10530,42,Southeast,19,23,69
+C1374,Private,Doctoral degree,,64,2713,30805,46,Southeast,19,24,100
+C1375,Private,Master's degree,,88,1711,26960,39,Southeast,18,25,100
+C1376,Public,Master's degree,,81,4831,8926,66,Southeast,22,26,68
+C1377,Private,Doctoral degree,,83,3486,23972,44,Southeast,20,24,95
+C1378,Public,Doctoral degree,,65,6728,6700,21,Southeast,16,20,97
+C1379,Public,Doctoral degree,,77,24828,7890,23,Southeast,18,23,82
+C1380,Public,Doctoral degree,,78,9928,8320,41,Southeast,18,22,75
+C1381,Private,Bachelor's degree,,64,1315,32265,57,Southeast,21,26,100
+C1382,Private,Master's degree,,83,682,30376,46,Southeast,21,28,100
+C1383,Private,Doctoral degree,,31,4140,43170,82,Southeast,28,31,63
+C1384,Private,Bachelor's degree,,73,2029,32900,58,Southeast,21,26,100
+C1385,Private,Doctoral degree,,85,4003,27940,34,Southeast,19,26,100
+C1386,Private,Bachelor's degree,,100,662,18300,28,Southeast,17,26,100
+C1387,Private,Master's degree,,84,710,31095,54,Southeast,21,27,100
+C1388,Public,Bachelor's degree,,74,2291,7721,24,Southeast,17,22,93
+C1389,Private,Bachelor's degree,,96,378,24642,32,Southeast,18,22,90
+C1390,Public,Doctoral degree,,70,31205,10509,61,Southeast,,,73
+C1391,Public,Doctoral degree,,69,30974,9517,30,Southeast,21,26,79
+C1392,Public,Doctoral degree,,30,23464,11786,86,Southeast,29,33,54
+C1393,Public,Bachelor's degree,,47,1675,13184,59,Southeast,22,27,82
+C1394,Public,Doctoral degree,,95,5763,7090,25,Southeast,15,18,92
+C1395,Private,Doctoral degree,,58,1749,14630,22,Southeast,13,17,99
+C1396,Private,Bachelor's degree,,93,1459,29680,37,Southeast,18,24,98
+C1397,Private,Doctoral degree,,18,2277,41927,86,Southeast,30,33,63
+C1398,Public,Master's degree,,82,11287,7827,43,Far West,18,23,85
+C1399,Private,Doctoral degree,,,2368,15280,0,Far West,,,64
+C1400,Public,Doctoral degree,,80,12791,7240,19,Far West,18,23,88
+C1401,Public,Master's degree,,97,4398,7486,43,Far West,20,27,85
+C1402,Private,Doctoral degree,,67,7605,32222,71,Far West,25,29,99
+C1403,Private,Master's degree,,,1128,15550,3,Far West,,,100
+C1404,Private,Bachelor's degree,,96,194,22260,79,Far West,,,100
+C1405,Private,Doctoral degree,,97,1733,23400,37,Far West,19,28,99
+C1406,Private,Master's degree,,77,3462,30950,55,Far West,22,28,99
+C1407,Private,Doctoral degree,,85,2812,38720,68,Far West,25,30,97
+C1408,Private,Master's degree,,88,1787,27897,35,Far West,19,25,95
+C1409,Private,Doctoral degree,,72,4270,30339,54,Far West,23,28,97
+C1410,Private,Doctoral degree,,73,7422,32700,59,Far West,24,29,96
+C1411,Private,Master's degree,,93,1917,23898,17,Far West,20,27,100
+C1412,Public,Doctoral degree,,82,27642,10799,40,Far West,19,25,79
+C1413,Public,Doctoral degree,,55,43762,10574,57,Far West,25,30,55
+C1414,Public,Master's degree,,84,14950,7756,38,Far West,22,28,73
+C1415,Private,Bachelor's degree,,57,1541,40496,80,Far West,28,32,91
+C1416,Private,Master's degree,,65,2569,32144,65,Far West,,,98
+C1417,Private,Master's degree,,43,1117,22740,35,Southeast,19,24,100
+C1418,Private,Master's degree,,49,726,23854,39,Southeast,17,24,100
+C1419,Public,Bachelor's degree,,43,1747,4908,6,Southeast,17,21,95
+C1420,Private,Doctoral degree,,69,1935,25181,35,Southeast,19,24,100
+C1421,Public,Master's degree,,46,2767,5446,19,Southeast,18,24,98
+C1422,Private,Bachelor's degree,,57,874,22320,22,Southeast,17,23,100
+C1423,Public,Master's degree,,66,4232,5326,14,Southeast,18,23,93
+C1424,Public,Bachelor's degree,,74,1850,5352,13,Southeast,16,21,96
+C1425,Public,Doctoral degree,,79,13407,5648,23,Southeast,20,24,94
+C1426,Private,Master's degree,,36,451,18050,22,Southeast,19,23,99
+C1427,Public,Bachelor's degree,,,3461,2268,7,Southeast,,,35
+C1428,Public,Master's degree,,81,4221,5554,18,Southeast,19,24,91
+C1429,Public,Master's degree,,45,2677,4918,4,Southeast,18,22,87
+C1430,Public,Master's degree,,71,2776,5266,22,Southeast,18,24,97
+C1431,Public,Bachelor's degree,,51,1222,5344,4,Southeast,18,24,96
+C1432,Private,Master's degree,,77,1469,24964,43,Southeast,20,25,100
+C1433,Public,Doctoral degree,,85,29466,5674,34,Southeast,21,26,89
+C1434,Private,Doctoral degree,,69,1619,25640,42,Southeast,20,24,100
+C1435,Private,Master's degree,,79,2536,21069,11,Great Lakes,17,23,100
+C1436,Private,Bachelor's degree,,68,1306,36674,70,Great Lakes,24,30,96
+C1437,Private,Doctoral degree,,84,4407,23330,29,Great Lakes,20,24,100
+C1438,Private,Doctoral degree,,81,3534,25248,42,Great Lakes,21,26,100
+C1439,Private,Master's degree,,70,2988,31300,54,Great Lakes,21,27,100
+C1440,Private,Doctoral degree,,70,7943,23260,34,Great Lakes,20,25,99
+C1441,Private,Doctoral degree,,77,2894,22850,32,Great Lakes,20,25,100
+C1442,Private,Master's degree,,66,3806,20230,36,Great Lakes,19,24,99
+C1443,Private,Bachelor's degree,,73,1553,38481,69,Great Lakes,,,99
+C1444,Private,Master's degree,,71,1035,12260,28,Great Lakes,20,26,81
+C1445,Private,Doctoral degree,,76,2188,22440,30,Great Lakes,18,22,100
+C1446,Private,Doctoral degree,,57,11782,31822,57,Great Lakes,25,29,100
+C1447,Private,Master's degree,,68,2658,30990,39,Great Lakes,25,30,97
+C1448,Private,Doctoral degree,,54,1481,23000,21,Great Lakes,17,23,100
+C1449,Private,Doctoral degree,,,327,12880,35,Great Lakes,,,100
+C1450,Private,Bachelor's degree,,59,552,26566,52,Great Lakes,21,27,100
+C1451,Private,Bachelor's degree,,75,904,28689,60,Great Lakes,21,28,100
+C1452,Private,Master's degree,,82,2222,29395,69,Great Lakes,22,27,99
+C1453,Private,Master's degree,,60,679,21820,24,Great Lakes,17,23,100
+C1454,Private,Doctoral degree,,71,2762,21870,31,Great Lakes,21,26,99
+C1455,Public,Master's degree,,85,12027,7195,28,Great Lakes,20,24,80
+C1456,Public,Doctoral degree,,76,10923,8019,26,Great Lakes,22,26,82
+C1457,Public,Master's degree,,85,6668,7282,20,Great Lakes,21,25,89
+C1458,Public,Doctoral degree,,72,10520,8329,35,Great Lakes,23,26,81
+C1459,Private,Master's degree,,64,1178,22830,45,Great Lakes,21,27,100
+C1460,Public,Doctoral degree,,81,13900,6995,17,Great Lakes,20,24,83
+C1461,Public,Master's degree,,75,4578,6930,9,Great Lakes,19,23,83
+C1462,Public,Master's degree,,89,9313,8542,21,Great Lakes,20,24,87
+C1463,Public,Master's degree,,89,2661,7536,14,Great Lakes,19,24,88
+C1464,Public,Doctoral degree,,68,42677,9665,55,Great Lakes,26,30,64
+C1465,Public,Doctoral degree,,86,27416,8675,13,Great Lakes,20,24,81
+C1466,Public,Master's degree,,96,8712,7113,19,Great Lakes,20,25,86
+C1467,Public,Master's degree,,87,6160,7277,23,Great Lakes,20,24,84
+C1468,Public,Doctoral degree,,83,9661,7146,22,Great Lakes,21,25,84
+C1469,Public,Doctoral degree,,96,12778,4125,24,Rocky Mountains,22,27,92
+C1470,Private,Doctoral degree,,6,18346,41564,76,Far West,31,34,66
+C1471,Public,Doctoral degree,,60,39794,9478,42,Great Lakes,24,30,66
+C1472,Private,Bachelor's degree,,,633,13200,,Southeast,,,96
+C1473,Private,Master's degree,,82,419,43655,45,Southwest,,,86
+C1474,Private,Master's degree,,,986,,,Far West,,,
+C1475,Private,Doctoral degree,,,375,,,Far West,,,
+C1476,Private,Doctoral degree,,,725,,,New England,,,
+C1477,Private,Doctoral degree,,79,884,19305,,Far West,,,69
+C1478,Private,Master's degree,,,310,,,Great Lakes,,,
+C1479,Private,Master's degree,,,2942,14830,14,Southwest,,,99
+C1480,Private,Doctoral degree,,100,7746,,,Far West,,,
+C1481,Public,Bachelor's degree,,61,793,6060,57,Southeast,27,30,100
+C1482,Private,Doctoral degree,,,322,,,Plains,,,
+C1483,Public,Bachelor's degree,,,5678,13590,27,Mid East,,,88
+C1484,Public,Master's degree,,63,11300,6596,13,Far West,18,23,73
+C1485,Private,Master's degree,,83,2078,11780,0,Southeast,,,99
+C1486,Private,Bachelor's degree,,76,495,16140,64,Far West,,,98
+C1487,Public,Master's degree,,76,4604,10241,43,Far West,19,23,69
+C1488,Public,Doctoral degree,,85,4295,10343,30,Far West,17,23,83
+C1489,Private,Bachelor's degree,,,1039,7560,0,Great Lakes,,,95
+C1490,Private,Bachelor's degree,,65,190,29050,83,Southeast,,,59
+C1491,Private,Master's degree,,91,1252,14320,58,Southeast,,,92
+C1492,Private,Master's degree,,43,412,27226,78,Far West,25,29,100
+C1493,Private,Bachelor's degree,,,3105,7560,0,Great Lakes,,,96
+C1494,Private,Bachelor's degree,,,4383,7560,0,Great Lakes,,,93
+C1495,Private,Bachelor's degree,,,1549,7560,0,Great Lakes,,,94
+C1496,Private,Bachelor's degree,,,444,13200,,Southeast,,,100
+C1497,Public,Master's degree,,44,5732,5963,12,Far West,18,24,78
+C1498,Private,Bachelor's degree,,,2257,7560,5,Great Lakes,,,97
+C1499,Private,Doctoral degree,,,5270,10080,0,Great Lakes,,,100
+C1500,Private,Bachelor's degree,,65,1952,25407,31,Southeast,,,98
+C1501,Private,Master's degree,,30,541,9120,0,Great Lakes,,,100
+C1502,Private,Master's degree,,,341,,,Great Lakes,,,
+C1503,Private,Master's degree,,,46733,5870,21,Rocky Mountains,,,100
+C1504,Public,Doctoral degree,,66,14077,5532,22,Southeast,20,24,81
+C1505,Private,Bachelor's degree,,98,1662,10700,13,Great Lakes,,,99
+C1506,Private,Bachelor's degree,,,283,13200,,Southeast,,,100
+C1507,Private,Master's degree,,,2541,15790,63,Rocky Mountains,,,96
+C1508,Private,Master's degree,,78,1529,25407,48,Rocky Mountains,,,99
+C1509,Private,Master's degree,,,114,,,New England,,,
+C1510,Public,Master's degree,,61,883,5706,33,Far West,16,21,
+C1511,Public,Bachelor's degree,,50,3377,4006,3,Far West,,,89
+C1512,Public,Master's degree,,64,5140,6316,21,Far West,17,23,70
+C1513,Private,Bachelor's degree,,,3800,7560,,Great Lakes,,,94
+C1514,Private,Bachelor's degree,,,478,,,Southeast,,,
+C1515,Private,Master's degree,,,4555,,,Plains,,,
+C1516,Private,Bachelor's degree,,60,2325,25407,41,Southeast,,,100
+C1517,Private,Doctoral degree,,60,988,20090,55,Southeast,20,26,100
+C1518,Private,Master's degree,,,344,22500,24,Mid East,,,98
+C1519,Private,Bachelor's degree,,,140,15790,23,Rocky Mountains,,,91
+C1520,Private,Master's degree,,,410,,,Mid East,,,
+C1521,Public,Bachelor's degree,,,9719,5290,5,Southeast,,,83
+C1522,Private,Master's degree,,,1653,,0,Plains,,,50
+C1523,Private,Master's degree,,,1118,8100,10,Southeast,,,100
+C1524,Private,Bachelor's degree,,,322,15790,25,Rocky Mountains,,,96
+C1525,Private,Bachelor's degree,,,328,,,Great Lakes,,,
+C1526,Public,Master's degree,,44,4660,5200,22,Southeast,21,25,98
+C1527,Private,Doctoral degree,,,362,8540,33,Far West,,,87
+C1528,Private,Master's degree,,,1221,,,Southeast,,,
+C1529,Private,Master's degree,,,215,,,Mid East,,,
+C1530,Public,Master's degree,,35,1877,,,Southeast,22,25,
+C1531,Private,Bachelor's degree,,71,516,29240,57,Mid East,24,28,100
+C1532,Private,Master's degree,,,458,,,Plains,,,
+C1533,Private,Bachelor's degree,,53,66,21444,46,Far West,,,100
+C1534,Private,Master's degree,,,125,10920,,Southeast,,,100

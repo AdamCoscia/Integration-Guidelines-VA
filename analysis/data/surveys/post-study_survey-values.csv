@@ -1,0 +1,17 @@
+﻿question,shorthand,interface,ngFQZ3PEO5NJ,JT7ru39Irzx7,a6RSZr6Rflrh,SyndXrJWn1Ei,HuW1wIIebZWn,NvepUR3xQYb3,w7TNykrDwr1q,tqJLycRmlf6B,CoYhbad22Jko,w7TXwcLz7Ydb,ruM5fRj1p3f9,wQez7lrGYiza,xnfPy13ddVDB,2Ispy3RTXFLN,MQNQXUlXMlJG,yvoRfW5318GY
+How confident are you that your analysis was comprehensive while using this interface?,Comprehensive,Non-Integrated,4,4,4,1,3,1,3,1,4,2,2,3,3,1,3,3
+How confident are you that you were able to recognize errors in data quality while using this interface?,Recognized Errors,Non-Integrated,3,4,4,1,3,1,1,4,1,3,2,1,3,2,4,3
+How confident are you that you explored all the available attributes while using this interface?,Explored All Attributes,Non-Integrated,4,4,3,1,5,2,2,4,3,2,4,2,2,2,3,4
+"How often do you feel you satisficed (i.e., accepted an available option as satisfactory) while using this interface?",Satisficed,Non-Integrated,4,1,3,5,3,3,2,2,2,4,3,4,3,3,4,2
+How confident are you that your analysis was comprehensive while using this interface?,Comprehensive,Integrated,3,3,4,4,4,2,4,4,2,4,2,3,4,2,4,2
+How confident are you that you were able to recognize errors in data quality while using this interface?,Recognized Errors,Integrated,3,2,3,2,1,2,4,2,1,4,2,4,4,2,1,2
+How confident are you that you explored all the available attributes while using this interface?,Explored All Attributes,Integrated,4,3,4,3,5,2,4,4,4,3,3,2,4,3,4,1
+"How often do you feel you satisficed (i.e., accepted an available option as satisfactory) while using this interface?",Satisficed,Integrated,5,2,4,5,4,3,4,2,3,4,3,3,4,3,4,2
+How useful did you find the ability to augment secondary attributes in the ATTRIBUTES panel?,Attributes,Integrated,5,5,5,5,1,2,3,5,3,3,3,3,5,5,5,4
+How useful did you find the ability to encode secondary attributes in the ENCODE panel?,Encode,Integrated,5,3,3,5,5,2,4,4,5,5,3,4,4,5,1,2
+How useful did you find the ability to filter secondary attributes in the FILTER panel?,Filter,Integrated,4,4,3,5,5,2,4,4,1,5,4,5,5,5,3,4
+How useful did you find the ability to augment secondary attributes in the ELABORATE panel?,Elaborate,Integrated,4,3,3,4,4,1,2,4,1,3,3,4,5,5,1,1
+Please rate how much more comprehensive you found your analysis to be when using one interface over the other.,Comprehensiveness,Both,2,-1,2,3,1,0,3,0,3,2,-2,1,3,2,2,2
+Please rate how much more valuable you found one interface over the other when integrating new attributes into your analysis.,Integration,Both,3,-1,2,3,2,2,3,3,3,3,-2,2,3,3,3,2
+"Please rate how much more valuable you found one interface over the other when answering specific questions (i.e., the first task during each live activity).",Specific Task,Both,2,2,2,3,2,0,1,3,2,3,-1,-1,2,1,2,1
+"Please rate how much more valuable you found one interface over the other when answering free form questions (i.e., the second task during each live activity).",Freeform Task,Both,2,0,3,3,-1,0,3,3,3,3,0,1,3,3,3,1

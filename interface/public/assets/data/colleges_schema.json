@@ -1,0 +1,419 @@
+{
+  "ID": {
+    "name": "ID",
+    "dataType": "string",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": [
+      "Admission rate (%)",
+      "Admission yield (%)",
+      "Admissions total",
+      "Applicants total",
+
+      "Full-time enrollment",
+      "Graduate enrollment",
+      "Part-time enrollment",
+      "Total enrollment",
+      "Undergraduate enrollment",
+
+      "Endowment assets ($)",
+      "Receiving financial aid (%)",
+      "Tuition and fees 2010-11 ($)",
+      "Tuition and fees 2011-12 ($)",
+      "Tuition and fees 2012-13 ($)",
+      "Tuition and fees 2013-14 ($)",
+
+      "4-year graduation rate (%)",
+      "5-year graduation rate (%)",
+      "6-year graduation rate (%)",
+
+      "Degree of urbanization",
+      "Geographic region",
+      "Historically Black College or University?",
+      "Religious affiliation",
+      "Tribal college?",
+
+      "ACT Composite score (25th percentile)",
+      "ACT Composite score (75th percentile)",
+      "SAT Critical Reading score (25th percentile)",
+      "SAT Critical Reading score (75th percentile)",
+      "SAT Math score (25th percentile)",
+      "SAT Math score (75th percentile)",
+      "SAT Writing score (25th percentile)",
+      "SAT Writing score (75th percentile)"
+    ]
+  },
+  "Control": {
+    "name": "Control",
+    "dataType": "string",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Highest degree offered": {
+    "name": "Highest degree offered",
+    "dataType": "string",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Admission rate (%)": {
+    "name": "Admission rate (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "admissions.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Admission yield (%)": {
+    "name": "Admission yield (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "admissions.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Admissions total": {
+    "name": "Admissions total",
+    "dataType": "number",
+    "range": [],
+    "source": "admissions.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Applicants total": {
+    "name": "Applicants total",
+    "dataType": "number",
+    "range": [],
+    "source": "admissions.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Full-time enrollment": {
+    "name": "Full-time enrollment",
+    "dataType": "number",
+    "range": [],
+    "source": "enrollment.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Graduate enrollment": {
+    "name": "Graduate enrollment",
+    "dataType": "number",
+    "range": [],
+    "source": "enrollment.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Part-time enrollment": {
+    "name": "Part-time enrollment",
+    "dataType": "number",
+    "range": [],
+    "source": "enrollment.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Total enrollment": {
+    "name": "Total enrollment",
+    "dataType": "number",
+    "range": [],
+    "source": "enrollment.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Undergraduate enrollment": {
+    "name": "Undergraduate enrollment",
+    "dataType": "number",
+    "range": [],
+    "source": "enrollment.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Endowment assets ($)": {
+    "name": "Endowment assets ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "financial.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Receiving financial aid (%)": {
+    "name": "Receiving financial aid (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "financial.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Tuition and fees 2010-11 ($)": {
+    "name": "Tuition and fees 2010-11 ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "financial.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Tuition and fees 2011-12 ($)": {
+    "name": "Tuition and fees 2011-12 ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "financial.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Tuition and fees 2012-13 ($)": {
+    "name": "Tuition and fees 2012-13 ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "financial.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Tuition and fees 2013-14 ($)": {
+    "name": "Tuition and fees 2013-14 ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "financial.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "4-year graduation rate (%)": {
+    "name": "4-year graduation rate (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "graduation.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "5-year graduation rate (%)": {
+    "name": "5-year graduation rate (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "graduation.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "6-year graduation rate (%)": {
+    "name": "6-year graduation rate (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "graduation.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Degree of urbanization": {
+    "name": "Degree of urbanization",
+    "dataType": "string",
+    "range": [],
+    "source": "profile.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Geographic region": {
+    "name": "Geographic region",
+    "dataType": "string",
+    "range": [],
+    "source": "profile.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Historically Black College or University?": {
+    "name": "Historically Black College or University?",
+    "dataType": "string",
+    "range": [],
+    "source": "profile.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Religious affiliation": {
+    "name": "Religious affiliation",
+    "dataType": "string",
+    "range": [],
+    "source": "profile.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Tribal college?": {
+    "name": "Tribal college?",
+    "dataType": "string",
+    "range": [],
+    "source": "profile.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "ACT Composite score (25th percentile)": {
+    "name": "ACT Composite score (25th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "ACT Composite score (75th percentile)": {
+    "name": "ACT Composite score (75th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "SAT Critical Reading score (25th percentile)": {
+    "name": "SAT Critical Reading score (25th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "SAT Critical Reading score (75th percentile)": {
+    "name": "SAT Critical Reading score (75th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "SAT Math score (25th percentile)": {
+    "name": "SAT Math score (25th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "SAT Math score (75th percentile)": {
+    "name": "SAT Math score (75th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "SAT Writing score (25th percentile)": {
+    "name": "SAT Writing score (25th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "SAT Writing score (75th percentile)": {
+    "name": "SAT Writing score (75th percentile)",
+    "dataType": "number",
+    "range": [],
+    "source": "scores.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  }
+}

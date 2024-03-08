@@ -1,0 +1,501 @@
+ID,Loan amount ($),Loan intent,Loan interest rate (%),Annual income ($),Annual income ($),Job title,Loan grade
+L001,3600,Debt consolidation,13.99,55000,55000,leadman,C
+L002,24700,Business,11.99,65000,65000,Engineer,C
+L003,20000,,10.78,63000,63000,truck driver,B
+L004,35000,Debt consolidation,14.85,110000,110000,Information Systems Officer,C
+L005,10400,Major purchase,22.45,104433,104433,Contract Specialist,F
+L006,11950,Debt consolidation,13.44,34000,34000,Veterinary Tecnician,C
+L007,20000,Debt consolidation,9.17,180000,180000,Vice President of Recruiting Operations,B
+L008,20000,Major purchase,8.49,85000,85000,road driver,B
+L009,10000,Credit card refinancing,6.49,85000,85000,SERVICE MANAGER,A
+L010,8000,Credit card refinancing,11.48,42000,42000,Vendor liaison,B
+L011,22400,Debt consolidation,12.88,95000,95000,Executive Director,C
+L012,16000,Debt consolidation,12.88,70000,70000,Senior Structural Designer,C
+L013,1400,,12.88,64000,64000,Logistics Manager,C
+L014,18000,Debt consolidation,19.48,150000,150000,Software Manager,E
+L015,28000,Debt consolidation,6.49,92000,92000,Senior Manager,A
+L016,9600,Credit card refinancing,7.49,60000,60000,tech,A
+L017,25000,Debt consolidation,7.49,109000,109000,Sales Manager,A
+L018,18000,Debt consolidation,11.99,112000,112000,GS-11,C
+L019,23000,Credit card refinancing,8.49,64000,64000,Teacher,B
+L020,8650,Debt consolidation,19.89,55000,55000,Program Coordinator ,E
+L021,29900,Debt consolidation,12.88,65000,65000,Corporate Insurance,C
+L022,16000,Credit card refinancing,14.85,48000,48000,Bookkeeper/Accounting,C
+L023,28000,Debt consolidation,13.44,125000,125000,Director of Product Development ,C
+L024,5000,Credit card refinancing,13.44,79000,79000,General Manager,C
+L025,6000,Debt consolidation,7.49,100000,100000,Analyst,A
+L026,4225,Debt consolidation,14.85,35000,35000,mechanic,C
+L027,20000,Debt consolidation,5.32,65000,65000,driver,A
+L028,16000,Debt consolidation,17.97,109000,109000,Professional Sales Associate,D
+L029,17600,Credit card refinancing,5.32,88000,88000,Network Security Specialist III,A
+L030,15000,Home improvement,5.32,44000,44000,DEPUTY SHERIFF,A
+L031,16000,Business,12.88,65000,65000,"Owner, Fee Appraiser ",C
+L032,24250,,24.24,75000,75000,hvac technician,F
+L033,12000,Debt consolidation,10.78,98000,98000,Public Affairs Specialist ,B
+L034,25000,Debt consolidation,13.99,79000,79000,Executive Assistant,C
+L035,16800,Debt consolidation,12.88,118000,118000,CEO,C
+L036,7000,Credit card refinancing,7.49,59000,59000,Carrier,A
+L037,21000,Credit card refinancing,13.99,52000,52000,Resident physician,C
+L038,27500,Other,14.85,195000,195000,Manager,C
+L039,7200,Home improvement,11.48,72500,72500,Legal Administrative Assistant,B
+L040,20000,Credit card refinancing,14.85,110000,110000,GM,C
+L041,20000,Home buying,15.77,70000,70000,Clinical Intake,D
+L042,10000,Credit card refinancing,17.97,55000,55000,Educator ,D
+L043,16000,Debt consolidation,13.99,142000,142000,Registered Nurse,C
+L044,20000,Debt consolidation,9.8,75000,75000,Manager,B
+L045,8650,Credit card refinancing,5.32,100000,100000,Associate Consultant,A
+L046,21000,Debt consolidation,13.44,54649,54649,Teacher,C
+L047,7200,,15.77,55000,55000,Bank Officer Senior Customer Care Spec.,D
+L048,8800,Credit card refinancing,9.8,92000,92000,Sales Representative/ Agent,B
+L049,14650,Debt consolidation,20.5,43160,43160,Senior Service Specialist,E
+L050,2500,Other,17.27,50000,50000,Teacher,D
+L051,11000,Credit card refinancing,9.17,69000,69000,PRINTER,B
+L052,23850,Debt consolidation,17.27,68046,68046,Teacher,D
+L053,15700,Credit card refinancing,16.59,48000,48000,Teacher,D
+L054,28800,Debt consolidation,11.99,60000,60000,Office Manager,C
+L055,10000,Home buying,12.88,91392,91392,Contract Specialist,C
+L056,24000,Home improvement,9.8,77900,77900,,B
+L057,28000,Debt consolidation,18.49,75000,75000,Engineer,D
+L058,35000,Home improvement,11.99,128000,128000,Foreign Service Officer,C
+L059,7200,Debt consolidation,9.17,50000,50000,Site lead,B
+L060,10000,Credit card refinancing,7.91,40100,40100,Teacher,A
+L061,16000,Credit card refinancing,13.44,42000,42000,Merchandise Manager,C
+L062,21875,Credit card refinancing,11.99,47590,47590,Wire Technician,C
+L063,14025,Debt consolidation,18.49,39000,39000,accts payable,D
+L064,35000,Debt consolidation,12.88,106000,106000,Lieutenant ,C
+L065,20000,Debt consolidation,12.88,145000,145000,President,C
+L066,14000,,14.85,60000,60000,Accountant,C
+L067,16000,Credit card refinancing,8.49,62000,62000,Supervisor,B
+L068,28000,Debt consolidation,14.85,85000,85000,Division General Manager,C
+L069,20000,Debt consolidation,13.99,70000,70000,Facilities Coordinator,C
+L070,17600,,19.89,44000,44000,RN,E
+L071,4200,Debt consolidation,13.44,102500,102500,Manager,C
+L072,19000,Credit card refinancing,14.85,75000,75000,Application Analyst,C
+L073,15850,Debt consolidation,23.13,45000,45000,Lead manufacturing ,F
+L074,10000,Debt consolidation,11.99,42500,42500,CARDIOVASCULAR TECH,C
+L075,30000,Home improvement,15.77,175000,175000,Vice-President,D
+L076,1500,Vacation,6.49,45000,45000,,A
+L077,25000,Credit card refinancing,5.32,150000,150000,Director,A
+L078,16250,Debt consolidation,13.44,50000,50000,Radiology Tech.,C
+L079,20200,Debt consolidation,18.49,60000,60000,Manager,D
+L080,23975,Credit card refinancing,19.89,70000,70000,Principal,E
+L081,15000,Debt consolidation,10.78,65000,65000,Senior Buyer,B
+L082,10000,Debt consolidation,10.78,41600,41600,Lpn,B
+L083,15000,Credit card refinancing,8.49,110000,110000,Senior Associate,B
+L084,23100,Car financing,20.5,110000,110000,Regional Sales Direcdtor,E
+L085,27300,Home improvement,17.27,65000,65000,groundsman,D
+L086,25000,Credit card refinancing,11.48,135000,135000,Project Manager,B
+L087,15000,Credit card refinancing,10.78,40000,40000,Coaching General Manager,B
+L088,10000,Debt consolidation,16.59,30000,30000,Emergency Department technician ,D
+L089,18500,Debt consolidation,12.88,70000,70000,Supply Chain Coord.,C
+L090,5000,Credit card refinancing,7.91,32000,32000,Property Manager,A
+L091,9000,Debt consolidation,9.17,50000,50000,Truck Driver,B
+L092,11000,Credit card refinancing,6.49,85000,85000,material handler lead,A
+L093,20000,Debt consolidation,6.49,55000,55000,"TEAM LEAD, QUALITY ENGINEER",A
+L094,15000,Debt consolidation,5.32,80000,80000,,A
+L095,12000,Debt consolidation,5.32,53750,53750,Network Operation Engineer,A
+L096,8000,Debt consolidation,10.78,45000,45000,Counselor,B
+L097,12000,Credit card refinancing,10.78,40000,40000,Salesman,B
+L098,18000,Debt consolidation,7.49,75000,75000,Systems Support Engineer,A
+L099,3600,Debt consolidation,11.48,85000,85000,Systems Administrator,B
+L100,7200,Debt consolidation,17.27,20000,20000,Department Manager ,D
+L101,15000,Credit card refinancing,13.44,77213,77213,Counselor,C
+L102,5000,Other,9.8,72000,72000,Accounts Payable Manager,B
+L103,11550,Credit card refinancing,16.59,38000,38000,general manager,D
+L104,33600,Debt consolidation,10.78,104000,104000,Aviation Safety Inspector,B
+L105,17925,Debt consolidation,17.27,39000,39000,IT Help Desk Support ,D
+L106,17475,Debt consolidation,13.99,39750,39750,Software Testing Analyst,C
+L107,9000,Debt consolidation,8.49,47000,47000,Office Manager,B
+L108,12000,Debt consolidation,9.8,65000,65000,Teacher,B
+L109,4000,Debt consolidation,9.17,44500,44500,Store Manager,B
+L110,10500,Credit card refinancing,15.77,70100,70100,Software Engineer,D
+L111,14000,Medical expenses,9.8,100000,100000,Master mechanic,B
+L112,6000,Car financing,7.91,105000,105000,Road driver,A
+L113,16000,Home improvement,12.88,90000,90000,Unix System Administrator,C
+L114,15000,Debt consolidation,9.8,92000,92000,Electronic Branch Manager,B
+L115,12000,Debt consolidation,9.17,39400,39400,Registered Veterinary Technitian ,B
+L116,10000,Debt consolidation,11.48,33000,33000,Paralegal,B
+L117,4200,Other,13.99,32000,32000,Patrol Officer,C
+L118,35000,Debt consolidation,20.5,120000,120000,"Director, Human Resources",E
+L119,5475,Debt consolidation,18.99,108000,108000,Captain,E
+L120,16000,Debt consolidation,7.91,60000,60000,Project Supervisor,A
+L121,6000,Debt consolidation,13.44,38700,38700,machine operation ,C
+L122,24000,Debt consolidation,9.17,75000,75000,Accounting Manager,B
+L123,10000,Debt consolidation,12.88,60000,60000,Truck Driver,C
+L124,6900,Debt consolidation,19.89,80000,80000,Teacher,E
+L125,22400,Credit card refinancing,9.8,48000,48000,CNC Machinist,B
+L126,15975,Debt consolidation,16.59,58800,58800,Director,D
+L127,21600,Debt consolidation,13.44,54000,54000,machines,C
+L128,24000,Credit card refinancing,13.99,82193,82193,Pastor,C
+L129,14400,Debt consolidation,19.48,73320,73320,GS12,E
+L130,8000,,13.99,42000,42000,District Manager,C
+L131,7000,Debt consolidation,13.99,83000,83000,Outside Account Manager,C
+L132,20000,Debt consolidation,10.78,55000,55000,Driver,B
+L133,25825,Debt consolidation,26.06,68000,68000,Claims Rep ,F
+L134,24575,Debt consolidation,22.45,92000,92000,Service Delivery Manager,F
+L135,3200,Medical expenses,8.49,30407,30407,Custodian,B
+L136,22875,Debt consolidation,15.77,137000,137000,Athletic Director,D
+L137,16000,Debt consolidation,14.85,80000,80000,Billing Supervisor,C
+L138,35000,Debt consolidation,13.44,125000,125000,Account executive,C
+L139,2400,Home improvement,17.27,52000,52000,nurse,D
+L140,25000,Debt consolidation,7.49,132000,132000,,A
+L141,8800,Credit card refinancing,12.88,55000,55000,Desktop Support Anylist,C
+L142,2500,Debt consolidation,11.48,16488,16488,,B
+L143,8000,Credit card refinancing,5.32,50000,50000,Sales Person,A
+L144,20000,Debt consolidation,11.99,78000,78000,Professor,C
+L145,35000,Major purchase,12.88,110000,110000,Cosmetologist Manager,C
+L146,15000,Debt consolidation,7.49,45000,45000,,A
+L147,16000,Debt consolidation,15.77,70000,70000,President,D
+L148,10800,Debt consolidation,13.99,40000,40000,Medical Support Assistant,C
+L149,7500,Debt consolidation,17.97,15000,15000,Owner/Operator,D
+L150,16000,Debt consolidation,10.78,63000,63000,Bartender,B
+L151,9000,Credit card refinancing,5.32,49000,49000,Accounting senior,A
+L152,9500,,15.77,28000,28000,maintenance ,D
+L153,10000,Debt consolidation,7.91,25000,25000,Medical Coder/biller,A
+L154,6000,Debt consolidation,7.91,49000,49000,Teacher,A
+L155,15600,Major purchase,13.44,52000,52000,Officer / Sheriff's office,C
+L156,35000,Debt consolidation,8.49,90000,90000,Paralegal,B
+L157,5000,Debt consolidation,11.48,78000,78000,Financial Systems Analyst,B
+L158,20400,Credit card refinancing,18.49,75000,75000,Pilot,D
+L159,8000,Debt consolidation,17.97,33130,33130,,D
+L160,16000,Debt consolidation,10.78,87500,87500,Veterinarian,B
+L161,18000,Debt consolidation,7.91,80000,80000,Mechanic,A
+L162,35000,Debt consolidation,9.17,105000,105000,Director,B
+L163,13150,Major purchase,5.32,40000,40000,Paraprofessional ,A
+L164,5600,Credit card refinancing,9.17,48000,48000,Business Coordinator III,B
+L165,23000,,9.8,90247,90247,Feeder Driver,B
+L166,12600,Debt consolidation,14.85,175000,175000,VP of Operations,C
+L167,11000,Debt consolidation,16.59,55000,55000,Teacher,D
+L168,4000,Debt consolidation,11.99,41501,41501,Secreatary 1,C
+L169,20000,,13.44,75000,75000,Administrative Manager ,C
+L170,20000,Debt consolidation,11.48,60000,60000,General Manager,B
+L171,10000,Credit card refinancing,9.17,59307,59307,analyst,B
+L172,18850,Debt consolidation,21.48,55000,55000,Social Worker,E
+L173,21000,Debt consolidation,11.99,82000,82000,research scientist,C
+L174,10500,Debt consolidation,8.49,60000,60000,Strategic Account Manager,B
+L175,4575,Home buying,17.27,56000,56000,2nd pressman,D
+L176,5000,Other,11.48,17000,17000,Direct Support Professional,B
+L177,8000,Home improvement,6.99,45000,45000,,A
+L178,5000,Debt consolidation,11.99,30000,30000,Dental Assistant,C
+L179,9075,Credit card refinancing,5.32,40000,40000,Advanced Analyst,A
+L180,24000,Debt consolidation,12.88,75181.21,75181.21,Speech Language Pathologist,C
+L181,12500,Credit card refinancing,7.49,52000,52000,manager,A
+L182,19600,Debt consolidation,15.77,80000,80000,Sales representative,D
+L183,35000,Debt consolidation,13.99,90000,90000,Truck driver ,C
+L184,28000,Debt consolidation,8.49,75000,75000,Client Service Manager,B
+L185,14000,Debt consolidation,15.77,45500,45500,Business Systems Analyst,D
+L186,16000,Credit card refinancing,9.8,99906,99906,,B
+L187,14000,Debt consolidation,5.32,120000,120000,Senior Brand Manager,A
+L188,24000,Debt consolidation,8.49,72000,72000,nutritionist,B
+L189,35000,Debt consolidation,13.99,75000,75000,RRT,C
+L190,14550,Debt consolidation,15.77,70000,70000,Administrative Assistant,D
+L191,8000,Credit card refinancing,11.48,21610,21610,Valued Associate,B
+L192,32400,Credit card refinancing,9.8,106284,106284,Project Manager,B
+L193,3600,Debt consolidation,13.44,25000,25000,Graduate Student ,C
+L194,10500,Debt consolidation,13.99,110000,110000,SW,C
+L195,3000,Home improvement,11.48,105000,105000,technician,B
+L196,16000,Credit card refinancing,14.85,43000,43000,Nurse,C
+L197,8000,Debt consolidation,7.49,57000,57000,Teacher,A
+L198,19500,Debt consolidation,7.49,85000,85000,Producer,A
+L199,2000,Other,8.49,140000,140000,Dean,B
+L200,16000,Debt consolidation,5.32,96000,96000,Marketing manager,A
+L201,3500,Vacation,10.78,122400,122400,Account Manager,B
+L202,14000,Debt consolidation,9.17,94000,94000,Tax Accountant,B
+L203,24000,Debt consolidation,11.48,95000,95000,Senior Business Analyst,B
+L204,6000,Credit card refinancing,5.32,120000,120000,Director of Risk Management ,A
+L205,24000,Debt consolidation,7.91,100000,100000,Registered Nurse,A
+L206,14875,Debt consolidation,18.49,37231,37231,Case Manager,D
+L207,10000,,11.99,45000,45000,owner,C
+L208,15000,Credit card refinancing,6.99,93000,93000,Purchasing Manager,A
+L209,10000,Credit card refinancing,5.32,68000,68000,Science teacher,A
+L210,18000,Major purchase,9.17,97000,97000,Teacher,B
+L211,24000,Debt consolidation,19.48,97000,97000,fsm,E
+L212,23525,Debt consolidation,17.97,70000,70000,Executive Assistant,D
+L213,12000,Credit card refinancing,9.17,68000,68000,Financial Planner,B
+L214,11000,Other,10.78,297000,297000,Physician,B
+L215,24000,Debt consolidation,9.17,210000,210000,Nurse Anestheti,B
+L216,15000,Debt consolidation,16.59,42900,42900,Revenue Control Specialist,D
+L217,16000,Credit card refinancing,8.49,140000,140000,Engineer ,B
+L218,15000,Debt consolidation,7.91,90000,90000,Human Resources,A
+L219,5000,Debt consolidation,11.99,60000,60000,RN,C
+L220,19100,Debt consolidation,10.78,115000,115000,Administrator,B
+L221,15000,Credit card refinancing,10.78,85000,85000,Sales Manager,B
+L222,30000,Debt consolidation,18.49,85000,85000,Sales,D
+L223,15000,Credit card refinancing,9.8,60000,60000,maintenance,B
+L224,3500,Other,13.99,105000,105000,electrical construction apprentice,C
+L225,20000,Debt consolidation,9.17,130000,130000,,B
+L226,10000,Credit card refinancing,13.44,30160,30160,Mechanic,C
+L227,35000,Debt consolidation,18.49,132500,132500,IT Supervisor,D
+L228,16000,Credit card refinancing,14.85,90000,90000,District Sales Leader,C
+L229,2000,Other,11.99,180000,180000,Financial Manager,C
+L230,12000,Credit card refinancing,9.8,39500,39500,Certified Lead Samsung Experience Consul,B
+L231,8000,Credit card refinancing,6.99,80000,80000,Registered Nurse ,A
+L232,10000,Debt consolidation,9.8,92000,92000,Quality Assurance Wings,B
+L233,25000,Credit card refinancing,7.91,76500,76500,Executive Admin,A
+L234,35000,Debt consolidation,13.99,100000,100000,Executive Director ,C
+L235,25600,Debt consolidation,7.91,150000,150000,Lawyer,A
+L236,4325,Major purchase,11.99,90000,90000,Account manager,C
+L237,6000,,6.99,48000,48000,Teacher,A
+L238,18200,Credit card refinancing,15.77,65000,65000,Accounting Supervisor,D
+L239,10000,Credit card refinancing,6.99,54000,54000,Master Carpenter,A
+L240,30000,Debt consolidation,13.44,81000,81000,legal secretary,C
+L241,13200,Home improvement,5.32,150000,150000,"Director, Accounting & Finance",A
+L242,10000,Debt consolidation,6.99,220000,220000,SALES,A
+L243,3000,Debt consolidation,11.48,75000,75000,O&M Specialist III,B
+L244,20000,Debt consolidation,9.8,96000,96000,Director,B
+L245,13875,Credit card refinancing,11.99,32500,32500,Purchasing Agent,C
+L246,18000,Debt consolidation,6.49,76000,76000,Dispatcher,A
+L247,15225,Debt consolidation,8.49,40000,40000,Teacher,B
+L248,16000,Debt consolidation,11.48,65000,65000,Sr Sales Executive,B
+L249,21000,Other,9.8,125000,125000,manager,B
+L250,13000,Debt consolidation,16.59,40000,40000,Sr. Business Specialist,D
+L251,20000,Major purchase,7.91,120000,120000,Community Manager,A
+L252,31075,Credit card refinancing,7.49,70000,70000,Lieutenant,A
+L253,18000,Credit card refinancing,6.99,120000,120000,Owner,A
+L254,5000,Other,9.17,74967,74967,,B
+L255,4675,Credit card refinancing,17.27,13000,13000,Sales Associate,D
+L256,6000,Debt consolidation,9.8,85140,85140,Automation Engineer,B
+L257,12000,Debt consolidation,12.88,90000,90000,General / sales Manager,C
+L258,13000,Home improvement,13.99,115000,115000,Technician,C
+L259,1800,Other,11.48,50000,50000,Benefits Consultant,B
+L260,4475,Credit card refinancing,16.59,114000,114000,Rph,D
+L261,14400,Debt consolidation,6.49,70000,70000,Sales Engineer,A
+L262,5875,Debt consolidation,7.91,70000,70000,Purchasing Assistant,A
+L263,20000,Debt consolidation,17.97,180000,180000,Nurse Manager,D
+L264,10000,Debt consolidation,6.99,115000,115000,Senior Electrical Engineer,A
+L265,34100,Debt consolidation,12.88,92892,92892,RN,C
+L266,24000,Credit card refinancing,11.48,56457,56457,Lecturer and Curriculum Fellow,B
+L267,30000,Debt consolidation,18.49,300000,300000,Division Manager,D
+L268,5200,Debt consolidation,10.78,160000,160000,President,B
+L269,16800,Debt consolidation,11.99,50000,50000,Project Coordinator,C
+L270,10000,Debt consolidation,11.99,40000,40000,Driver,C
+L271,22000,Debt consolidation,17.97,55000,55000,Service technician,D
+L272,28000,Debt consolidation,5.32,144000,144000,VP Manufacturing,A
+L273,7200,Credit card refinancing,6.49,60000,60000,Sales,A
+L274,18000,Debt consolidation,11.99,41000,41000,Clerk Typist II,C
+L275,8400,Debt consolidation,7.49,30000,30000,iron fitter,A
+L276,5000,Credit card refinancing,14.85,67000,67000,Social Worker Supervisor,C
+L277,5000,Debt consolidation,9.8,55000,55000,Maintenance worker,B
+L278,2400,Debt consolidation,11.48,60000,60000,Chemical operator,B
+L279,15000,Debt consolidation,5.32,60000,60000,Truck Driver,A
+L280,6075,,9.17,64400,64400,Senior Compliance Analyst ,B
+L281,20000,Debt consolidation,10.78,55000,55000,Analytical Research Scientist,B
+L282,6025,Debt consolidation,14.85,110000,110000,Mgr. Quality Control,C
+L283,8400,Debt consolidation,9.17,70000,70000,Budget Services Coordinator,B
+L284,15000,Debt consolidation,12.88,90000,90000,Systems Software Specialist II,C
+L285,19200,Debt consolidation,8.49,72000,72000,HR Assistant,B
+L286,12000,Debt consolidation,15.77,143000,143000,Payroll Manager,D
+L287,28800,Home improvement,12.88,60000,60000,Manager,C
+L288,5000,Debt consolidation,5.32,60000,60000,Orientation ,A
+L289,5000,Home improvement,12.88,60000,60000,Bartender ,C
+L290,31500,Debt consolidation,11.99,120000,120000,Lieutenant ,C
+L291,24000,Debt consolidation,18.49,165000,165000,Laboratory Manager,D
+L292,20000,Debt consolidation,12.88,110000,110000,Division Manager,C
+L293,24000,Debt consolidation,10.78,110000,110000,Division Director OBGYN ,B
+L294,21850,Debt consolidation,17.27,65000,65000,College professor,D
+L295,9500,Home improvement,6.49,126500,126500,Executive manager,A
+L296,20000,Debt consolidation,8.49,98000,98000,registered nurse,B
+L297,20000,Credit card refinancing,13.44,59000,59000,teacher,C
+L298,20000,Home improvement,16.59,135000,135000,IT Consultant,D
+L299,20000,,12.88,65000,65000,Payroll Processor,C
+L300,25200,Credit card refinancing,13.44,78000,78000,Information Assurance Manager,C
+L301,12000,Credit card refinancing,6.99,50000,50000,Store Manager,A
+L302,10000,Debt consolidation,12.88,65000,65000,Revenue tech,C
+L303,12000,Debt consolidation,9.8,36500,36500,Business Office Asst,B
+L304,12000,Debt consolidation,7.91,75000,75000,Registered Nurse,A
+L305,6425,Debt consolidation,15.77,41000,41000,Laboratory Services Technician,D
+L306,12700,Debt consolidation,17.97,32760,32760,Accounting ,D
+L307,35000,Credit card refinancing,13.99,121000,121000,Teacher,C
+L308,16000,Debt consolidation,13.44,110000,110000,Lead Medic/Critical Care Paramedic,C
+L309,15000,Credit card refinancing,13.99,48000,48000,Table Games Supervisor,C
+L310,20550,Debt consolidation,16.59,60000,60000,Flight Attendant ,D
+L311,25000,Home improvement,6.99,127000,127000,Program Analyst,A
+L312,14000,Debt consolidation,19.48,115000,115000,foreman pipe fitter ,E
+L313,16925,Major purchase,21.48,47000,47000,Executive Assistant,E
+L314,4700,Debt consolidation,13.44,22000,22000,Phlebotomist ,C
+L315,5000,Debt consolidation,8.49,25000,25000,,B
+L316,12000,Debt consolidation,14.85,92500,92500,Business Project Manager,C
+L317,12000,Debt consolidation,9.8,55000,55000,Hvac tech,B
+L318,15000,Debt consolidation,6.99,117000,117000,Head of Corporate Physical Security,A
+L319,4900,Debt consolidation,13.44,123000,123000,Project Manager ,C
+L320,18000,Credit card refinancing,7.49,70000,70000,Registered Nurse,A
+L321,18000,Debt consolidation,14.85,48000,48000,administrative assistant,C
+L322,25000,Debt consolidation,17.27,120000,120000,Account manager,D
+L323,15000,Debt consolidation,12.88,50000,50000,line leader,C
+L324,3600,Car financing,11.48,97000,97000,Police Officer,B
+L325,33000,Other,8.49,92250,92250,Systems Administrator II,B
+L326,14950,Debt consolidation,18.99,68000,68000,electrical lead,E
+L327,15000,Debt consolidation,12.88,154000,154000,"Associate Director, Info. Management",C
+L328,7000,Debt consolidation,16.59,30100,30100,Vendor Auditor,D
+L329,15000,Debt consolidation,16.59,35300,35300,Dispatcher II,D
+L330,35000,Debt consolidation,12.88,98000,98000,Sr Software Eng,C
+L331,8000,Credit card refinancing,8.49,58000,58000,,B
+L332,20000,Credit card refinancing,11.99,40000,40000,Driver,C
+L333,14375,Debt consolidation,19.89,80000,80000,Sr Tax Accountant,E
+L334,21000,Debt consolidation,9.17,85000,85000,Paint and Body technician ,B
+L335,3700,Debt consolidation,12.88,65000,65000,warehouse reciever/ lead,C
+L336,8400,Credit card refinancing,9.17,85000,85000,Technical manager,B
+L337,7200,Debt consolidation,11.48,22000,22000,Teller,B
+L338,16800,Debt consolidation,8.49,85400,85400,Director of Admissions,B
+L339,9000,Major purchase,5.32,150000,150000,Financial Advisor,A
+L340,6000,Home improvement,13.99,43700,43700,A/C Technician,C
+L341,34000,Debt consolidation,10.78,76497,76497,Clinical Documentation Specialist,B
+L342,20000,Debt consolidation,11.99,67000,67000,Police Officer,C
+L343,16000,Debt consolidation,12.88,91000,91000,SR. Analyst,C
+L344,11200,Debt consolidation,8.49,70000,70000, Equipment operator ,B
+L345,21000,Debt consolidation,18.49,95000,95000,Commander /03,D
+L346,16000,Credit card refinancing,12.88,65000,65000,Teacher,C
+L347,6000,Debt consolidation,7.91,50000,50000,Mortician,A
+L348,9100,Credit card refinancing,6.49,84000,84000,Lean Manger,A
+L349,10000,Other,6.99,60000,60000,foodservice manager,A
+L350,28000,Debt consolidation,10.78,135000,135000,Process Facility Engineer,B
+L351,30000,Other,27.49,115000,115000,Service Technian Lead,G
+L352,8450,Debt consolidation,11.99,37380,37380,Shipping & Receiving,C
+L353,8775,Credit card refinancing,22.45,75000,75000,Service Rep,F
+L354,6000,Debt consolidation,5.32,72000,72000,Engineering Manager,A
+L355,10000,Debt consolidation,5.32,75000,75000,letter carrier,A
+L356,10000,Debt consolidation,15.77,128000,128000,General Manager,D
+L357,7200,Debt consolidation,17.27,22000,22000,Part-time Supervisor ,D
+L358,20000,Debt consolidation,14.85,75000,75000,Accounting Manager,C
+L359,20000,Debt consolidation,9.17,95750,95750,service advisor ,B
+L360,5000,Debt consolidation,5.32,130000,130000,Senior Buyer,A
+L361,15000,Debt consolidation,9.8,35179,35179,Exec. Administrative,B
+L362,23950,Credit card refinancing,17.97,160000,160000,SALES MANAGER,D
+L363,15000,Debt consolidation,10.78,160000,160000,Cheif Electronic Tech ,B
+L364,2250,Credit card refinancing,8.49,60000,60000,PTC Support,B
+L365,14000,Debt consolidation,13.44,40000,40000,manager,C
+L366,14000,Debt consolidation,12.88,80000,80000,Sales Account Rep,C
+L367,18000,Debt consolidation,7.49,83000,83000,Sr. Designer,A
+L368,12000,Other,5.32,72500,72500,Executive Steward,A
+L369,5600,Credit card refinancing,10.78,46000,46000,Department manager,B
+L370,35000,Debt consolidation,16.59,83000,83000,Certified Teacher,D
+L371,8000,Other,12.88,43500,43500,admin//qa,C
+L372,2400,Debt consolidation,13.44,26000,26000,Logistics,C
+L373,35000,Debt consolidation,17.27,98000,98000,irrigation technician,D
+L374,35000,Credit card refinancing,10.78,140000,140000,National Sales Manager,B
+L375,7000,Other,12.88,55000,55000,BILLING REPRESENTATIVE,C
+L376,8000,Debt consolidation,11.99,23200,23200,Manufacturing associate,C
+L377,6125,Debt consolidation,17.27,70000,70000,High Voltage Electrician/Plant Engineer,D
+L378,10400,Debt consolidation,13.44,150000,150000,Senior Director,C
+L379,30000,Debt consolidation,7.91,134000,134000,District Manager,A
+L380,4000,Debt consolidation,14.85,30000,30000,CNA,C
+L381,10000,Debt consolidation,10.78,125000,125000,Pharmacist,B
+L382,16000,Debt consolidation,7.91,50000,50000,lead operator,A
+L383,24000,Home improvement,17.27,67000,67000,Special Education Teacher,D
+L384,19225,,26.99,56600,56600,OTR Truck Driver,G
+L385,13000,Home improvement,12.88,130000,130000,Sr. Ops Coordinator,C
+L386,16800,Debt consolidation,9.17,52000,52000,Public Services Librarian,B
+L387,2000,Credit card refinancing,6.49,35037,35037,GIS Specialist,A
+L388,19200,Debt consolidation,5.32,50000,50000,Truck driver,A
+L389,10000,Debt consolidation,13.44,140000,140000,General Manager,C
+L390,35000,Debt consolidation,7.91,165000,165000,agent,A
+L391,15000,Debt consolidation,12.88,60000,60000,Area Manager,C
+L392,35000,Debt consolidation,15.77,84468,84468,Registered Nurse,D
+L393,18000,Credit card refinancing,8.49,55000,55000,General Manager,B
+L394,8000,Debt consolidation,9.8,40000,40000,driver ,B
+L395,15000,Debt consolidation,12.88,50000,50000,Credit Reager,C
+L396,17400,Debt consolidation,8.49,175000,175000,Owner,B
+L397,35000,Credit card refinancing,11.99,156000,156000,Assistant Vice President,C
+L398,12000,Debt consolidation,9.17,100000,100000,Senior Associate,B
+L399,24000,Debt consolidation,9.17,66000,66000,teacher/school employee,B
+L400,8000,Home improvement,7.91,66500,66500,Designer/Programmer,A
+L401,16775,Debt consolidation,19.89,74000,74000,Media Operations Manager,E
+L402,8000,Credit card refinancing,8.49,48000,48000,Truck Driver,B
+L403,21000,Debt consolidation,10.78,100000,100000,Problem Manager Level 2,B
+L404,20000,Other,13.44,150000,150000,It director,C
+L405,10000,Credit card refinancing,12.88,113000,113000,Fire Chief,C
+L406,6000,Debt consolidation,7.91,81120,81120,Benefits Subject Matter Expert,A
+L407,6000,Debt consolidation,18.49,54744,54744,,D
+L408,8400,Credit card refinancing,11.48,80000,80000,Customer advocate,B
+L409,10000,Credit card refinancing,12.88,33000,33000,teacher aid,C
+L410,6000,Credit card refinancing,9.17,72000,72000,Controller honduras,B
+L411,20000,Credit card refinancing,8.49,70000,70000,Executive Chef,B
+L412,4600,Credit card refinancing,11.99,14688,14688,,C
+L413,20000,,17.27,50000,50000,Electrician,D
+L414,15000,Credit card refinancing,9.17,48112,48112,Customer Service Manager,B
+L415,12000,Debt consolidation,12.88,40000,40000,server,C
+L416,5000,Debt consolidation,10.78,75000,75000,Reliability Mechanic,B
+L417,6000,Debt consolidation,10.78,57000,57000,Procurement ,B
+L418,10050,Credit card refinancing,17.27,34000,34000,Library Associate,D
+L419,6000,Debt consolidation,5.32,43000,43000,Supervisor,A
+L420,28000,Debt consolidation,20.5,84000,84000,Engineer Instructor,E
+L421,15000,Credit card refinancing,5.32,81000,81000,teacher assistant,A
+L422,10500,Other,8.49,168400,168400,Project Manager,B
+L423,10000,Debt consolidation,13.44,34000,34000,MHW2,C
+L424,3600,Debt consolidation,7.49,62000,62000,Accounts Receivable Manager,A
+L425,10000,Other,11.48,72000,72000,Accounting Assistant,B
+L426,30000,Credit card refinancing,8.49,115000,115000,pit Manager,B
+L427,8000,Debt consolidation,11.99,35000,35000,Customer service,C
+L428,15000,Debt consolidation,16.59,55000,55000,CNA,D
+L429,21600,Debt consolidation,8.49,60000,60000,Finisher Carpenter,B
+L430,12000,,9.17,105000,105000,Outbound Warehouse Manager,B
+L431,28000,Credit card refinancing,7.91,102000,102000,Nurse Practitioner,A
+L432,6400,Credit card refinancing,11.48,33000,33000,sales associate,B
+L433,15000,Car financing,9.17,48000,48000,Intl Logistics LifeScience Agent,B
+L434,13000,Credit card refinancing,7.91,70000,70000,Consultant,A
+L435,10000,Credit card refinancing,13.44,80000,80000,assistant svc manager ,C
+L436,24800,,7.91,95000,95000,account manager,A
+L437,12000,Other,10.78,56000,56000,Maint. Machinist,B
+L438,10800,Car financing,8.49,96000,96000,Senior Consultant,B
+L439,15000,,11.99,65000,65000,Lead Tech,C
+L440,24000,Credit card refinancing,5.32,120000,120000,Pharmacist,A
+L441,2000,Debt consolidation,13.44,75600,75600,Engineer,C
+L442,22600,Debt consolidation,15.77,53867,53867,Teacher,D
+L443,13500,Debt consolidation,23.13,50000,50000,Electrician,F
+L444,6000,,10.78,66000,66000,"Pastor assigned-Minneapolis, MN",B
+L445,20000,Credit card refinancing,9.8,84000,84000,CPS Supervisor,B
+L446,5000,Debt consolidation,6.49,55000,55000,Pressoperater,A
+L447,20000,Credit card refinancing,7.49,100000,100000,Pilot,A
+L448,12000,Debt consolidation,9.8,103000,103000,Sergeant Major,B
+L449,32000,Credit card refinancing,11.48,107000,107000,Professor,B
+L450,15200,Debt consolidation,13.99,69998,69998,Engineer,C
+L451,12500,Debt consolidation,11.99,60000,60000,Owner,C
+L452,21000,Debt consolidation,10.78,81000,81000,IT Specialist,B
+L453,16000,Credit card refinancing,8.49,35000,35000,Customer Care coordinator,B
+L454,24650,Debt consolidation,11.48,100000,100000,Supervising Psychiatric Social Worker,B
+L455,11000,Debt consolidation,7.91,77000,77000,Senior Financial/Budget Analyst,A
+L456,22400,Credit card refinancing,14.85,70000,70000,librarian,C
+L457,15125,Debt consolidation,18.49,61000,61000,driver,D
+L458,8725,Debt consolidation,11.99,60000,60000,account sales mng,C
+L459,8000,Debt consolidation,7.91,63800,63800,Teacher,A
+L460,8000,Major purchase,9.17,52000,52000,Wholesale Mgr,B
+L461,11000,,14.85,42240,42240,Field Technician,C
+L462,11725,Debt consolidation,18.99,82000,82000,Teacher,E
+L463,28500,Debt consolidation,18.99,70000,70000,Sales,E
+L464,25000,Credit card refinancing,6.49,120000,120000,Manager,A
+L465,7000,Moving and relocation,9.17,70000,70000,Nurse Lvn ,B
+L466,12000,Debt consolidation,9.8,100000,100000,Director of Channel Sales & Marketing,B
+L467,20000,Credit card refinancing,8.49,40000,40000,Sales,B
+L468,5875,Debt consolidation,15.77,56000,56000,manufacturing driver,D
+L469,18000,Debt consolidation,18.49,145000,145000,Sales Account Manager,D
+L470,28000,Home improvement,7.91,160000,160000,Group Manager,A
+L471,35000,Moving and relocation,9.8,205000,205000,Pilot,B
+L472,31800,Debt consolidation,16.59,65000,65000,Finance and Admn. Director,D
+L473,25000,Debt consolidation,17.97,105000,105000,Driver,D
+L474,16000,Debt consolidation,17.27,54000,54000,O&M Specialist II,D
+L475,25000,Credit card refinancing,10.78,82000,82000,Business Analyst,B
+L476,35000,Credit card refinancing,16.59,139000,139000,Registered Nurse,D
+L477,18000,Credit card refinancing,7.91,60000,60000,Sales,A
+L478,10000,Debt consolidation,7.49,55500,55500,Support Staff,A
+L479,8000,Credit card refinancing,14.85,53040,53040,ESTIMATING ASSISTANT,C
+L480,12000,Debt consolidation,13.44,75000,75000,Team member ,C
+L481,15000,Debt consolidation,5.32,75000,75000,,A
+L482,20000,Home buying,11.99,155000,155000,CEO/Therapist,C
+L483,14000,Business,19.89,80000,80000,Program Group Leader,E
+L484,20500,Debt consolidation,8.49,77700,77700,,B
+L485,4700,Debt consolidation,13.99,88000,88000,Sales,C
+L486,28000,Debt consolidation,9.17,76008,76008,Attorney,B
+L487,12000,Debt consolidation,7.91,71000,71000,HR Director,A
+L488,7200,Credit card refinancing,7.91,42500,42500,Sales Associate,A
+L489,11000,Debt consolidation,7.49,33000,33000,,A
+L490,11000,Debt consolidation,13.99,52000,52000,sales/merchandiser,C
+L491,3500,Car financing,9.8,45000,45000,Operation to Cash Analyst,B
+L492,23850,Major purchase,13.44,111000,111000,System Administrator,C
+L493,3600,Other,15.77,70000,70000,Production Supervisor,D
+L494,15000,Debt consolidation,7.91,54000,54000,Teacher,A
+L495,16500,Credit card refinancing,11.99,76000,76000,Information Specialist 4,C
+L496,8275,Credit card refinancing,10.78,55000,55000,,B
+L497,35000,Home improvement,17.27,80000,80000,Director of Catering & Events,D
+L498,20000,Debt consolidation,5.32,106000,106000,Radiology Ancillary Manager ,A
+L499,22800,Debt consolidation,5.32,76000,76000,Owner,A
+L500,10000,Credit card refinancing,8.49,35000,35000,Accounting Clerk,B

@@ -1,0 +1,335 @@
+{
+  "ID": {
+    "name": "ID",
+    "dataType": "string",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": [
+      "Average current balance ($)",
+      "Mortgage accounts",
+      "Satisfactory accounts",
+      "Total current balance ($)",
+
+      "FICO score (high)",
+      "FICO score (low)",
+      "Open credit lines",
+      "Total credit limit ($)",
+      "Total credit lines",
+
+      "Delinquent accounts",
+      "Delinquent accounts total debt ($)",
+      "Months since last delinquency",
+
+      "Loan grade",
+      "Loan interest rate (%)",
+      "Loan term",
+
+      "Annual income ($)",
+      "Home ownership",
+      "Job title",
+      "Length of employment (years)",
+
+      "Bankcards at >75% limit (%)",
+      "Bankruptcies",
+      "Derogatory records",
+      "Ratio of debt payments to income",
+      "Tax liens"
+    ]
+  },
+  "Loan amount ($)": {
+    "name": "Loan amount ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Loan intent": {
+    "name": "Loan intent",
+    "dataType": "string",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Average current balance ($)": {
+    "name": "Average current balance ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "accounts.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Mortgage accounts": {
+    "name": "Mortgage accounts",
+    "dataType": "number",
+    "range": [],
+    "source": "accounts.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Satisfactory accounts": {
+    "name": "Satisfactory accounts",
+    "dataType": "number",
+    "range": [],
+    "source": "accounts.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Total current balance ($)": {
+    "name": "Total current balance ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "accounts.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "FICO score (high)": {
+    "name": "FICO score (high)",
+    "dataType": "number",
+    "range": [],
+    "source": "credit.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "FICO score (low)": {
+    "name": "FICO score (low)",
+    "dataType": "number",
+    "range": [],
+    "source": "credit.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Open credit lines": {
+    "name": "Open credit lines",
+    "dataType": "number",
+    "range": [],
+    "source": "credit.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Total credit limit ($)": {
+    "name": "Total credit limit ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "credit.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Total credit lines": {
+    "name": "Total credit lines",
+    "dataType": "number",
+    "range": [],
+    "source": "credit.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Delinquent accounts": {
+    "name": "Delinquent accounts",
+    "dataType": "number",
+    "range": [],
+    "source": "delinquency.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Delinquent accounts total debt ($)": {
+    "name": "Delinquent accounts total debt ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "delinquency.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Months since last delinquency": {
+    "name": "Months since last delinquency",
+    "dataType": "number",
+    "range": [],
+    "source": "delinquency.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Loan grade": {
+    "name": "Loan grade",
+    "dataType": "string",
+    "range": [],
+    "source": "loan.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Loan interest rate (%)": {
+    "name": "Loan interest rate (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "loan.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Loan term": {
+    "name": "Loan term",
+    "dataType": "string",
+    "range": [],
+    "source": "loan.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Annual income ($)": {
+    "name": "Annual income ($)",
+    "dataType": "number",
+    "range": [],
+    "source": "personal.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Home ownership": {
+    "name": "Home ownership",
+    "dataType": "string",
+    "range": [],
+    "source": "personal.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Job title": {
+    "name": "Job title",
+    "dataType": "string",
+    "range": [],
+    "source": "personal.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Length of employment (years)": {
+    "name": "Length of employment (years)",
+    "dataType": "number",
+    "range": [],
+    "source": "personal.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Bankcards at >75% limit (%)": {
+    "name": "Bankcards at >75% limit (%)",
+    "dataType": "number",
+    "range": [],
+    "source": "records.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Bankruptcies": {
+    "name": "Bankruptcies",
+    "dataType": "number",
+    "range": [],
+    "source": "records.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Derogatory records": {
+    "name": "Derogatory records",
+    "dataType": "number",
+    "range": [],
+    "source": "records.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Ratio of debt payments to income": {
+    "name": "Ratio of debt payments to income",
+    "dataType": "number",
+    "range": [],
+    "source": "records.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Tax liens": {
+    "name": "Tax liens",
+    "dataType": "number",
+    "range": [],
+    "source": "records.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  }
+}

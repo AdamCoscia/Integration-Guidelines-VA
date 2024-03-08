@@ -1,0 +1,501 @@
+ID,Loan amount ($),Loan intent,Annual income ($),Loan interest rate (%),Loan grade,Length of employment (years),Home ownership,Ratio of debt payments to income
+L001,3600,Debt consolidation,55000,13.99,C,10,Mortgage,5.91
+L002,24700,Business,65000,11.99,C,10,Mortgage,16.06
+L003,20000,,63000,10.78,B,10,Mortgage,10.78
+L004,35000,Debt consolidation,110000,14.85,C,10,Mortgage,17.06
+L005,10400,Major purchase,104433,22.45,F,3,Mortgage,25.37
+L006,11950,Debt consolidation,34000,13.44,C,4,Rent,10.2
+L007,20000,Debt consolidation,180000,9.17,B,10,Mortgage,14.67
+L008,20000,Major purchase,85000,8.49,B,10,Mortgage,17.61
+L009,10000,Credit card refinancing,85000,6.49,A,6,Rent,13.07
+L010,8000,Credit card refinancing,42000,11.48,B,10,Mortgage,34.8
+L011,22400,Debt consolidation,95000,12.88,C,6,Mortgage,22.98
+L012,16000,Debt consolidation,70000,12.88,C,1,Mortgage,26.4
+L013,1400,,64000,12.88,C,3,Mortgage,34.95
+L014,18000,Debt consolidation,150000,19.48,E,7,Rent,9.39
+L015,28000,Debt consolidation,92000,6.49,A,10,Mortgage,21.6
+L016,9600,Credit card refinancing,60000,7.49,A,8,Mortgage,22.44
+L017,25000,Debt consolidation,109000,7.49,A,10,Mortgage,26.02
+L018,18000,Debt consolidation,112000,11.99,C,10,Mortgage,8.68
+L019,23000,Credit card refinancing,64000,8.49,B,5,Rent,18.28
+L020,8650,Debt consolidation,55000,19.89,E,8,Rent,25.49
+L021,29900,Debt consolidation,65000,12.88,C,10,Mortgage,21.77
+L022,16000,Credit card refinancing,48000,14.85,C,10,Mortgage,33.18
+L023,28000,Debt consolidation,125000,13.44,C,2,Own,7.49
+L024,5000,Credit card refinancing,79000,13.44,C,2,Rent,12.7
+L025,6000,Debt consolidation,100000,7.49,A,10,Mortgage,13.28
+L026,4225,Debt consolidation,35000,14.85,C,5,Rent,15.22
+L027,20000,Debt consolidation,65000,5.32,A,9,Own,18.83
+L028,16000,Debt consolidation,109000,17.97,D,1,Mortgage,23.35
+L029,17600,Credit card refinancing,88000,5.32,A,1,Mortgage,26.59
+L030,15000,Home improvement,44000,5.32,A,10,Mortgage,15.34
+L031,16000,Business,65000,12.88,C,10,Mortgage,18.96
+L032,24250,,75000,24.24,F,4,Mortgage,20.84
+L033,12000,Debt consolidation,98000,10.78,B,1,Rent,24.04
+L034,25000,Debt consolidation,79000,13.99,C,9,Mortgage,34.53
+L035,16800,Debt consolidation,118000,12.88,C,10,Mortgage,34.29
+L036,7000,Credit card refinancing,59000,7.49,A,10,Mortgage,13.06
+L037,21000,Credit card refinancing,52000,13.99,C,1,Rent,14.47
+L038,27500,Other,195000,14.85,C,10,Mortgage,6.79
+L039,7200,Home improvement,72500,11.48,B,10,Mortgage,8.47
+L040,20000,Credit card refinancing,110000,14.85,C,6,Rent,12.45
+L041,20000,Home buying,70000,15.77,D,5,Rent,22.21
+L042,10000,Credit card refinancing,55000,17.97,D,2,Mortgage,35.7
+L043,16000,Debt consolidation,142000,13.99,C,9,Mortgage,17.74
+L044,20000,Debt consolidation,75000,9.8,B,5,Rent,23.45
+L045,8650,Credit card refinancing,100000,5.32,A,1,Mortgage,7.28
+L046,21000,Debt consolidation,54649,13.44,C,2,Rent,12.14
+L047,7200,,55000,15.77,D,1,Rent,17.35
+L048,8800,Credit card refinancing,92000,9.8,B,10,Mortgage,5.18
+L049,14650,Debt consolidation,43160,20.5,E,2,Rent,21.44
+L050,2500,Other,50000,17.27,D,10,Mortgage,17.6
+L051,11000,Credit card refinancing,69000,9.17,B,10,Mortgage,21.34
+L052,23850,Debt consolidation,68046,17.27,D,10,Own,24.71
+L053,15700,Credit card refinancing,48000,16.59,D,6,Mortgage,29.13
+L054,28800,Debt consolidation,60000,11.99,C,10,Own,18.01
+L055,10000,Home buying,91392,12.88,C,4,Mortgage,9.44
+L056,24000,Home improvement,77900,9.8,B,0,Own,10.24
+L057,28000,Debt consolidation,75000,18.49,D,10,Mortgage,31.88
+L058,35000,Home improvement,128000,11.99,C,10,Mortgage,6.46
+L059,7200,Debt consolidation,50000,9.17,B,10,Mortgage,19.25
+L060,10000,Credit card refinancing,40100,7.91,A,2,Rent,10.81
+L061,16000,Credit card refinancing,42000,13.44,C,1,Rent,9.6
+L062,21875,Credit card refinancing,47590,11.99,C,1,Rent,17.76
+L063,14025,Debt consolidation,39000,18.49,D,10,Mortgage,18
+L064,35000,Debt consolidation,106000,12.88,C,7,Mortgage,17.36
+L065,20000,Debt consolidation,145000,12.88,C,10,Mortgage,12.28
+L066,14000,,60000,14.85,C,2,Mortgage,24.29
+L067,16000,Credit card refinancing,62000,8.49,B,5,Mortgage,28.92
+L068,28000,Debt consolidation,85000,14.85,C,2,Mortgage,28.52
+L069,20000,Debt consolidation,70000,13.99,C,10,Own,16.9
+L070,17600,,44000,19.89,E,1,Rent,17.56
+L071,4200,Debt consolidation,102500,13.44,C,10,Mortgage,26.21
+L072,19000,Credit card refinancing,75000,14.85,C,9,Own,13.09
+L073,15850,Debt consolidation,45000,23.13,F,10,Own,34.85
+L074,10000,Debt consolidation,42500,11.99,C,10,Rent,31.04
+L075,30000,Home improvement,175000,15.77,D,2,Mortgage,18.5
+L076,1500,Vacation,45000,6.49,A,0,Mortgage,16.11
+L077,25000,Credit card refinancing,150000,5.32,A,1,Mortgage,9.54
+L078,16250,Debt consolidation,50000,13.44,C,2,Mortgage,34.95
+L079,20200,Debt consolidation,60000,18.49,D,4,Rent,34.84
+L080,23975,Credit card refinancing,70000,19.89,E,10,Rent,33.2
+L081,15000,Debt consolidation,65000,10.78,B,10,Mortgage,29.28
+L082,10000,Debt consolidation,41600,10.78,B,3,Mortgage,15.78
+L083,15000,Credit card refinancing,110000,8.49,B,6,Mortgage,13.24
+L084,23100,Car financing,110000,20.5,E,2,Own,20.43
+L085,27300,Home improvement,65000,17.27,D,10,Mortgage,25.63
+L086,25000,Credit card refinancing,135000,11.48,B,10,Mortgage,4.65
+L087,15000,Credit card refinancing,40000,10.78,B,1,Rent,10.17
+L088,10000,Debt consolidation,30000,16.59,D,1,Rent,30.84
+L089,18500,Debt consolidation,70000,12.88,C,10,Mortgage,13.2
+L090,5000,Credit card refinancing,32000,7.91,A,6,Rent,13.73
+L091,9000,Debt consolidation,50000,9.17,B,1,Own,11.98
+L092,11000,Credit card refinancing,85000,6.49,A,10,Mortgage,15
+L093,20000,Debt consolidation,55000,6.49,A,6,Mortgage,29.15
+L094,15000,Debt consolidation,80000,5.32,A,0,Rent,20.18
+L095,12000,Debt consolidation,53750,5.32,A,4,Mortgage,15.3
+L096,8000,Debt consolidation,45000,10.78,B,1,Mortgage,21.23
+L097,12000,Credit card refinancing,40000,10.78,B,3,Rent,31.95
+L098,18000,Debt consolidation,75000,7.49,A,5,Mortgage,25.65
+L099,3600,Debt consolidation,85000,11.48,B,1,Mortgage,17.44
+L100,7200,Debt consolidation,20000,17.27,D,9,Own,13.21
+L101,15000,Credit card refinancing,77213,13.44,C,4,Rent,18.17
+L102,5000,Other,72000,9.8,B,6,Own,6.52
+L103,11550,Credit card refinancing,38000,16.59,D,5,Rent,21.07
+L104,33600,Debt consolidation,104000,10.78,B,8,Rent,14.01
+L105,17925,Debt consolidation,39000,17.27,D,10,Own,27.78
+L106,17475,Debt consolidation,39750,13.99,C,2,Rent,23.58
+L107,9000,Debt consolidation,47000,8.49,B,8,Mortgage,8.43
+L108,12000,Debt consolidation,65000,9.8,B,10,Mortgage,23.84
+L109,4000,Debt consolidation,44500,9.17,B,2,Rent,15.83
+L110,10500,Credit card refinancing,70100,15.77,D,3,Rent,8.51
+L111,14000,Medical expenses,100000,9.8,B,4,Mortgage,15.97
+L112,6000,Car financing,105000,7.91,A,10,Mortgage,14.45
+L113,16000,Home improvement,90000,12.88,C,10,Own,6.39
+L114,15000,Debt consolidation,92000,9.8,B,3,Mortgage,13.89
+L115,12000,Debt consolidation,39400,9.17,B,4,Mortgage,26.32
+L116,10000,Debt consolidation,33000,11.48,B,2,Rent,21.75
+L117,4200,Other,32000,13.99,C,2,Rent,31.02
+L118,35000,Debt consolidation,120000,20.5,E,8,Mortgage,35.69
+L119,5475,Debt consolidation,108000,18.99,E,10,Mortgage,33.47
+L120,16000,Debt consolidation,60000,7.91,A,2,Mortgage,28.58
+L121,6000,Debt consolidation,38700,13.44,C,3,Own,23.26
+L122,24000,Debt consolidation,75000,9.17,B,10,Mortgage,10.11
+L123,10000,Debt consolidation,60000,12.88,C,1,Rent,3.3
+L124,6900,Debt consolidation,80000,19.89,E,10,Rent,9.57
+L125,22400,Credit card refinancing,48000,9.8,B,10,Mortgage,28.48
+L126,15975,Debt consolidation,58800,16.59,D,4,Mortgage,20.45
+L127,21600,Debt consolidation,54000,13.44,C,9,Mortgage,17.64
+L128,24000,Credit card refinancing,82193,13.99,C,8,Rent,29.92
+L129,14400,Debt consolidation,73320,19.48,E,3,Rent,17.02
+L130,8000,,42000,13.99,C,1,Rent,23.26
+L131,7000,Debt consolidation,83000,13.99,C,2,Rent,21.96
+L132,20000,Debt consolidation,55000,10.78,B,1,Own,36.94
+L133,25825,Debt consolidation,68000,26.06,F,6,Rent,31.68
+L134,24575,Debt consolidation,92000,22.45,F,10,Mortgage,24.16
+L135,3200,Medical expenses,30407,8.49,B,10,Rent,20.61
+L136,22875,Debt consolidation,137000,15.77,D,10,Mortgage,32.3
+L137,16000,Debt consolidation,80000,14.85,C,10,Mortgage,19.59
+L138,35000,Debt consolidation,125000,13.44,C,1,Mortgage,24.19
+L139,2400,Home improvement,52000,17.27,D,2,Mortgage,28.38
+L140,25000,Debt consolidation,132000,7.49,A,0,Mortgage,13.83
+L141,8800,Credit card refinancing,55000,12.88,C,2,Rent,35.52
+L142,2500,Debt consolidation,16488,11.48,B,0,Rent,38.06
+L143,8000,Credit card refinancing,50000,5.32,A,1,Rent,14.86
+L144,20000,Debt consolidation,78000,11.99,C,10,Mortgage,27.1
+L145,35000,Major purchase,110000,12.88,C,10,Mortgage,13.39
+L146,15000,Debt consolidation,45000,7.49,A,0,Mortgage,10.67
+L147,16000,Debt consolidation,70000,15.77,D,1,Mortgage,8.78
+L148,10800,Debt consolidation,40000,13.99,C,3,Rent,26.13
+L149,7500,Debt consolidation,15000,17.97,D,10,Own,37.2
+L150,16000,Debt consolidation,63000,10.78,B,5,Rent,35.19
+L151,9000,Credit card refinancing,49000,5.32,A,10,Mortgage,21.63
+L152,9500,,28000,15.77,D,10,Rent,27.95
+L153,10000,Debt consolidation,25000,7.91,A,2,Own,29.91
+L154,6000,Debt consolidation,49000,7.91,A,10,Mortgage,17.92
+L155,15600,Major purchase,52000,13.44,C,10,Mortgage,15.37
+L156,35000,Debt consolidation,90000,8.49,B,1,Own,13.36
+L157,5000,Debt consolidation,78000,11.48,B,9,Mortgage,21.21
+L158,20400,Credit card refinancing,75000,18.49,D,2,Mortgage,38.65
+L159,8000,Debt consolidation,33130,17.97,D,0,Mortgage,11.52
+L160,16000,Debt consolidation,87500,10.78,B,3,Rent,13.74
+L161,18000,Debt consolidation,80000,7.91,A,10,Mortgage,15.56
+L162,35000,Debt consolidation,105000,9.17,B,1,Rent,25.07
+L163,13150,Major purchase,40000,5.32,A,1,Rent,20.25
+L164,5600,Credit card refinancing,48000,9.17,B,8,Rent,19.85
+L165,23000,,90247,9.8,B,9,Mortgage,17.09
+L166,12600,Debt consolidation,175000,14.85,C,1,Mortgage,11.75
+L167,11000,Debt consolidation,55000,16.59,D,8,Mortgage,16.85
+L168,4000,Debt consolidation,41501,11.99,C,3,Rent,12.9
+L169,20000,,75000,13.44,C,9,Mortgage,20.67
+L170,20000,Debt consolidation,60000,11.48,B,5,Rent,22.62
+L171,10000,Credit card refinancing,59307,9.17,B,10,Mortgage,32.7
+L172,18850,Debt consolidation,55000,21.48,E,1,Mortgage,15.56
+L173,21000,Debt consolidation,82000,11.99,C,10,Mortgage,15.07
+L174,10500,Debt consolidation,60000,8.49,B,4,Mortgage,15.39
+L175,4575,Home buying,56000,17.27,D,5,Rent,10.03
+L176,5000,Other,17000,11.48,B,1,Rent,27.9
+L177,8000,Home improvement,45000,6.99,A,0,Mortgage,15.15
+L178,5000,Debt consolidation,30000,11.99,C,1,Rent,9.16
+L179,9075,Credit card refinancing,40000,5.32,A,10,Mortgage,8.39
+L180,24000,Debt consolidation,75181.21,12.88,C,2,Mortgage,31.57
+L181,12500,Credit card refinancing,52000,7.49,A,10,Rent,6.83
+L182,19600,Debt consolidation,80000,15.77,D,8,Mortgage,18.99
+L183,35000,Debt consolidation,90000,13.99,C,2,Mortgage,10.97
+L184,28000,Debt consolidation,75000,8.49,B,1,Mortgage,24.83
+L185,14000,Debt consolidation,45500,15.77,D,1,Rent,19.24
+L186,16000,Credit card refinancing,99906,9.8,B,0,Mortgage,6.97
+L187,14000,Debt consolidation,120000,5.32,A,4,Rent,6.73
+L188,24000,Debt consolidation,72000,8.49,B,8,Mortgage,22.8
+L189,35000,Debt consolidation,75000,13.99,C,6,Own,18.19
+L190,14550,Debt consolidation,70000,15.77,D,10,Mortgage,34.44
+L191,8000,Credit card refinancing,21610,11.48,B,1,Rent,31.06
+L192,32400,Credit card refinancing,106284,9.8,B,10,Mortgage,24.11
+L193,3600,Debt consolidation,25000,13.44,C,1,Rent,26.45
+L194,10500,Debt consolidation,110000,13.99,C,10,Mortgage,30.73
+L195,3000,Home improvement,105000,11.48,B,10,Mortgage,12.09
+L196,16000,Credit card refinancing,43000,14.85,C,2,Rent,17.11
+L197,8000,Debt consolidation,57000,7.49,A,10,Mortgage,25.01
+L198,19500,Debt consolidation,85000,7.49,A,1,Rent,13.74
+L199,2000,Other,140000,8.49,B,8,Mortgage,6.78
+L200,16000,Debt consolidation,96000,5.32,A,8,Mortgage,14.45
+L201,3500,Vacation,122400,10.78,B,8,Mortgage,17.97
+L202,14000,Debt consolidation,94000,9.17,B,4,Rent,32.3
+L203,24000,Debt consolidation,95000,11.48,B,3,Own,26.89
+L204,6000,Credit card refinancing,120000,5.32,A,2,Own,3.98
+L205,24000,Debt consolidation,100000,7.91,A,9,Mortgage,26.83
+L206,14875,Debt consolidation,37231,18.49,D,3,Rent,36.3
+L207,10000,,45000,11.99,C,7,Rent,37.55
+L208,15000,Credit card refinancing,93000,6.99,A,2,Mortgage,14.86
+L209,10000,Credit card refinancing,68000,5.32,A,10,Rent,14.61
+L210,18000,Major purchase,97000,9.17,B,10,Own,22.22
+L211,24000,Debt consolidation,97000,19.48,E,10,Rent,7.23
+L212,23525,Debt consolidation,70000,17.97,D,5,Mortgage,13.33
+L213,12000,Credit card refinancing,68000,9.17,B,10,Own,14.53
+L214,11000,Other,297000,10.78,B,10,Rent,12.69
+L215,24000,Debt consolidation,210000,9.17,B,2,Mortgage,20.16
+L216,15000,Debt consolidation,42900,16.59,D,8,Rent,36.98
+L217,16000,Credit card refinancing,140000,8.49,B,10,Mortgage,14.68
+L218,15000,Debt consolidation,90000,7.91,A,5,Rent,17.07
+L219,5000,Debt consolidation,60000,11.99,C,8,Mortgage,19.56
+L220,19100,Debt consolidation,115000,10.78,B,10,Mortgage,14.35
+L221,15000,Credit card refinancing,85000,10.78,B,3,Own,10.14
+L222,30000,Debt consolidation,85000,18.49,D,2,Mortgage,35.93
+L223,15000,Credit card refinancing,60000,9.8,B,10,Rent,25.56
+L224,3500,Other,105000,13.99,C,10,Rent,17.65
+L225,20000,Debt consolidation,130000,9.17,B,2,Rent,12.77
+L226,10000,Credit card refinancing,30160,13.44,C,7,Rent,29.45
+L227,35000,Debt consolidation,132500,18.49,D,9,Mortgage,14.48
+L228,16000,Credit card refinancing,90000,14.85,C,10,Rent,16.65
+L229,2000,Other,180000,11.99,C,10,Mortgage,12.66
+L230,12000,Credit card refinancing,39500,9.8,B,2,Rent,25.43
+L231,8000,Credit card refinancing,80000,6.99,A,1,Mortgage,18.92
+L232,10000,Debt consolidation,92000,9.8,B,10,Mortgage,10.55
+L233,25000,Credit card refinancing,76500,7.91,A,10,Rent,15.65
+L234,35000,Debt consolidation,100000,13.99,C,10,Rent,19.43
+L235,25600,Debt consolidation,150000,7.91,A,3,Own,10.88
+L236,4325,Major purchase,90000,11.99,C,10,Own,16.96
+L237,6000,,48000,6.99,A,10,Own,33.78
+L238,18200,Credit card refinancing,65000,15.77,D,8,Rent,29.28
+L239,10000,Credit card refinancing,54000,6.99,A,3,Rent,19.38
+L240,30000,Debt consolidation,81000,13.44,C,5,Mortgage,12.03
+L241,13200,Home improvement,150000,5.32,A,2,Mortgage,15.45
+L242,10000,Debt consolidation,220000,6.99,A,5,Rent,4.76
+L243,3000,Debt consolidation,75000,11.48,B,5,Mortgage,22.82
+L244,20000,Debt consolidation,96000,9.8,B,10,Own,19.04
+L245,13875,Credit card refinancing,32500,11.99,C,10,Mortgage,23.53
+L246,18000,Debt consolidation,76000,6.49,A,10,Mortgage,14.4
+L247,15225,Debt consolidation,40000,8.49,B,3,Own,21.21
+L248,16000,Debt consolidation,65000,11.48,B,6,Rent,21.16
+L249,21000,Other,125000,9.8,B,7,Rent,6.2
+L250,13000,Debt consolidation,40000,16.59,D,1,Rent,16.74
+L251,20000,Major purchase,120000,7.91,A,5,Own,4.99
+L252,31075,Credit card refinancing,70000,7.49,A,10,Rent,17.18
+L253,18000,Credit card refinancing,120000,6.99,A,10,Own,14.88
+L254,5000,Other,74967,9.17,B,0,Mortgage,33.39
+L255,4675,Credit card refinancing,13000,17.27,D,1,Mortgage,34.07
+L256,6000,Debt consolidation,85140,9.8,B,4,Mortgage,14.42
+L257,12000,Debt consolidation,90000,12.88,C,10,Mortgage,12.62
+L258,13000,Home improvement,115000,13.99,C,10,Rent,9.9
+L259,1800,Other,50000,11.48,B,10,Rent,20.38
+L260,4475,Credit card refinancing,114000,16.59,D,10,Rent,8.36
+L261,14400,Debt consolidation,70000,6.49,A,8,Mortgage,16.32
+L262,5875,Debt consolidation,70000,7.91,A,5,Rent,9.53
+L263,20000,Debt consolidation,180000,17.97,D,7,Mortgage,25.1
+L264,10000,Debt consolidation,115000,6.99,A,5,Mortgage,23.26
+L265,34100,Debt consolidation,92892,12.88,C,8,Mortgage,29.14
+L266,24000,Credit card refinancing,56457,11.48,B,3,Rent,12.37
+L267,30000,Debt consolidation,300000,18.49,D,8,Mortgage,8.62
+L268,5200,Debt consolidation,160000,10.78,B,7,Mortgage,8
+L269,16800,Debt consolidation,50000,11.99,C,1,Rent,5.76
+L270,10000,Debt consolidation,40000,11.99,C,7,Rent,10.95
+L271,22000,Debt consolidation,55000,17.97,D,10,Mortgage,22.34
+L272,28000,Debt consolidation,144000,5.32,A,10,Mortgage,29.88
+L273,7200,Credit card refinancing,60000,6.49,A,10,Mortgage,20.68
+L274,18000,Debt consolidation,41000,11.99,C,9,Rent,38.35
+L275,8400,Debt consolidation,30000,7.49,A,1,Own,29.2
+L276,5000,Credit card refinancing,67000,14.85,C,2,Rent,31.08
+L277,5000,Debt consolidation,55000,9.8,B,10,Rent,10.93
+L278,2400,Debt consolidation,60000,11.48,B,5,Mortgage,24.14
+L279,15000,Debt consolidation,60000,5.32,A,9,Own,21.48
+L280,6075,,64400,9.17,B,9,Mortgage,27.37
+L281,20000,Debt consolidation,55000,10.78,B,2,Rent,22.58
+L282,6025,Debt consolidation,110000,14.85,C,10,Rent,21.32
+L283,8400,Debt consolidation,70000,9.17,B,2,Mortgage,12.96
+L284,15000,Debt consolidation,90000,12.88,C,2,Rent,21.17
+L285,19200,Debt consolidation,72000,8.49,B,10,Mortgage,21.22
+L286,12000,Debt consolidation,143000,15.77,D,1,Mortgage,3.61
+L287,28800,Home improvement,60000,12.88,C,8,Mortgage,6.68
+L288,5000,Debt consolidation,60000,5.32,A,10,Mortgage,19.22
+L289,5000,Home improvement,60000,12.88,C,7,Mortgage,30.24
+L290,31500,Debt consolidation,120000,11.99,C,10,Mortgage,10.55
+L291,24000,Debt consolidation,165000,18.49,D,10,Rent,13.05
+L292,20000,Debt consolidation,110000,12.88,C,1,Mortgage,23.89
+L293,24000,Debt consolidation,110000,10.78,B,2,Mortgage,20.82
+L294,21850,Debt consolidation,65000,17.27,D,10,Mortgage,12.74
+L295,9500,Home improvement,126500,6.49,A,10,Mortgage,8.67
+L296,20000,Debt consolidation,98000,8.49,B,10,Mortgage,16.7
+L297,20000,Credit card refinancing,59000,13.44,C,8,Rent,26.54
+L298,20000,Home improvement,135000,16.59,D,10,Mortgage,26.92
+L299,20000,,65000,12.88,C,1,Rent,16.93
+L300,25200,Credit card refinancing,78000,13.44,C,2,Mortgage,20.46
+L301,12000,Credit card refinancing,50000,6.99,A,10,Mortgage,20.12
+L302,10000,Debt consolidation,65000,12.88,C,10,Mortgage,14.73
+L303,12000,Debt consolidation,36500,9.8,B,10,Mortgage,18.91
+L304,12000,Debt consolidation,75000,7.91,A,8,Mortgage,6.4
+L305,6425,Debt consolidation,41000,15.77,D,1,Rent,2.87
+L306,12700,Debt consolidation,32760,17.97,D,3,Rent,34.32
+L307,35000,Credit card refinancing,121000,13.99,C,10,Own,9.23
+L308,16000,Debt consolidation,110000,13.44,C,5,Mortgage,15.82
+L309,15000,Credit card refinancing,48000,13.99,C,2,Own,31.29
+L310,20550,Debt consolidation,60000,16.59,D,10,Rent,26.38
+L311,25000,Home improvement,127000,6.99,A,10,Mortgage,25.48
+L312,14000,Debt consolidation,115000,19.48,E,10,Rent,13.36
+L313,16925,Major purchase,47000,21.48,E,10,Rent,22.09
+L314,4700,Debt consolidation,22000,13.44,C,3,Rent,17.64
+L315,5000,Debt consolidation,25000,8.49,B,0,Own,13.63
+L316,12000,Debt consolidation,92500,14.85,C,2,Mortgage,17.66
+L317,12000,Debt consolidation,55000,9.8,B,10,Rent,12.61
+L318,15000,Debt consolidation,117000,6.99,A,1,Mortgage,4.66
+L319,4900,Debt consolidation,123000,13.44,C,2,Mortgage,25.6
+L320,18000,Credit card refinancing,70000,7.49,A,1,Mortgage,16.82
+L321,18000,Debt consolidation,48000,14.85,C,5,Rent,19.76
+L322,25000,Debt consolidation,120000,17.27,D,10,Mortgage,21.33
+L323,15000,Debt consolidation,50000,12.88,C,10,Mortgage,13.92
+L324,3600,Car financing,97000,11.48,B,1,Mortgage,18.93
+L325,33000,Other,92250,8.49,B,5,Mortgage,20.68
+L326,14950,Debt consolidation,68000,18.99,E,10,Mortgage,31.36
+L327,15000,Debt consolidation,154000,12.88,C,10,Mortgage,35.77
+L328,7000,Debt consolidation,30100,16.59,D,2,Mortgage,25.68
+L329,15000,Debt consolidation,35300,16.59,D,10,Rent,36.52
+L330,35000,Debt consolidation,98000,12.88,C,4,Rent,18.93
+L331,8000,Credit card refinancing,58000,8.49,B,0,Mortgage,5.9
+L332,20000,Credit card refinancing,40000,11.99,C,8,Mortgage,22.84
+L333,14375,Debt consolidation,80000,19.89,E,1,Mortgage,37.32
+L334,21000,Debt consolidation,85000,9.17,B,1,Mortgage,10.51
+L335,3700,Debt consolidation,65000,12.88,C,10,Own,20.81
+L336,8400,Credit card refinancing,85000,9.17,B,10,Rent,26.77
+L337,7200,Debt consolidation,22000,11.48,B,1,Rent,23.57
+L338,16800,Debt consolidation,85400,8.49,B,8,Mortgage,17.27
+L339,9000,Major purchase,150000,5.32,A,7,Mortgage,0.63
+L340,6000,Home improvement,43700,13.99,C,6,Mortgage,31.87
+L341,34000,Debt consolidation,76497,10.78,B,7,Rent,13.32
+L342,20000,Debt consolidation,67000,11.99,C,10,Mortgage,6.52
+L343,16000,Debt consolidation,91000,12.88,C,10,Mortgage,11.78
+L344,11200,Debt consolidation,70000,8.49,B,10,Mortgage,15.88
+L345,21000,Debt consolidation,95000,18.49,D,10,Mortgage,34.84
+L346,16000,Credit card refinancing,65000,12.88,C,10,Mortgage,39.56
+L347,6000,Debt consolidation,50000,7.91,A,10,Mortgage,19.42
+L348,9100,Credit card refinancing,84000,6.49,A,4,Rent,15.57
+L349,10000,Other,60000,6.99,A,10,Mortgage,29.15
+L350,28000,Debt consolidation,135000,10.78,B,3,Mortgage,26.15
+L351,30000,Other,115000,27.49,G,1,Mortgage,17.73
+L352,8450,Debt consolidation,37380,11.99,C,10,Rent,15.09
+L353,8775,Credit card refinancing,75000,22.45,F,10,Rent,20.37
+L354,6000,Debt consolidation,72000,5.32,A,5,Mortgage,17.08
+L355,10000,Debt consolidation,75000,5.32,A,10,Mortgage,5.17
+L356,10000,Debt consolidation,128000,15.77,D,4,Rent,36.23
+L357,7200,Debt consolidation,22000,17.27,D,3,Rent,38.63
+L358,20000,Debt consolidation,75000,14.85,C,5,Own,18.76
+L359,20000,Debt consolidation,95750,9.17,B,2,Rent,19.14
+L360,5000,Debt consolidation,130000,5.32,A,8,Mortgage,10.44
+L361,15000,Debt consolidation,35179,9.8,B,1,Mortgage,23.47
+L362,23950,Credit card refinancing,160000,17.97,D,3,Rent,18.41
+L363,15000,Debt consolidation,160000,10.78,B,10,Mortgage,24.79
+L364,2250,Credit card refinancing,60000,8.49,B,1,Mortgage,16.88
+L365,14000,Debt consolidation,40000,13.44,C,1,Mortgage,37.39
+L366,14000,Debt consolidation,80000,12.88,C,2,Rent,5.04
+L367,18000,Debt consolidation,83000,7.49,A,3,Mortgage,7.93
+L368,12000,Other,72500,5.32,A,3,Mortgage,2.71
+L369,5600,Credit card refinancing,46000,10.78,B,10,Own,13.18
+L370,35000,Debt consolidation,83000,16.59,D,1,Rent,25.52
+L371,8000,Other,43500,12.88,C,3,Rent,22.48
+L372,2400,Debt consolidation,26000,13.44,C,3,Rent,16.39
+L373,35000,Debt consolidation,98000,17.27,D,1,Mortgage,19.74
+L374,35000,Credit card refinancing,140000,10.78,B,10,Mortgage,16.46
+L375,7000,Other,55000,12.88,C,10,Own,37.22
+L376,8000,Debt consolidation,23200,11.99,C,2,Own,33.78
+L377,6125,Debt consolidation,70000,17.27,D,4,Rent,17.36
+L378,10400,Debt consolidation,150000,13.44,C,10,Mortgage,18.51
+L379,30000,Debt consolidation,134000,7.91,A,5,Mortgage,17.1
+L380,4000,Debt consolidation,30000,14.85,C,5,Mortgage,8.18
+L381,10000,Debt consolidation,125000,10.78,B,10,Mortgage,19.92
+L382,16000,Debt consolidation,50000,7.91,A,1,Mortgage,24.41
+L383,24000,Home improvement,67000,17.27,D,10,Mortgage,29.07
+L384,19225,,56600,26.99,G,1,Mortgage,18.21
+L385,13000,Home improvement,130000,12.88,C,5,Mortgage,5.51
+L386,16800,Debt consolidation,52000,9.17,B,7,Mortgage,28.96
+L387,2000,Credit card refinancing,35037,6.49,A,3,Own,8.51
+L388,19200,Debt consolidation,50000,5.32,A,1,Mortgage,19.24
+L389,10000,Debt consolidation,140000,13.44,C,10,Rent,9.99
+L390,35000,Debt consolidation,165000,7.91,A,4,Mortgage,18.89
+L391,15000,Debt consolidation,60000,12.88,C,10,Mortgage,36.4
+L392,35000,Debt consolidation,84468,15.77,D,1,Rent,16.85
+L393,18000,Credit card refinancing,55000,8.49,B,1,Rent,27.17
+L394,8000,Debt consolidation,40000,9.8,B,6,Rent,25.15
+L395,15000,Debt consolidation,50000,12.88,C,10,Own,30.08
+L396,17400,Debt consolidation,175000,8.49,B,10,Mortgage,7.04
+L397,35000,Credit card refinancing,156000,11.99,C,10,Mortgage,14.98
+L398,12000,Debt consolidation,100000,9.17,B,3,Rent,12.13
+L399,24000,Debt consolidation,66000,9.17,B,10,Rent,23.98
+L400,8000,Home improvement,66500,7.91,A,5,Own,29.22
+L401,16775,Debt consolidation,74000,19.89,E,1,Mortgage,29.91
+L402,8000,Credit card refinancing,48000,8.49,B,3,Mortgage,15.15
+L403,21000,Debt consolidation,100000,10.78,B,1,Mortgage,29.75
+L404,20000,Other,150000,13.44,C,2,Mortgage,5.73
+L405,10000,Credit card refinancing,113000,12.88,C,1,Mortgage,21.59
+L406,6000,Debt consolidation,81120,7.91,A,1,Mortgage,18.45
+L407,6000,Debt consolidation,54744,18.49,D,0,Mortgage,23.96
+L408,8400,Credit card refinancing,80000,11.48,B,1,Rent,13.92
+L409,10000,Credit card refinancing,33000,12.88,C,10,Rent,23.23
+L410,6000,Credit card refinancing,72000,9.17,B,2,Own,2.8
+L411,20000,Credit card refinancing,70000,8.49,B,10,Rent,12.51
+L412,4600,Credit card refinancing,14688,11.99,C,0,Rent,14.79
+L413,20000,,50000,17.27,D,10,Mortgage,33.75
+L414,15000,Credit card refinancing,48112,9.17,B,2,Rent,31.62
+L415,12000,Debt consolidation,40000,12.88,C,4,Mortgage,23.98
+L416,5000,Debt consolidation,75000,10.78,B,10,Own,16.7
+L417,6000,Debt consolidation,57000,10.78,B,1,Mortgage,18.34
+L418,10050,Credit card refinancing,34000,17.27,D,10,Rent,18.6
+L419,6000,Debt consolidation,43000,5.32,A,10,Rent,20.37
+L420,28000,Debt consolidation,84000,20.5,E,10,Rent,37.26
+L421,15000,Credit card refinancing,81000,5.32,A,3,Own,16.95
+L422,10500,Other,168400,8.49,B,10,Mortgage,27.58
+L423,10000,Debt consolidation,34000,13.44,C,3,Mortgage,11.19
+L424,3600,Debt consolidation,62000,7.49,A,1,Mortgage,22.42
+L425,10000,Other,72000,11.48,B,10,Mortgage,26.9
+L426,30000,Credit card refinancing,115000,8.49,B,10,Rent,13.54
+L427,8000,Debt consolidation,35000,11.99,C,2,Rent,10.12
+L428,15000,Debt consolidation,55000,16.59,D,1,Mortgage,10.17
+L429,21600,Debt consolidation,60000,8.49,B,2,Mortgage,17.42
+L430,12000,,105000,9.17,B,10,Mortgage,16.86
+L431,28000,Credit card refinancing,102000,7.91,A,8,Mortgage,21.05
+L432,6400,Credit card refinancing,33000,11.48,B,10,Rent,15.6
+L433,15000,Car financing,48000,9.17,B,10,Rent,12.2
+L434,13000,Credit card refinancing,70000,7.91,A,2,Rent,26.32
+L435,10000,Credit card refinancing,80000,13.44,C,3,Rent,15.56
+L436,24800,,95000,7.91,A,10,Mortgage,14.76
+L437,12000,Other,56000,10.78,B,10,Own,25.98
+L438,10800,Car financing,96000,8.49,B,9,Mortgage,12.25
+L439,15000,,65000,11.99,C,1,Mortgage,17.56
+L440,24000,Credit card refinancing,120000,5.32,A,3,Mortgage,15.82
+L441,2000,Debt consolidation,75600,13.44,C,10,Own,10.17
+L442,22600,Debt consolidation,53867,15.77,D,3,Mortgage,25.31
+L443,13500,Debt consolidation,50000,23.13,F,10,Rent,25.3
+L444,6000,,66000,10.78,B,10,Mortgage,19.96
+L445,20000,Credit card refinancing,84000,9.8,B,10,Mortgage,23.27
+L446,5000,Debt consolidation,55000,6.49,A,10,Own,29.15
+L447,20000,Credit card refinancing,100000,7.49,A,10,Mortgage,12.18
+L448,12000,Debt consolidation,103000,9.8,B,10,Mortgage,18.54
+L449,32000,Credit card refinancing,107000,11.48,B,10,Mortgage,19.13
+L450,15200,Debt consolidation,69998,13.99,C,10,Own,14.52
+L451,12500,Debt consolidation,60000,11.99,C,1,Mortgage,16.98
+L452,21000,Debt consolidation,81000,10.78,B,4,Mortgage,17.19
+L453,16000,Credit card refinancing,35000,8.49,B,3,Rent,24.49
+L454,24650,Debt consolidation,100000,11.48,B,10,Mortgage,22.64
+L455,11000,Debt consolidation,77000,7.91,A,3,Mortgage,28.73
+L456,22400,Credit card refinancing,70000,14.85,C,10,Rent,18.69
+L457,15125,Debt consolidation,61000,18.49,D,10,Mortgage,25.38
+L458,8725,Debt consolidation,60000,11.99,C,10,Mortgage,29.56
+L459,8000,Debt consolidation,63800,7.91,A,10,Mortgage,23.76
+L460,8000,Major purchase,52000,9.17,B,2,Rent,11.86
+L461,11000,,42240,14.85,C,2,Rent,19.18
+L462,11725,Debt consolidation,82000,18.99,E,5,Mortgage,13.32
+L463,28500,Debt consolidation,70000,18.99,E,1,Mortgage,29.37
+L464,25000,Credit card refinancing,120000,6.49,A,5,Own,21.3
+L465,7000,Moving and relocation,70000,9.17,B,5,Rent,16.1
+L466,12000,Debt consolidation,100000,9.8,B,1,Mortgage,12.07
+L467,20000,Credit card refinancing,40000,8.49,B,10,Own,20.04
+L468,5875,Debt consolidation,56000,15.77,D,10,Rent,25.65
+L469,18000,Debt consolidation,145000,18.49,D,10,Rent,15.54
+L470,28000,Home improvement,160000,7.91,A,1,Mortgage,23.69
+L471,35000,Moving and relocation,205000,9.8,B,10,Rent,5.71
+L472,31800,Debt consolidation,65000,16.59,D,1,Mortgage,24.15
+L473,25000,Debt consolidation,105000,17.97,D,10,Mortgage,22.57
+L474,16000,Debt consolidation,54000,17.27,D,6,Rent,20.73
+L475,25000,Credit card refinancing,82000,10.78,B,10,Own,26.88
+L476,35000,Credit card refinancing,139000,16.59,D,5,Mortgage,14.95
+L477,18000,Credit card refinancing,60000,7.91,A,1,Own,11.52
+L478,10000,Debt consolidation,55500,7.49,A,1,Mortgage,15.05
+L479,8000,Credit card refinancing,53040,14.85,C,2,Rent,20.54
+L480,12000,Debt consolidation,75000,13.44,C,10,Mortgage,18.46
+L481,15000,Debt consolidation,75000,5.32,A,0,Mortgage,8.75
+L482,20000,Home buying,155000,11.99,C,4,Mortgage,22.47
+L483,14000,Business,80000,19.89,E,10,Mortgage,14.39
+L484,20500,Debt consolidation,77700,8.49,B,0,Rent,18.56
+L485,4700,Debt consolidation,88000,13.99,C,4,Mortgage,14.21
+L486,28000,Debt consolidation,76008,9.17,B,4,Mortgage,14.47
+L487,12000,Debt consolidation,71000,7.91,A,10,Mortgage,24.86
+L488,7200,Credit card refinancing,42500,7.91,A,1,Rent,11.07
+L489,11000,Debt consolidation,33000,7.49,A,0,Own,37.56
+L490,11000,Debt consolidation,52000,13.99,C,5,Mortgage,5.7
+L491,3500,Car financing,45000,9.8,B,1,Mortgage,22.29
+L492,23850,Major purchase,111000,13.44,C,3,Own,13.58
+L493,3600,Other,70000,15.77,D,3,Rent,14.33
+L494,15000,Debt consolidation,54000,7.91,A,2,Rent,19.39
+L495,16500,Credit card refinancing,76000,11.99,C,10,Mortgage,2.56
+L496,8275,Credit card refinancing,55000,10.78,B,0,Mortgage,38.05
+L497,35000,Home improvement,80000,17.27,D,1,Mortgage,15.77
+L498,20000,Debt consolidation,106000,5.32,A,1,Mortgage,20.04
+L499,22800,Debt consolidation,76000,5.32,A,6,Mortgage,21.96
+L500,10000,Credit card refinancing,35000,8.49,B,4,Own,33.54

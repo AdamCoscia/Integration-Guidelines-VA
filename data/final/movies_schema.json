@@ -1,0 +1,126 @@
+{
+  "ID": {
+    "name": "ID",
+    "dataType": "string",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": [
+      "Creative Type",
+      "Genre",
+
+      "Production Budget",
+      "Worldwide Gross",
+
+      "IMDB Rating",
+
+      "Rotten Tomatoes Rating"
+    ]
+  },
+  "Content Rating": {
+    "name": "Content Rating",
+    "dataType": "string",
+    "source": "primary.csv",
+    "range": [],
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Release Year": {
+    "name": "Release Year",
+    "dataType": "datetime",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Running Time": {
+    "name": "Running Time",
+    "dataType": "number",
+    "range": [],
+    "source": "primary.csv",
+    "primary": true,
+    "secondary": false,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Creative Type": {
+    "name": "Creative Type",
+    "dataType": "string",
+    "range": [],
+    "source": "descriptions.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Genre": {
+    "name": "Genre",
+    "dataType": "string",
+    "range": [],
+    "source": "descriptions.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Production Budget": {
+    "name": "Production Budget",
+    "dataType": "number",
+    "range": [],
+    "source": "financials.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+  "Worldwide Gross": {
+    "name": "Worldwide Gross",
+    "dataType": "number",
+    "range": [],
+    "source": "financials.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "IMDB Rating": {
+    "name": "IMDB Rating",
+    "dataType": "number",
+    "range": [],
+    "source": "imdb.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  },
+
+  "Rotten Tomatoes Rating": {
+    "name": "Rotten Tomatoes Rating",
+    "dataType": "number",
+    "range": [],
+    "source": "rotten_tomatoes.csv",
+    "primary": false,
+    "secondary": true,
+    "addedToAttributes": false,
+    "addedToElaborate": false,
+    "relatedAttributes": []
+  }
+}

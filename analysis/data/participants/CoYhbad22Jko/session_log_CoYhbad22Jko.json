@@ -1,0 +1,1336 @@
+{
+  "pid": "CoYhbad22Jko",
+  "conditionOrder": ["control", "augmentation"],
+  "practiceTaskOrder": ["MQ1", "MQ2"],
+  "acceptedConsent": true,
+  "consent": { "record": { "completed": true, "timestamp": 1639432142658, "elapsed": 1161196 } },
+  "overview": { "record": { "completed": true, "timestamp": 1639432185422, "elapsed": 42764 } },
+  "pre-survey": { "record": { "completed": true, "timestamp": 1639432288394, "elapsed": 102972 } },
+  "task-practice-control": { "record": { "completed": true, "timestamp": 1639432549812, "elapsed": 261418 } },
+  "live-practice-control": {
+    "record": {
+      "MQ1": { "completed": true, "timestamp": 1639433669904, "elapsed": 1120092 },
+      "all-tasks": { "completed": true, "timestamp": 1639433669904, "elapsed": 1120092 }
+    },
+    "data": {
+      "MQ1": {
+        "timesRefreshed": 1,
+        "attributesAddedToEncodePanel": {
+          "total": 5,
+          "added": [
+            "Rotten Tomatoes Rating",
+            "Content Rating",
+            "Content Rating",
+            "Content Rating",
+            "Rotten Tomatoes Rating"
+          ]
+        },
+        "secondaryAttributesAddedToEncodePanel": {
+          "total": 2,
+          "added": ["Rotten Tomatoes Rating", "Rotten Tomatoes Rating"]
+        },
+        "attributesAddedToFilterPanel": { "total": 3, "added": ["Content Rating", "Running Time", "Release Year"] },
+        "secondaryAttributesAddedToFilterPanel": { "total": 0, "added": [] },
+        "attributes": {
+          "ID": {
+            "name": "ID",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Content Rating": {
+            "name": "Content Rating",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Release Year": {
+            "name": "Release Year",
+            "dataType": "datetime",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Running Time": {
+            "name": "Running Time",
+            "dataType": "number",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Rotten Tomatoes Rating": {
+            "name": "Rotten Tomatoes Rating",
+            "dataType": "number",
+            "source": "rotten_tomatoes.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          }
+        },
+        "saved": [
+          {
+            "timestamp": 1639433669904,
+            "elapsed": 1120092,
+            "encodings": {
+              "plotType": "Strip Plot",
+              "xVar": "Rotten Tomatoes Rating",
+              "yVar": "",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [{ "Release Year": ["2000", "2001", "2002", "2003", "2004", "2005"] }],
+            "selectedDataPoints": [21, 50, 235]
+          }
+        ]
+      }
+    }
+  },
+  "task-activity-control": { "record": { "completed": true, "timestamp": 1639433891370, "elapsed": 221466 } },
+  "live-activity-control": {
+    "record": {
+      "CQ1": { "completed": true, "timestamp": 1639434703328, "elapsed": 811958 },
+      "CQ2": { "completed": true, "timestamp": 1639435297621, "elapsed": 594293 },
+      "all-tasks": { "completed": true, "timestamp": 1639435297621, "elapsed": 1406251 }
+    },
+    "data": {
+      "CQ1": {
+        "timesRefreshed": 3,
+        "attributesAddedToEncodePanel": {
+          "total": 14,
+          "added": [
+            "Geographic region",
+            "Tuition and fees 2013-14 ($)",
+            "Admission rate (%)",
+            "Geographic region",
+            "Geographic region",
+            null,
+            "Admission rate (%)",
+            null,
+            "Admission rate (%)",
+            "Tuition and fees 2013-14 ($)",
+            "Geographic region",
+            "Geographic region",
+            "Admission rate (%)",
+            "4-year graduation rate (%)"
+          ]
+        },
+        "secondaryAttributesAddedToEncodePanel": {
+          "total": 12,
+          "added": [
+            "Geographic region",
+            "Tuition and fees 2013-14 ($)",
+            "Admission rate (%)",
+            "Geographic region",
+            "Geographic region",
+            "Admission rate (%)",
+            "Admission rate (%)",
+            "Tuition and fees 2013-14 ($)",
+            "Geographic region",
+            "Geographic region",
+            "Admission rate (%)",
+            "4-year graduation rate (%)"
+          ]
+        },
+        "attributesAddedToFilterPanel": { "total": 0, "added": [] },
+        "secondaryAttributesAddedToFilterPanel": { "total": 0, "added": [] },
+        "attributes": {
+          "ID": {
+            "name": "ID",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Control": {
+            "name": "Control",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Highest degree offered": {
+            "name": "Highest degree offered",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Admission rate (%)": {
+            "name": "Admission rate (%)",
+            "dataType": "number",
+            "source": "admissions.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total enrollment": {
+            "name": "Total enrollment",
+            "dataType": "number",
+            "source": "enrollment.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Tuition and fees 2013-14 ($)": {
+            "name": "Tuition and fees 2013-14 ($)",
+            "dataType": "number",
+            "source": "financial.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "4-year graduation rate (%)": {
+            "name": "4-year graduation rate (%)",
+            "dataType": "number",
+            "source": "graduation.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "5-year graduation rate (%)": {
+            "name": "5-year graduation rate (%)",
+            "dataType": "number",
+            "source": "graduation.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "6-year graduation rate (%)": {
+            "name": "6-year graduation rate (%)",
+            "dataType": "number",
+            "source": "graduation.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Geographic region": {
+            "name": "Geographic region",
+            "dataType": "string",
+            "source": "profile.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          }
+        },
+        "saved": [
+          {
+            "timestamp": 1639434446244,
+            "elapsed": 554874,
+            "encodings": {
+              "plotType": "Scatter Plot",
+              "xVar": "Admission rate (%)",
+              "yVar": "Tuition and fees 2013-14 ($)",
+              "axisAggType": "Average",
+              "colorVar": "Geographic region",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": []
+          },
+          {
+            "timestamp": 1639434703328,
+            "elapsed": 257084,
+            "encodings": {
+              "plotType": "Scatter Plot",
+              "xVar": "Admission rate (%)",
+              "yVar": "4-year graduation rate (%)",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [174, 1497]
+          }
+        ]
+      },
+      "CQ2": {
+        "timesRefreshed": 7,
+        "attributesAddedToEncodePanel": {
+          "total": 6,
+          "added": [
+            "Tuition and fees 2013-14 ($)",
+            "Tuition and fees 2013-14 ($)",
+            "ACT Composite score (75th percentile)",
+            "Tuition and fees 2013-14 ($)",
+            "ACT Composite score (75th percentile)",
+            "Receiving financial aid (%)"
+          ]
+        },
+        "secondaryAttributesAddedToEncodePanel": {
+          "total": 6,
+          "added": [
+            "Tuition and fees 2013-14 ($)",
+            "Tuition and fees 2013-14 ($)",
+            "ACT Composite score (75th percentile)",
+            "Tuition and fees 2013-14 ($)",
+            "ACT Composite score (75th percentile)",
+            "Receiving financial aid (%)"
+          ]
+        },
+        "attributesAddedToFilterPanel": { "total": 2, "added": ["Admission rate (%)", "Admission rate (%)"] },
+        "secondaryAttributesAddedToFilterPanel": { "total": 2, "added": ["Admission rate (%)", "Admission rate (%)"] },
+        "attributes": {
+          "ID": {
+            "name": "ID",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Control": {
+            "name": "Control",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Highest degree offered": {
+            "name": "Highest degree offered",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Admission rate (%)": {
+            "name": "Admission rate (%)",
+            "dataType": "number",
+            "source": "admissions.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total enrollment": {
+            "name": "Total enrollment",
+            "dataType": "number",
+            "source": "enrollment.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Receiving financial aid (%)": {
+            "name": "Receiving financial aid (%)",
+            "dataType": "number",
+            "source": "financial.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Tuition and fees 2013-14 ($)": {
+            "name": "Tuition and fees 2013-14 ($)",
+            "dataType": "number",
+            "source": "financial.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "4-year graduation rate (%)": {
+            "name": "4-year graduation rate (%)",
+            "dataType": "number",
+            "source": "graduation.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "5-year graduation rate (%)": {
+            "name": "5-year graduation rate (%)",
+            "dataType": "number",
+            "source": "graduation.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "6-year graduation rate (%)": {
+            "name": "6-year graduation rate (%)",
+            "dataType": "number",
+            "source": "graduation.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Geographic region": {
+            "name": "Geographic region",
+            "dataType": "string",
+            "source": "profile.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "ACT Composite score (25th percentile)": {
+            "name": "ACT Composite score (25th percentile)",
+            "dataType": "number",
+            "source": "scores.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "ACT Composite score (75th percentile)": {
+            "name": "ACT Composite score (75th percentile)",
+            "dataType": "number",
+            "source": "scores.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          }
+        },
+        "saved": [
+          {
+            "timestamp": 1639435297621,
+            "elapsed": 594293,
+            "encodings": {
+              "plotType": "Scatter Plot",
+              "xVar": "Tuition and fees 2013-14 ($)",
+              "yVar": "ACT Composite score (75th percentile)",
+              "axisAggType": "Average",
+              "colorVar": "Receiving financial aid (%)",
+              "colorAggType": "Average"
+            },
+            "filters": [{ "Admission rate (%)": [6, 20, 6] }],
+            "selectedDataPoints": []
+          }
+        ]
+      }
+    }
+  },
+  "task-practice-augmentation": { "record": { "completed": true, "timestamp": 1639435366241, "elapsed": 68620 } },
+  "live-practice-augmentation": {
+    "record": {
+      "MQ2": { "completed": true, "timestamp": 1639435705258, "elapsed": 339017 },
+      "all-tasks": { "completed": true, "timestamp": 1639435705258, "elapsed": 339017 }
+    },
+    "data": {
+      "MQ2": {
+        "secondaryAttributesAddedToAttributesPanel": { "total": 2, "added": ["Creative Type", "Production Budget"] },
+        "attributesAddedToEncodePanel": { "total": 3, "added": ["Genre", "Genre", "Production Budget"] },
+        "primaryAttributesAddedToEncodePanel": { "total": 1, "added": ["Production Budget"] },
+        "secondaryAttributesAddedToEncodePanel": { "total": 2, "added": ["Genre", "Genre"] },
+        "attributesAddedToFilterPanel": { "total": 1, "added": ["Content Rating"] },
+        "primaryAttributesAddedToFilterPanel": { "total": 1, "added": ["Content Rating"] },
+        "secondaryAttributesAddedToFilterPanel": { "total": 0, "added": [] },
+        "secondaryAttributesAddedToElaboratePanel": { "total": 1, "added": ["Genre"] },
+        "attributes": {
+          "ID": {
+            "name": "ID",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Content Rating": {
+            "name": "Content Rating",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Release Year": {
+            "name": "Release Year",
+            "dataType": "datetime",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Running Time": {
+            "name": "Running Time",
+            "dataType": "number",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Creative Type": {
+            "name": "Creative Type",
+            "dataType": "string",
+            "source": "descriptions.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Genre": {
+            "name": "Genre",
+            "dataType": "string",
+            "source": "descriptions.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": true
+          },
+          "Production Budget": {
+            "name": "Production Budget",
+            "dataType": "number",
+            "source": "financials.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Worldwide Gross": {
+            "name": "Worldwide Gross",
+            "dataType": "number",
+            "source": "financials.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "IMDB Rating": {
+            "name": "IMDB Rating",
+            "dataType": "number",
+            "source": "imdb.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Rotten Tomatoes Rating": {
+            "name": "Rotten Tomatoes Rating",
+            "dataType": "number",
+            "source": "rotten_tomatoes.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          }
+        },
+        "saved": [
+          {
+            "timestamp": 1639435705258,
+            "elapsed": 339017,
+            "encodings": {
+              "plotType": "Bar Chart",
+              "xVar": "Genre",
+              "yVar": "Production Budget",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [
+              46, 52, 58, 72, 79, 89, 105, 127, 128, 134, 140, 150, 154, 169, 205, 207, 213, 237, 238
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "task-activity-augmentation": { "record": { "completed": true, "timestamp": 1639435755562, "elapsed": 50304 } },
+  "live-activity-augmentation": {
+    "record": {
+      "LQ1": { "completed": true, "timestamp": 1639436261301, "elapsed": 505739 },
+      "LQ2": { "completed": true, "timestamp": 1639437347834, "elapsed": 1086533 },
+      "all-tasks": { "completed": true, "timestamp": 1639437347834, "elapsed": 1592272 }
+    },
+    "data": {
+      "LQ1": {
+        "secondaryAttributesAddedToAttributesPanel": {
+          "total": 3,
+          "added": ["Annual income ($)", "Loan interest rate (%)", "Loan grade"]
+        },
+        "attributesAddedToEncodePanel": {
+          "total": 15,
+          "added": [
+            "Loan amount ($)",
+            "Annual income ($)",
+            "Loan interest rate (%)",
+            null,
+            "Loan interest rate (%)",
+            null,
+            "Loan amount ($)",
+            null,
+            "Loan grade",
+            null,
+            null,
+            "Annual income ($)",
+            "Loan interest rate (%)",
+            "Months since last delinquency",
+            "Loan grade"
+          ]
+        },
+        "primaryAttributesAddedToEncodePanel": {
+          "total": 9,
+          "added": [
+            "Loan amount ($)",
+            "Annual income ($)",
+            "Loan interest rate (%)",
+            "Loan interest rate (%)",
+            "Loan amount ($)",
+            "Loan grade",
+            "Annual income ($)",
+            "Loan interest rate (%)",
+            "Loan grade"
+          ]
+        },
+        "secondaryAttributesAddedToEncodePanel": { "total": 1, "added": ["Months since last delinquency"] },
+        "attributesAddedToFilterPanel": { "total": 1, "added": ["Loan amount ($)"] },
+        "primaryAttributesAddedToFilterPanel": { "total": 1, "added": ["Loan amount ($)"] },
+        "secondaryAttributesAddedToFilterPanel": { "total": 0, "added": [] },
+        "secondaryAttributesAddedToElaboratePanel": { "total": 0, "added": [] },
+        "attributes": {
+          "ID": {
+            "name": "ID",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Loan amount ($)": {
+            "name": "Loan amount ($)",
+            "dataType": "number",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Loan intent": {
+            "name": "Loan intent",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Average current balance ($)": {
+            "name": "Average current balance ($)",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Mortgage accounts": {
+            "name": "Mortgage accounts",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Satisfactory accounts": {
+            "name": "Satisfactory accounts",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total current balance ($)": {
+            "name": "Total current balance ($)",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "FICO score (high)": {
+            "name": "FICO score (high)",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "FICO score (low)": {
+            "name": "FICO score (low)",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Open credit lines": {
+            "name": "Open credit lines",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total credit limit ($)": {
+            "name": "Total credit limit ($)",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total credit lines": {
+            "name": "Total credit lines",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Delinquent accounts": {
+            "name": "Delinquent accounts",
+            "dataType": "number",
+            "source": "delinquency.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Delinquent accounts total debt ($)": {
+            "name": "Delinquent accounts total debt ($)",
+            "dataType": "number",
+            "source": "delinquency.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Months since last delinquency": {
+            "name": "Months since last delinquency",
+            "dataType": "number",
+            "source": "delinquency.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Loan grade": {
+            "name": "Loan grade",
+            "dataType": "string",
+            "source": "loan.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Loan interest rate (%)": {
+            "name": "Loan interest rate (%)",
+            "dataType": "number",
+            "source": "loan.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Loan term": {
+            "name": "Loan term",
+            "dataType": "string",
+            "source": "loan.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Annual income ($)": {
+            "name": "Annual income ($)",
+            "dataType": "number",
+            "source": "personal.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Home ownership": {
+            "name": "Home ownership",
+            "dataType": "string",
+            "source": "personal.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Job title": {
+            "name": "Job title",
+            "dataType": "string",
+            "source": "personal.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Length of employment (years)": {
+            "name": "Length of employment (years)",
+            "dataType": "number",
+            "source": "personal.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Bankcards at >75% limit (%)": {
+            "name": "Bankcards at >75% limit (%)",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Bankruptcies": {
+            "name": "Bankruptcies",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Derogatory records": {
+            "name": "Derogatory records",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Ratio of debt payments to income": {
+            "name": "Ratio of debt payments to income",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Tax liens": {
+            "name": "Tax liens",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          }
+        },
+        "saved": [
+          {
+            "timestamp": 1639436096273,
+            "elapsed": 340711,
+            "encodings": {
+              "plotType": "Scatter Plot",
+              "xVar": "Annual income ($)",
+              "yVar": "Loan interest rate (%)",
+              "axisAggType": "Average",
+              "colorVar": "Loan grade",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": []
+          },
+          {
+            "timestamp": 1639436261301,
+            "elapsed": 165028,
+            "encodings": {
+              "plotType": "Scatter Plot",
+              "xVar": "Annual income ($)",
+              "yVar": "Loan interest rate (%)",
+              "axisAggType": "Average",
+              "colorVar": "Loan grade",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [92, 26]
+          }
+        ]
+      },
+      "LQ2": {
+        "secondaryAttributesAddedToAttributesPanel": {
+          "total": 9,
+          "added": [
+            "Annual income ($)",
+            "Job title",
+            "Derogatory records",
+            "Home ownership",
+            "Length of employment (years)",
+            "Delinquent accounts",
+            "Loan grade",
+            "Total current balance ($)",
+            "Mortgage accounts"
+          ]
+        },
+        "attributesAddedToEncodePanel": {
+          "total": 54,
+          "added": [
+            "Derogatory records",
+            null,
+            "Job title",
+            "Loan amount ($)",
+            null,
+            null,
+            "Home ownership",
+            "Loan amount ($)",
+            null,
+            null,
+            "Loan intent",
+            "Loan amount ($)",
+            null,
+            null,
+            "Loan grade",
+            "Home ownership",
+            "Annual income ($)",
+            null,
+            "Home ownership",
+            null,
+            "Home ownership",
+            "Job title",
+            "Length of employment (years)",
+            null,
+            "Derogatory records",
+            null,
+            "Annual income ($)",
+            "Loan amount ($)",
+            "Job title",
+            null,
+            "Loan grade",
+            null,
+            "Mortgage accounts",
+            null,
+            "Home ownership",
+            "Loan intent",
+            "Loan term",
+            null,
+            "Ratio of debt payments to income",
+            "Tax liens",
+            null,
+            "Bankruptcies",
+            null,
+            "Bankcards at >75% limit (%)",
+            null,
+            "Total credit lines",
+            null,
+            "FICO score (low)",
+            "FICO score (high)",
+            "Total credit limit ($)",
+            null,
+            "Bankcards at >75% limit (%)",
+            null,
+            "Annual income ($)"
+          ]
+        },
+        "primaryAttributesAddedToEncodePanel": {
+          "total": 23,
+          "added": [
+            "Derogatory records",
+            "Job title",
+            "Loan amount ($)",
+            "Home ownership",
+            "Loan amount ($)",
+            "Loan intent",
+            "Loan amount ($)",
+            "Loan grade",
+            "Home ownership",
+            "Annual income ($)",
+            "Home ownership",
+            "Home ownership",
+            "Job title",
+            "Length of employment (years)",
+            "Derogatory records",
+            "Annual income ($)",
+            "Loan amount ($)",
+            "Job title",
+            "Loan grade",
+            "Mortgage accounts",
+            "Home ownership",
+            "Loan intent",
+            "Annual income ($)"
+          ]
+        },
+        "secondaryAttributesAddedToEncodePanel": {
+          "total": 10,
+          "added": [
+            "Loan term",
+            "Ratio of debt payments to income",
+            "Tax liens",
+            "Bankruptcies",
+            "Bankcards at >75% limit (%)",
+            "Total credit lines",
+            "FICO score (low)",
+            "FICO score (high)",
+            "Total credit limit ($)",
+            "Bankcards at >75% limit (%)"
+          ]
+        },
+        "attributesAddedToFilterPanel": { "total": 1, "added": ["Loan grade"] },
+        "primaryAttributesAddedToFilterPanel": { "total": 1, "added": ["Loan grade"] },
+        "secondaryAttributesAddedToFilterPanel": { "total": 0, "added": [] },
+        "secondaryAttributesAddedToElaboratePanel": { "total": 0, "added": [] },
+        "attributes": {
+          "ID": {
+            "name": "ID",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Loan amount ($)": {
+            "name": "Loan amount ($)",
+            "dataType": "number",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Loan intent": {
+            "name": "Loan intent",
+            "dataType": "string",
+            "source": "primary.csv",
+            "primary": true,
+            "secondary": false,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Average current balance ($)": {
+            "name": "Average current balance ($)",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Mortgage accounts": {
+            "name": "Mortgage accounts",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Satisfactory accounts": {
+            "name": "Satisfactory accounts",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total current balance ($)": {
+            "name": "Total current balance ($)",
+            "dataType": "number",
+            "source": "accounts.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "FICO score (high)": {
+            "name": "FICO score (high)",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "FICO score (low)": {
+            "name": "FICO score (low)",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Open credit lines": {
+            "name": "Open credit lines",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total credit limit ($)": {
+            "name": "Total credit limit ($)",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Total credit lines": {
+            "name": "Total credit lines",
+            "dataType": "number",
+            "source": "credit.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Delinquent accounts": {
+            "name": "Delinquent accounts",
+            "dataType": "number",
+            "source": "delinquency.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Delinquent accounts total debt ($)": {
+            "name": "Delinquent accounts total debt ($)",
+            "dataType": "number",
+            "source": "delinquency.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Months since last delinquency": {
+            "name": "Months since last delinquency",
+            "dataType": "number",
+            "source": "delinquency.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Loan grade": {
+            "name": "Loan grade",
+            "dataType": "string",
+            "source": "loan.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Loan interest rate (%)": {
+            "name": "Loan interest rate (%)",
+            "dataType": "number",
+            "source": "loan.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Loan term": {
+            "name": "Loan term",
+            "dataType": "string",
+            "source": "loan.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Annual income ($)": {
+            "name": "Annual income ($)",
+            "dataType": "number",
+            "source": "personal.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Home ownership": {
+            "name": "Home ownership",
+            "dataType": "string",
+            "source": "personal.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Job title": {
+            "name": "Job title",
+            "dataType": "string",
+            "source": "personal.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Length of employment (years)": {
+            "name": "Length of employment (years)",
+            "dataType": "number",
+            "source": "personal.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Bankcards at >75% limit (%)": {
+            "name": "Bankcards at >75% limit (%)",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Bankruptcies": {
+            "name": "Bankruptcies",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Derogatory records": {
+            "name": "Derogatory records",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": true,
+            "secondary": true,
+            "addedToAttributes": true,
+            "addedToElaborate": false
+          },
+          "Ratio of debt payments to income": {
+            "name": "Ratio of debt payments to income",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          },
+          "Tax liens": {
+            "name": "Tax liens",
+            "dataType": "number",
+            "source": "records.csv",
+            "primary": false,
+            "secondary": true,
+            "addedToAttributes": false,
+            "addedToElaborate": false
+          }
+        },
+        "saved": [
+          {
+            "timestamp": 1639436711605,
+            "elapsed": 450304,
+            "encodings": {
+              "plotType": "Bar Chart",
+              "xVar": "Loan grade",
+              "yVar": "Annual income ($)",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [383]
+          },
+          {
+            "timestamp": 1639437106052,
+            "elapsed": 394447,
+            "encodings": {
+              "plotType": "Bar Chart",
+              "xVar": "Loan grade",
+              "yVar": "Annual income ($)",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [350, 383]
+          },
+          {
+            "timestamp": 1639437135511,
+            "elapsed": 29459,
+            "encodings": {
+              "plotType": "Bar Chart",
+              "xVar": "Loan grade",
+              "yVar": "Annual income ($)",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [350, 383]
+          },
+          {
+            "timestamp": 1639437203824,
+            "elapsed": 68313,
+            "encodings": {
+              "plotType": "Bar Chart",
+              "xVar": "Loan grade",
+              "yVar": "Annual income ($)",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [350, 383]
+          },
+          {
+            "timestamp": 1639437347834,
+            "elapsed": 144010,
+            "encodings": {
+              "plotType": "Bar Chart",
+              "xVar": "Loan grade",
+              "yVar": "Annual income ($)",
+              "axisAggType": "Average",
+              "colorVar": "",
+              "colorAggType": "Average"
+            },
+            "filters": [],
+            "selectedDataPoints": [350, 383]
+          }
+        ]
+      }
+    }
+  },
+  "post-survey": { "record": { "completed": true, "timestamp": 1639438967881, "elapsed": 1620047 } },
+  "thanks": { "record": { "completed": true, "timestamp": 1639438967883, "elapsed": 2 } },
+  "datasetOrder": ["colleges", "loans"]
+}
