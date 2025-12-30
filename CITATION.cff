@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+authors:
+- family-names: "Coscia"
+  given-names: "Adam"
+  orcid: "https://orcid.org/0000-0002-0429-9295"
+- family-names: "Suh"
+  given-names: "Ashley"
+  orcid: "https://orcid.org/0000-0001-6513-8447"
+- family-names: "Chang"
+  given-names: "Remco"
+  orcid: "https://orcid.org/0000-0002-6484-6430"
+- family-names: "Endert"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-6914-610X"
+title: "Preliminary Guidelines For Combining Data Integration and Visual Data Analysis"
+version: 0.1.0
+doi: 10.1109/TVCG.2023.3334513
+date-released: 2024-03-08
+url: "https://adamcoscia.com/papers/guidelines/"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Coscia"
+    given-names: "Adam"
+    orcid: "https://orcid.org/0000-0002-0429-9295"
+  - family-names: "Suh"
+    given-names: "Ashley"
+    orcid: "https://orcid.org/0000-0001-6513-8447"
+  - family-names: "Chang"
+    given-names: "Remco"
+    orcid: "https://orcid.org/0000-0002-6484-6430"
+  - family-names: "Endert"
+    given-names: "Alex"
+    orcid: "https://orcid.org/0000-0002-6914-610X"
+  doi: "10.1109/TVCG.2023.3334513"
+  journal: "IEEE Transactions on Visualization and Computer Graphics"
+  start: 6678
+  end: 6690
+  title: "Preliminary Guidelines For Combining Data Integration and Visual Data Analysis"
+  issue: 10
+  volume: 30
+  year: 2024

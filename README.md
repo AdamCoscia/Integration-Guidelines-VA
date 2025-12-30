@@ -12,7 +12,7 @@ This code and data accompany the research paper:
 
 **[Preliminary Guidelines For Combining Data Integration and Visual Data Analysis][paper]**  
 <span style="opacity: 70%">Adam Coscia, Ashley Suh, Remco Chang, Alex Endert</span>  
-_IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023 (to appear)_  
+_IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024_  
 | [📖 Paper][paper] | [🎞️ Video][video] | [📚 Data][data] |
 
 ## What did we study?
@@ -90,14 +90,14 @@ Alex Endert.
 To learn more about our study, please read our [research paper][paper] (published in [IEEE TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)).
 
 ```bibtex
-@article{Coscia:2023:Guidelines,
+@article{Coscia:2024:Guidelines,
   author={Coscia, Adam and Suh, Ashley and Chang, Remco and Endert, Alex},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
-  title={Preliminary Guidelines For Combining Data Integration and Visual Data Analysis},
-  year={2023},
-  volume={},
-  number={},
-  pages={1-13},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Preliminary Guidelines for Combining Data Integration and Visual Data Analysis}, 
+  year={2024},
+  volume={30},
+  number={10},
+  pages={6678-6690},
   doi={10.1109/TVCG.2023.3334513}
 }
 ```
